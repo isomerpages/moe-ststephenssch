@@ -1,6 +1,17 @@
 logo: /images/sss-logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About us
+    url: /permalink
+    sublinks: []
+  - title: Lasallian Culture
+    url: /permalink
+    sublinks: []
+  - title: Academic Programmes
+    url: /permalink
+    sublinks: []
+  - title: For Students
+    url: /permalink
+    sublinks: []
+  - title: Parents & Partners
+    url: /permalink
+    sublinks: []
