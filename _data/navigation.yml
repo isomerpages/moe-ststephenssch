@@ -37,8 +37,26 @@ links:
       - title: 65th Anniversary Microsite
         url: /lasallian-culture/65th-anniversary-microsite/
   - title: Academic Programmes
-    url: /permalink
-    sublinks: []
+    url: /academic-programmes/english/
+    sublinks:
+      - title: English
+        url: /academic-programmes/english/
+      - title: Maths
+        url: /academic-programmes/maths/
+      - title: Science
+        url: /academic-programmes/science/
+      - title: Mother Tongue
+        url: /academic-programmes/mother-tongue/
+      - title: Aesthetics
+        url: /academic-programmes/aesthetics/
+      - title: CCE
+        url: /academic-programmes/cce/
+      - title: ICT
+        url: /academic-programmes/ict/
+      - title: Physical Education
+        url: /academic-programmes/physical-education/
+      - title: Reading
+        url: /academic-programmes/reading/
   - title: For Students
     url: /permalink
     sublinks: []
