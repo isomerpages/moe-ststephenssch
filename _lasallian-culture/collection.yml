@@ -2,6 +2,7 @@ collections:
   lasallian-culture:
     output: true
     order:
+      - Positive Education.md
       - Lasallian Network.md
       - CBS Schools.md
       - 65th Anniversary Microsite.md
