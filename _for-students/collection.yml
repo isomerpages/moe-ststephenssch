@@ -2,5 +2,6 @@ collections:
   for-students:
     output: true
     order:
+      - Uniformed Groups.md
       - Our Achievement Records 2019.md
       - Student Leadership.md
