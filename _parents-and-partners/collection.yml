@@ -2,4 +2,5 @@ collections:
   parents-and-partners:
     output: true
     order:
+      - HBL Technical Support.md
       - MOE Sexuality Education.md
