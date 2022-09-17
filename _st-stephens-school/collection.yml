@@ -2,6 +2,7 @@ collections:
   st-stephens-school:
     output: true
     order:
+      - Staff/School Management.md
       - Staff/Administrative and Support Staff.md
       - Staff/Form Teachers.md
       - Staff/Mother Tongue Teachers.md
