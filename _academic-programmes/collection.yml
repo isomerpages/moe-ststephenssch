@@ -2,6 +2,7 @@ collections:
   academic-programmes:
     output: true
     order:
+      - Mother Tongue.md
       - Aesthetics.md
       - Character Citizenship Education.md
       - InfoComm Technology.md
