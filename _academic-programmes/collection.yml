@@ -1,4 +1,5 @@
 collections:
   academic-programmes:
     output: true
-    order: []
+    order:
+      - Reading.md
