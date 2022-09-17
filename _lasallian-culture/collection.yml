@@ -2,5 +2,6 @@ collections:
   lasallian-culture:
     output: true
     order:
+      - Lasallian Network.md
       - CBS Schools.md
       - 65th Anniversary Microsite.md
