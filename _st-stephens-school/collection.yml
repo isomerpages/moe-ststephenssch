@@ -1,4 +1,5 @@
 collections:
   st-stephens-school:
     output: true
-    order: []
+    order:
+      - Waitlist 2022.md
