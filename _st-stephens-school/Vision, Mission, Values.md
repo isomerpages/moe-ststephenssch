@@ -26,8 +26,6 @@ empowering them to become <br>
 
 #### Values
 
-##### Faith, Our Foundation
-
-
+**Faith, Our Foundation**<br>
 **Service, Our Way**<br>
 **Community, Our Support**
