@@ -2,5 +2,6 @@ collections:
   st-stephens-school:
     output: true
     order:
+      - Events FB & Calendar.md
       - Our Stephenian History.md
       - Waitlist 2022.md
