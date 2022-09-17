@@ -77,5 +77,15 @@ links:
       - title: Student Leadership
         url: /for-students/student-leadership/
   - title: Parents & Partners
-    url: /permalink
-    sublinks: []
+    url: /parents-&-partners/ssoba/
+    sublinks:
+      - title: SSOBA
+        url: /parents-&-partners/ssoba/
+      - title: SPARK
+        url: /parents-&-partners/spark/
+      - title: STeP 2022
+        url: /parents-&-partners/step-2022/
+      - title: HBL Technical Support
+        url: /parents-&-partners/hbl-technical-support/
+      - title: MOE Sexuality Education
+        url: /parents-&-partners/moe-sexuality-education/
