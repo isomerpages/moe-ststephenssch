@@ -58,8 +58,24 @@ links:
       - title: Reading
         url: /academic-programmes/reading/
   - title: For Students
-    url: /permalink
-    sublinks: []
+    url: /for-students/cca/
+    sublinks:
+      - title: CCA
+        url: /for-students/cca/
+      - title: CCA Schedule 2022
+        url: /for-students/cca-schedule-2022/
+      - title: Clubs & Societies
+        url: /for-students/clubs-&-societies/
+      - title: Performing Arts
+        url: /for-students/performing-arts/
+      - title: Sports & Games
+        url: /for-students/sports-&-games/
+      - title: Uniformed Groups
+        url: /for-students/uniformed-groups/
+      - title: Our Achievement Records 2019
+        url: /for-students/our-achievement-records-2021/
+      - title: Student Leadership
+        url: /for-students/student-leadership/
   - title: Parents & Partners
     url: /permalink
     sublinks: []
