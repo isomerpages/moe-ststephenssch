@@ -2,5 +2,6 @@ collections:
   academic-programmes:
     output: true
     order:
+      - InfoComm Technology.md
       - Physical Education.md
       - Reading.md
