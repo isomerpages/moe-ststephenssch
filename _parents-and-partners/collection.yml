@@ -1,4 +1,5 @@
 collections:
   parents-and-partners:
     output: true
-    order: []
+    order:
+      - MOE Sexuality Education.md
