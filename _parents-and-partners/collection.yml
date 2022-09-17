@@ -2,6 +2,7 @@ collections:
   parents-and-partners:
     output: true
     order:
+      - SPARK.md
       - STeP 2022.md
       - HBL Technical Support.md
       - MOE Sexuality Education.md
