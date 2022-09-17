@@ -2,4 +2,5 @@ collections:
   academic-programmes:
     output: true
     order:
+      - Physical Education.md
       - Reading.md
