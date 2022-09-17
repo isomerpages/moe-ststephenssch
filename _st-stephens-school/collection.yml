@@ -2,6 +2,7 @@ collections:
   st-stephens-school:
     output: true
     order:
+      - Contact Us.md
       - Publications.md
       - Events FB & Calendar.md
       - Our Stephenian History.md
