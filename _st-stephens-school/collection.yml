@@ -2,6 +2,7 @@ collections:
   st-stephens-school:
     output: true
     order:
+      - Our School Rally.md
       - Staff/Overview.md
       - Staff/School Management.md
       - Staff/Administrative and Support Staff.md
