@@ -22,8 +22,20 @@ links:
       - title: Waitlist 2022
         url: /ststephen/waitlist-2022/
   - title: Lasallian Culture
-    url: /permalink
-    sublinks: []
+    url: /lasallian-culture/our-lasallian-heritage/
+    sublinks:
+      - title: Our Lasallian Heritage
+        url: /lasallian-culture/our-lasallian-heritage/
+      - title: Catholic Programmes
+        url: /lasallian-culture/catholic-programmes/
+      - title: Positive Education
+        url: /lasallian-culture/positive-education/
+      - title: Lasallian Network
+        url: /lasallian-culture/lasallian-network/
+      - title: CBS Schools
+        url: /lasallian-culture/cbs-schools/
+      - title: 65th Anniversary Microsite
+        url: /lasallian-culture/65th-anniversary-microsite/
   - title: Academic Programmes
     url: /permalink
     sublinks: []
