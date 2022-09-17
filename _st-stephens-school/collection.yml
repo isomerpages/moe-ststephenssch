@@ -2,4 +2,5 @@ collections:
   st-stephens-school:
     output: true
     order:
+      - Our Stephenian History.md
       - Waitlist 2022.md
