@@ -2,4 +2,5 @@ collections:
   sports-and-games:
     output: true
     order:
+      - Track and Field/Key Activities.md
       - Track and Field/.keep
