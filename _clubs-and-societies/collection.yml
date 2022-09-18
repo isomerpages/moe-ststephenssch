@@ -2,5 +2,6 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Science and Green Club/Overview.md
       - Science and Green Club/Key Activities.md
       - Science and Green Club/.keep
