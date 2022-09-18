@@ -1,0 +1,4 @@
+collections:
+  scouts:
+    output: true
+    order: []
