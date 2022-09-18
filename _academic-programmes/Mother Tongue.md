@@ -52,7 +52,7 @@ MOE ABLE programme
 
 #### Key Programmes
 
-Festival Celebrations
+**Festival Celebrations**
 
 *   Chinese New Year celebration
 *   Hari Raya celebration
@@ -60,7 +60,7 @@ Festival Celebrations
 
   
 
-Cultural and Language Exposure
+**Cultural and Language Exposure**
 
 *   Mother Tongue Fortnight and Culture Camp
 *   Mother Tongue Reading Campaign
