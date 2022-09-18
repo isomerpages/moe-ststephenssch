@@ -58,18 +58,18 @@ To develop pupils to be inquisitive & enthusiastic Science learners, equipped wi
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
 | Robotics 	| Mr Wong Siew Keong 	| wong_siew_kheong@moe.edu.sg 	| Tuesday<br><br> 	| 2:15 pm to<br>4.15 pm<br> 	| Computer lab 1 (L2-14)<br>(competition)<br><br>Computer lab 2 (L3-16)<br>(advanced)<br><br>Computer lab 3 (L4-11)<br>(Intermediate)<br><br>Library Resource (L3-13)<br>(Basic) 	|
 
-*   [Art](https://ststephens-moe-edu-sg-admin.cwp.sg/student-development/performing-arts/art)
+*   [Art](https://staging.d2cjzrom1e1f8a.amplifyapp.com/clubs-and-societies/Art/overview/)
 
-	*   [Key Activities](https://ststephens-moe-edu-sg-admin.cwp.sg/student-development/performing-arts/art/key-activities)
+	*   [Key Activities](https://staging.d2cjzrom1e1f8a.amplifyapp.com/clubs-and-societies/Art/key-activities/)
 
-*   [Media Club](https://ststephens-moe-edu-sg-admin.cwp.sg/student-development/clubs-n-societies/media-club)
+*   [Media Club](https://staging.d2cjzrom1e1f8a.amplifyapp.com/clubs-and-societies/Media-Club/overview/)
 
-	*   [Key Activities](https://ststephens-moe-edu-sg-admin.cwp.sg/student-development/clubs-n-societies/media-club/key-activities)
+	*   [Key Activities](https://staging.d2cjzrom1e1f8a.amplifyapp.com/clubs-and-societies/Media-Club/key-activities/)
 
-*   [Robotics & Science](https://ststephens.moe.edu.sg/student-development/clubs-n-societies/robotics-n-science)
+*   [Robotics & Science](https://staging.d2cjzrom1e1f8a.amplifyapp.com/clubs-and-societies/Robotics-and-Science/overview/)
 
-	*   [Key Activities](https://ststephens.moe.edu.sg/student-development/clubs-n-societies/robotics-n-science/key-activities)
+	*   [Key Activities](https://staging.d2cjzrom1e1f8a.amplifyapp.com/clubs-and-societies/Robotics-and-Science/key-activities/)
 
-*   [Science and Green Club](https://ststephens.moe.edu.sg/student-development/clubs-n-societies/science-and-green-club)
+*   [Science and Green Club](https://staging.d2cjzrom1e1f8a.amplifyapp.com/clubs-and-societies/Science-and-Green-Club/overview/)
 
-	*   [Key Activities](https://ststephens.moe.edu.sg/student-development/clubs-n-societies/science-and-green-club/key-activities)
+	*   [Key Activities](https://staging.d2cjzrom1e1f8a.amplifyapp.com/clubs-and-societies/Science-and-Green-Club/key-activities/)
