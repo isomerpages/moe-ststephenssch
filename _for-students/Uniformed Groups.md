@@ -23,6 +23,6 @@ The mission of Scouting is to contribute to the education of young people, throu
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
 | Cub Scouts 	| Mr Brandon Yip 	| brandon_yip@moe.edu.sg<br><br> 	| Friday 	| 2:15 pm to<br>4.15 pm 	| School 	|
 
-*   [Scouts](https://ststephens.moe.edu.sg/student-development/uniformed-groups/scouts)
+*   [Scouts](https://staging.d2cjzrom1e1f8a.amplifyapp.com/scouts/overview/)
 
-	*   [Key Activities](https://ststephens.moe.edu.sg/student-development/uniformed-groups/scouts/key-activities)
+	*   [Key Activities](https://staging.d2cjzrom1e1f8a.amplifyapp.com/scouts/key-activities/)
