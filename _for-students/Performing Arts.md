@@ -39,10 +39,10 @@ Enabling the boys to learn how to dance and to love dancing
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
 | Modern Dance 	|  Ms Nurul Amelia Bte Akhtiar 	| nurul_amelia_akhtiar@moe.edu.sg <br> 	| Tuesday<br>Friday 	| 2:15 pm to<br>4.15 pm 	| Dance Room<br>(ISH H3-02) 	|
 
-*   [Band](https://ststephens.moe.edu.sg/student-development/performing-arts/band)
+*   [Band](https://staging.d2cjzrom1e1f8a.amplifyapp.com/performing-arts/Band/overview/)
 
-	*   [Key Activities](https://ststephens.moe.edu.sg/student-development/performing-arts/band/key-activities)
+	*   [Key Activities](https://staging.d2cjzrom1e1f8a.amplifyapp.com/performing-arts/Band/key-activities/)
 
-*   [Dance](https://ststephens.moe.edu.sg/student-development/performing-arts/dance)
+*   [Dance](https://staging.d2cjzrom1e1f8a.amplifyapp.com/performing-arts/Dance-Club/overview/)
 
-	*   [Key Activities](https://ststephens.moe.edu.sg/student-development/performing-arts/dance/key-activities)
+	*   [Key Activities](https://staging.d2cjzrom1e1f8a.amplifyapp.com/performing-arts/Dance-Club/key-activities/)
