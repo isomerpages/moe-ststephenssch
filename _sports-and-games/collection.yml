@@ -2,6 +2,7 @@ collections:
   sports-and-games:
     output: true
     order:
+      - Floorball/Overview.md
       - Floorball/Key Activities.md
       - Floorball/.keep
       - Football/Overview.md
