@@ -1,4 +1,5 @@
 collections:
   scouts:
     output: true
-    order: []
+    order:
+      - Key Activities.md
