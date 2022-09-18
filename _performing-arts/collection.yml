@@ -2,4 +2,5 @@ collections:
   performing-arts:
     output: true
     order:
+      - Dance Club/Key Activities.md
       - Dance Club/.keep
