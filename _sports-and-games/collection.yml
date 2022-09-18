@@ -2,6 +2,7 @@ collections:
   sports-and-games:
     output: true
     order:
+      - Cricket/Overview.md
       - Cricket/Key Activities.md
       - Cricket/.keep
       - Floorball/Overview.md
