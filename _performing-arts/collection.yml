@@ -1,4 +1,5 @@
 collections:
   performing-arts:
     output: true
-    order: []
+    order:
+      - Dance Club/.keep
