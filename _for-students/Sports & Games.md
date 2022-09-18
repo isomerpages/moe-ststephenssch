@@ -108,22 +108,22 @@ Every athlete being developed in mind, body and spirit
 |:---:	|:---:	|:---:	|
 | External Sports Competitions<br>(Ad-hoc for NSG only) 	| Mr. Jansher Khan (OIC)<br><br>Selected group of teachers 	| jansher_khan@moe.edu.sg 	|
 
-*   [Badminton](https://ststephens-moe-edu-sg-admin.cwp.sg/student-development/sports-n-games/badminton)
+*   [Badminton](https://staging.d2cjzrom1e1f8a.amplifyapp.com/sports-and-games/Badminton/overview/)
 
-	*   [Key Activities](https://ststephens-moe-edu-sg-admin.cwp.sg/student-development/sports-n-games/badminton/key-activities)
+	*   [Key Activities](https://staging.d2cjzrom1e1f8a.amplifyapp.com/sports-and-games/Badminton/key-activities/)
 
-*   [Cricket](https://ststephens-moe-edu-sg-admin.cwp.sg/student-development/sports-n-games/cricket)
+*   [Cricket](https://staging.d2cjzrom1e1f8a.amplifyapp.com/sports-and-games/Cricket/overview/)
 
-	*   [Key Activities](https://ststephens-moe-edu-sg-admin.cwp.sg/student-development/sports-n-games/cricket/key-activities)
+	*   [Key Activities](https://staging.d2cjzrom1e1f8a.amplifyapp.com/sports-and-games/Cricket/key-activities/)
 
-*   [Floorball](https://ststephens-moe-edu-sg-admin.cwp.sg/student-development/sports-n-games/floorball)
+*   [Floorball](https://staging.d2cjzrom1e1f8a.amplifyapp.com/sports-and-games/Floorball/overview/)
 
-	*   [Key Activities](https://ststephens-moe-edu-sg-admin.cwp.sg/student-development/sports-n-games/floorball/key-activities)
+	*   [Key Activities](https://staging.d2cjzrom1e1f8a.amplifyapp.com/sports-and-games/Floorball/key-activities/)
 
-*   [Football](https://ststephens.moe.edu.sg/student-development/sports-n-games/football)
+*   [Football](https://staging.d2cjzrom1e1f8a.amplifyapp.com/sports-and-games/Football/overview/)
 
-	*   [Frequency of Training](https://ststephens.moe.edu.sg/student-development/sports-n-games/football/frequency-of-training)
+	*   [Frequency of Training](https://staging.d2cjzrom1e1f8a.amplifyapp.com/sports-and-games/Football/frequency-of-training/)
 
-*   [Track and Field](https://ststephens-moe-edu-sg-admin.cwp.sg/student-development/sports-n-games/track-and-field)
+*   [Track and Field](https://staging.d2cjzrom1e1f8a.amplifyapp.com/sports-and-games/Track-and-Field/overview/)
 
-	*   [Key Activities](https://ststephens-moe-edu-sg-admin.cwp.sg/student-development/sports-n-games/track-and-field/key-activities)
+	*   [Key Activities](https://staging.d2cjzrom1e1f8a.amplifyapp.com/sports-and-games/Track-and-Field/key-activities/)
