@@ -2,6 +2,7 @@ collections:
   sports-and-games:
     output: true
     order:
+      - Football/Overview.md
       - Football/Frequency of Training.md
       - Football/.keep
       - Track and Field/Overview.md
