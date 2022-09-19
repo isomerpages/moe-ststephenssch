@@ -9,13 +9,11 @@ description: ""
 
 * * *
 
-* * *
 
   
 
 2.       The goals of Sexuality Education are:  
 
-#### 
 
 (i)             To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
 
@@ -29,7 +27,6 @@ description: ""
 
 * * *
 
-* * *
 
 3.       The key messages of Sexuality Education are:  
 
@@ -45,13 +42,11 @@ description: ""
 
 * * *
 
-* * *
 
 You may click [https://www.moe.gov.sg/programmes/sexuality-education](https://www.moe.gov.sg/programmes/sexuality-education)) for more information on MOE Sexuality Education.
 
 * * *
 
-* * *
 
   
 
@@ -59,13 +54,11 @@ You may click [https://www.moe.gov.sg/programmes/sexuality-education](https://w
 
 * * *
 
-* * *
 
 You may click [https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach)) for more information on the scope of Sexuality Education in the school curriculum.
 
 * * *
 
-* * *
 
   
 
@@ -88,7 +81,6 @@ b.       Form Teacher Guidance Period (FTGP)
 
 * * *
 
-* * *
 
   
 
@@ -96,7 +88,6 @@ b.       Form Teacher Guidance Period (FTGP)
 
 * * *
 
-* * *
 
   
 
@@ -104,7 +95,6 @@ b.       Form Teacher Guidance Period (FTGP)
 
 * * *
 
-* * *
 
 **The following Sexuality Education lessons will be taught in 2022:**
 
@@ -116,7 +106,6 @@ b.       Form Teacher Guidance Period (FTGP)
 
 * * *
 
-* * *
 
 The following Sexuality Education lessons will be taught in 2022:  
 **Primary 6**
