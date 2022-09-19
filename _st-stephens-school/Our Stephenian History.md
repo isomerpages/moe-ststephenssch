@@ -15,11 +15,11 @@ description: ""
 
 In 1953, Rev. Bro. Lawrence Robles became the Brother Director of St. Patrick's School. He purchased a piece of land for the development of a primary and feeder school for St. Patrick's. The construction of the school building began in 1956 and was completed in 1957. The new school was named, appropriately, St. Stephen's School, after Rev. Bro. Stephen, whose patron saint, St. Stephen, was the first martyr of Christianity.
 
-<img src="/images/osh2.png" style="width:283px;height:380px;margin-left:15px;" align = "right"> On 7 May 1957, the Right Rev. Michael Olocomendy, Archbishop of Singapore blessed St. Stephen's School. The school was officially opened in September of the same year by Mr. Maclellan, the Director of Education.
+<img src="/images/osh2.png" style="width:283px;height:380px;margin-left:15px;" align = "right"> <br><br> On 7 May 1957, the Right Rev. Michael Olocomendy, Archbishop of Singapore blessed St. Stephen's School. The school was officially opened in September of the same year by Mr. Maclellan, the Director of Education.
 
   
 
-The First Principal was Mr. Edward Reinford. The leadership succession is as follows:
+The First Principal was Mr. Edward Reinford. The leadership succession is as follows: <br><br><br><br>
 
 <img src="/images/osh3.png" style="width:350px;height:380px;margin-left:15px;" align = "right">  1957 - 1960         Mr. Edward Reinford  
 1961 - 1966         Mr. T J D Campbell  
@@ -40,9 +40,9 @@ The First Principal was Mr. Edward Reinford. The leadership succession is as fol
   
 During the two-year development period of the new school building, St. Stephen's was held at the old Siglap Secondary School building in Cheviot Hill. In 2001, pupils and staff began the year in the newly completed building.
 
-<img src="/images/osh5.png" style="width:310px;height:310px;margin-left:15px;" align = "right"> Today, St. Stephen's School stands as a majestic four-storey institution amidst the residential landscape of Siglap. The school caters to pupils of different races and religions living in Siglap, Marine Parade, Chai Chee, Bedok, Tampines and Pasir Ris.
+<img src="/images/osh5.png" style="width:310px;height:310px;margin-left:15px;" align = "right"> Today, St. Stephen's School stands as a majestic four-storey institution amidst the residential landscape of Siglap. The school caters to pupils of different races and religions living in Siglap, Marine Parade, Chai Chee, Bedok, Tampines and Pasir Ris. <br><Br><br><br><br>
 
-<img src="/images/osh6.png" style="width:243px;height:400px;margin-right:15px;" align = "left"> In 2003, St. Stephen's School, with a pupil population of about 1450, moved from a double to single-session model. St. Stephen's School was officially opened on 26 September 2003 by our old boy, BG (NS) George Yeo, Minister for Trade and Industry and Member of Parliament for Aljunied GRC.  
+<img src="/images/osh6.png" style="width:243px;height:340px;margin-right:15px;" align = "left"> In 2003, St. Stephen's School, with a pupil population of about 1450, moved from a double to single-session model. St. Stephen's School was officially opened on 26 September 2003 by our old boy, BG (NS) George Yeo, Minister for Trade and Industry and Member of Parliament for Aljunied GRC.  
   
 In 2007, the school celebrated its 50th Anniversary with a series of events such as a Sport Fiesta, a concert showcasing diverse pupil talent and culminated in the 50th Anniversary Dinner on the eve of Teachers' day, which saw Stephenians, both past and present gathered together for an evening of memories.
 
