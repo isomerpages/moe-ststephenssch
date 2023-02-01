@@ -3,7 +3,7 @@ title: HBL Technical Support
 permalink: /parents-and-partners/hbl-technical-support/
 description: ""
 ---
-### HBL Technical Support
+###  Technical Support
 
 1\. During school operating hours, contact the School-based Helpline for all queries (SLS access matters, etc.
 
@@ -32,3 +32,6 @@ We will get back to you with the new password soon.
 Guide to SLS Account Management
 
 [Guide to SLS Account Management. P2 to P6 Students.pdf](/files/Guide%20to%20SLS.pdf)
+
+FAQs for STeP
+[FAQs onSTeP](/files/Jan%202023%20STeP%20FAQs.pdf)
