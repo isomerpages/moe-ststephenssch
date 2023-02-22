@@ -24,10 +24,9 @@ third_nav_title: Staff
 | **Operations Support Officers**   |
 | Mdm Lim Siew Kheng Sally<br>Mr Yusoff<br>Mdm Sukesi<br>Mdm Revathi<br>Ms Anne Phua 	|  	|
 |  	|  	|
-| **ICT Executive**   |
-| Mr AS Mohamed Siddiq 	|  	|
+| **ICT Executive**<br> Mr AS Mohamed Siddiq 	|  	|
 |  	|  	|
-| **Desktop Engineers (DE)**  |
+| **Desktop Engineers (DE)**  | |
 | Mr Mohd Riduan Bin Ismail<br>Mr Muhammad Farhan Bin Md Nor 	|  	|
 |  	|  	|
 | **Library Assistant**<br><br>Mdm Jamalia Junabi 	|  	|
