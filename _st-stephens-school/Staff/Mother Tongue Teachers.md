@@ -11,24 +11,24 @@ third_nav_title: Staff
 |  	|  	|
 |---	|---	|
 | Mdm Chan Joo Eng 	| chan_joo_eng@moe.edu.sg 	|
-| Ms Choy Lai Yoke 	| choy_lai_yoke@moe.edu.sg 	|
+| Mrs Chew Meng Lee Christin  	| chua_meng_lee@moe.edu.sg  	|
 | Ms Fong Jie Min	 	| fong_jie_min@moe.edu.sg 	|
 | Mdm Goh Ka Bee 	| goh_ka_bee@moe.edu.sg  	|
 | Mdm Huang Jie 	| huang_jie@moe.edu.sg 	|
-| Mdm Pee May May  	| pee_may_may@moe.edu.sg 	|
 | Mdm Lang Jia Jing  	| lang_jia_jing@moe.edu.sg  	|
+| Mrs Isabelle Lim Niam Chin  	| tay_niam_chin@moe.edu.sg  	|
 | Mr Loh Hon Kee	  	| loh_hon_kee@moe.edu.sg   	|
 | Mdm Ouw Li Shan  	| ouw_li_shan@moe.edu.sg  	|
-| Ms Thia Lee Lian  	| thia_lee_lian@moe.edu.sg  	|
-| Mdm Qian Bing Yun  	| qian_bing_yun@moe.edu.sg  	|
-| Ms Tay Niam Chin  	| tay_niam_chin@moe.edu.sg  	|
-| Mdm Tang Sheen Yit  	| tang_sheen_yit@moe.edu.sg 	|
+| Mdm Pee May May  	| pee_may_may@moe.edu.sg 	|
 | Ms Tan Tse See  	| tan_tse_see@moe.edu.sg  	|
 | Mr Tan Yi Ru  	| tan_yi_ru@moe.edu.sg  	|
+| Ms Thia Lee Lian  	| thia_lee_lian@moe.edu.sg  	|
 | Ms Wong See Ting  	| wong_see_ting@moe.edu.sg  	|
 | Mdm Yang Yiqun	  	| yang_yiqun@moe.edu.sg  	|
 | Mr Brandon Yip  	| brandon_yip@moe.edu.sg    	|
+| Mdm Yuan Yingna 	| yuan_yingna@moe.edu.sg 	|
 | Mdm Zhang Li 	| zhang_li_c@moe.edu.sg  	|
+| Ms Zhang Yi  	| zhang_yi_b@moe.edu.sg 	|
 
 #### Malay Language
 
