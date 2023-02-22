@@ -17,10 +17,10 @@ third_nav_title: Staff
 | Ms Norshahidah Bte Aziz	| P1 Diligence	| norshahidah_aziz@moe.edu.sg	|
 |   	|   	|   	|
 | Mr Abdul Rauf Bin AA Rahmatulla| P1 Empathy	| abdul_rauf_a_a@moe.edu.sg	|
-| Mrs Fiona Wong	| P1 Empathy	| Shi_Kaili_Fiona@moe.edu.sg	|
+| Mrs Fiona Wong	| P1 Empathy	| shi_kaili_fiona@moe.edu.sg	|
 |   	|   	|   	|
 | Ms Fong Jie Min	| P1 Fortitude	| fong_jie_min@moe.edu.sg	|
-| Mr Ang Chee Peng	| P1 Fortitude	| Ang_Chee_Peng@moe.edu.sg	|
+| Mr Ang Chee Peng	| P1 Fortitude	| ang_chee_peng@moe.edu.sg	|
 |   	|   	|   	|
 | Mrs Veronica Goh	| P1 Gratitude	| cheong_lee_ling@moe.edu.sg	|
 | Mdm Chan Joo Eng	| P1 Gratitude	| chan_joo_eng@moe.edu.sg	|
@@ -32,7 +32,7 @@ third_nav_title: Staff
 | Mrs Juslyn Lim 	| P1 Integrity	| foo_mei_yih@moe.edu.sg	|
 |   	|   	|   	|
 | Mrs Charmaine Yoo	| P1 Joy	| loh_hui_yan_charmaine@moe.edu.sg	|
-| Mr Budi Sim	| P1 Joy	| Budi_Sim_Jong_Fu@moe.edu.sg	|
+| Mr Budi Sim	| P1 Joy	| budi_sim_jong_fu@moe.edu.sg	|
 
 #### Primary 2
 
