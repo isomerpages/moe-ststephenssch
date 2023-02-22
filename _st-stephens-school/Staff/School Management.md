@@ -9,8 +9,8 @@ third_nav_title: Staff
 |  	|  	|
 |---	|---	|
 | **Principal**<br>Mr Timothy Goh 	| timothy_goh@schools.gov.sg 	|
-| **Vice Principal Academic**<br>Mr Heng Tow Yang 	| heng_tow_yang@schools.gov.sg 	|
-| **Vice Principal Administration**<br>Mr James Chew 	| james_chew_soo_kwang@schools.gov.sg 	|
+| **Vice-Principal Academic**<br>Mr Heng Tow Yang 	| heng_tow_yang@schools.gov.sg 	|
+| **Vice-Principal Administration**<br>Mr James Chew 	| james_chew_soo_kwang@schools.gov.sg 	|
 
 #### Heads of Department
 
