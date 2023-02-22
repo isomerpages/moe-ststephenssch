@@ -7,7 +7,7 @@ description: ""
 
 #### Subject Philosophy
 
-The subject philosophy is to empower all learners attain foundational and functional literacy, so that English can be readily employed in everyday life for various purposes. In addition to functional literacy, it is also to enable the majority of our pupils attain competence in speech, reading and writing, so that they may find the learning of English joyful and take the learning to greater heights.
+The subject philosophy is to empower all learners to attain foundational and functional literacy, so that English can be readily employed in everyday life for various purposes. In addition to functional literacy, it is also to enable the majority of our pupils to attain competence in speech, reading and writing, so that they may find joy in learning English and take their learning to greater heights.
 
   
 
@@ -33,7 +33,7 @@ The STELLAR programme aims to strengthen language and reading skills as well as 
 
   
 
-STELLAR also worked hand-in-hand with the school-based curriculum to provide drilling and rigour to the learning and acquisition of language skills.
+STELLAR also complements the school-based curriculum to provide drilling and rigour to the learning and acquisition of language skills.
 
   
 
@@ -44,6 +44,7 @@ STELLAR also worked hand-in-hand with the school-based curriculum to provide dri
 *   Reader’s Theatre
 *   Storytelling
 *   E-book writing enrichment
+*   myON reading platform
 *   Literacy support programmes (LSP, SDR, RRP)
 *   Learning Journeys
 *   Reading Rewards Programme
