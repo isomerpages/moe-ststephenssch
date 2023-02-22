@@ -4,7 +4,7 @@ permalink: /ststephen/staff/administrative-and-support-staff/
 description: ""
 third_nav_title: Staff
 ---
-### Administrative and Support Staff
+### Administrative and Support StaffCancel changes
 
 |  	|  	|
 |---	|---	|
@@ -27,5 +27,5 @@ third_nav_title: Staff
 | **ICT Executive**<br> Mr AS Mohamed Siddiq 	|  	|
 |  	|  	|
 | **Desktop Engineers (DE)**<br> Mr Mohd Riduan Bin Ismail<br>Mr Muhammad Farhan Bin Md Nor 	|  	|
-|---  |---  |
+|   |   |
 | **Library Assistant**<br>Mdm Jamalia Junabi 	|  	|
