@@ -3,7 +3,6 @@ title: Events FB & Calendar
 permalink: /ststephen/events-fb-and-calendar/
 description: ""
 ---
-
 ### Events FB &amp; Calendar
 
 Throughout the calendar year, we have a whole host of events.
