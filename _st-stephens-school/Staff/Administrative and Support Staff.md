@@ -8,7 +8,7 @@ third_nav_title: Staff
 
 |  	|  	|
 |---|---|
-|**Administration Manager**<br>Mr Tan Yong Seng <br>|<br>tan_yong_seng@schools.gov.sg<br>|   |
+|**Administration Manager**<br>Mr Tan Yong Seng|<br>tan_yong_seng@schools.gov.sg
 
 |  	|  	|
 |---|---|
