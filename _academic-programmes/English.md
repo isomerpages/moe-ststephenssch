@@ -7,7 +7,7 @@ description: ""
 
 #### Subject Philosophy
 
-The subject philosophy is to empower all learners to attain foundational and functional literacy, so that English can be readily employed in everyday life for various purposes. In addition to functional literacy, it is also to enable the majority of our pupils to attain competence in speech, reading and writing, so that they may find joy in learning English and take their learning to greater heights.
+The subject philosophy is to empower all learners to attain foundational and functional literacy, so that English can be readily employed in everyday life for various purposes. In addition to functional literacy, it is also to enable the majority of our pupils to attain competence in speaking, reading and writing, so that they may find joy in learning English and take their learning to greater heights.
 
   
 
