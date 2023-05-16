@@ -7,13 +7,17 @@ third_nav_title: Staff
 ### Administrative and Support Staff
 
 |  	|  	|
-|---	|---	|
+|---|---|
+|**Administration Manager**<br>Mr Tan Yong Seng <br>|<br>tan_yong_seng@schools.gov.sg<br>|   |
 
-| **Administration Manager**<br>Mr Tan Yong Seng 	| tan_yong_seng@schools.gov.sg 	|
-| **Operations Manager**<br><br>Mr Nicholli Ee 	| nicholli_ee@schools.gov.sg 	|
-| **Corporate Support Officers**<br><br><br>Ms Elizabeth Abraham<br>Ms Chong Kai Lin (Christina)<br>Ms Nurul Hidayah Bte Mohamed Yatım<br>Mdm Juminah 	| <br><br><br>elizabeth_abraham@moe.edu.sg<br>chong_kai_lin@moe.edu.sg <br>nurul_hidayah_mohd_yatim@moe.edu.sg 	|
-| **School Programme Executive**<br><br>Ms Nirosshini D/O Tamothiran 	| nirosshini_tamothiran@moe.edu.sg 	|
-| **Operations Support Officers**<br><br>Mdm Lim Siew Kheng Sally<br>Mr Yusoff<br>Mdm Sukesi<br>Mdm Revathi<br>Ms Anne Phua 	|  	|
-| **ICT Executive**<br><br><br>Mr AS Mohamed Siddiq 	|  	|
-| **Desktop Engineers (DE)**<br><br><br>Mr Mohd Riduan Bin Ismail<br>Mr Muhammad Farhan Bin Md Nor  	|  	|
-| **Library Assistant**<br><br>Mdm Jamalia Junabi 	|  	|
+|  	|  	|
+|---|---|
+|**Operations Manager**<br>Mr Nicholli Ee<br>| <br> nicholli_ee@schools.gov.sg<br>|   |
+
+|  	|  	|
+|---|---|
+|**Corporate Support Officers**<br>Ms Elizabeth Abraham<br>Ms Chong Kai Lin (Christina)<br>Ms Nurul Hidayah Bte Mohamed Yatım <br>Ms Nirosshini D/O Tamothiran<br>Mdm Juminah<br><br>| <br>elizabeth_abraham@moe.edu.sg<br>chong_kai_lin@moe.edu.sg <br>nurul_hidayah_mohd_yatim@moe.edu.sg 	<br> 	nirosshini_tamothiran@moe.edu.sg<br><br>|   |
+| **Operations Support Officers**<br>Mdm Lim Siew Kheng Sally<br>Mr Yusoff<br>Mdm Sukesi<br>Mdm Revathi<br>Ms Anne Phua<br><br>| |
+| **ICT Executive**<br>Nil<br><br>|  	|
+| **Desktop Engineers (DE)**<br>Mr Mohd Riduan Bin Ismail<br>Mr Muhammad Farhan Bin Md Nor <br><br>|  	|
+| **Library Assistant**<br>Mdm Jamalia Junabi 	|  	|
