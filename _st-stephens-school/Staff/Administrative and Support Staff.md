@@ -8,11 +8,11 @@ third_nav_title: Staff
 
 |  	|  	|
 |---|---|
-|**Administration Manager**<br>Mr Tan Yong Seng|<br>tan_yong_seng@schools.gov.sg
+|**Administration Manager**<br>Mr Tan Yong Seng|<br>tan_yong_seng@schools.gov.sg<br>|   |
 
 |  	|  	|
 |---|---|
-|**Operations Manager**<br>Mr Nicholli Ee<br>| <br> nicholli_ee@schools.gov.sg<br>|   |
+|**Operations Manager**<br>Mr Nicholli Ee| <br> nicholli_ee@schools.gov.sg<br>|   |
 
 |  	|  	|
 |---|---|
