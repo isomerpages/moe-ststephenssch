@@ -1,6 +1,6 @@
 title: St Stephen's School
 url: https://ststephens.moe.edu.sg
-favicon: /images/sss-logo.png
+favicon: /images/sss_logomark.png
 colors:
   primary-color: "#084924"
   secondary-color: "#112b64"
@@ -51,8 +51,9 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2cjzrom1e1f8a.amplifyapp.com
 prod: https://master.d2cjzrom1e1f8a.amplifyapp.com
-shareicon: /images/sss-logo.png
+shareicon: ""
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
