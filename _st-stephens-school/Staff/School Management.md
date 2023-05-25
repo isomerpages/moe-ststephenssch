@@ -43,7 +43,7 @@ third_nav_title: Staff
 | **P1**|Ms Norshahidah Aziz  	| norshahidah_aziz@moe.edu.sg  	|
 | **P2**|Mdm Pee May May 	| pee_may_may@moe.edu.sg 	|
 | **P3**|Ms Nuraini Abdul Samat 	| nuraini_abdul_samat@moe.edu.sg 	|
-| **P4**|Mrs Belle Taw  	|taw_ai_hiang@moe.edu.sg 	|
+| **P4**|Mdm Belle Taw  	|taw_ai_hiang@moe.edu.sg 	|
 | **P5**|Mdm Yasotha Loganadan 	|yasotha_loganadan@moe.edu.sg 	|
 | **P6**|Ms Elizabeth Lee Norlawati 	| lee_elizabeth_norlawati@moe.edu.sg 	|
 
