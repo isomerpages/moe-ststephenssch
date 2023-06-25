@@ -12,6 +12,7 @@ third_nav_title: Staff
 |---	|---	|
 | Mdm Chan Joo Eng 	| chan_joo_eng@moe.edu.sg 	|
 | Mrs Chew Meng Lee Christin  	| chua_meng_lee@moe.edu.sg  	|
+| Mdm Choo Huiyun 	| choo_huiyun@moe.edu.sg 	|
 | Ms Fong Jie Min	 	| fong_jie_min@moe.edu.sg 	|
 | Mdm Goh Ka Bee 	| goh_ka_bee@moe.edu.sg  	|
 | Mdm Huang Jie 	| huang_jie@moe.edu.sg 	|
@@ -22,6 +23,7 @@ third_nav_title: Staff
 | Mdm Pee May May  	| pee_may_may@moe.edu.sg 	|
 | Ms Tan Tse See  	| tan_tse_see@moe.edu.sg  	|
 | Mr Tan Yi Ru  	| tan_yi_ru@moe.edu.sg  	|
+| Mdm Teo Siok Hoon Candy 	| teo_siok_hoon_candy@moe.edu.sg 	|
 | Ms Thia Lee Lian  	| thia_lee_lian@moe.edu.sg  	|
 | Ms Wong See Ting  	| wong_see_ting@moe.edu.sg  	|
 | Mdm Yang Yiqun	  	| yang_yiqun@moe.edu.sg  	|
