@@ -1,6 +1,6 @@
 ---
 title: CCA Schedule
-permalink: /for-students/cca-schedule-2022/
+permalink: /for-students/cca-schedule/
 description: ""
 ---
 ### CCA Schedule
