@@ -1,9 +1,9 @@
 ---
-title: CCA Schedule 2022
+title: CCA Schedule
 permalink: /for-students/cca-schedule-2022/
 description: ""
 ---
-### CCA Schedule 2022
+### CCA Schedule
 
 | NO 	| DOMAIN 	| CCA 	| TRAINING DAYS 	| TIME 	| Venue 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
