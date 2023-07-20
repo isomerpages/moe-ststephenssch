@@ -3,7 +3,7 @@ title: Admission
 permalink: /ststephen/waitlist-2023/
 description: ""
 ---
-#### Waitlist 2023
+#### Admission to St Stephen's School
 
 Dear Parents/Guardians,
 
