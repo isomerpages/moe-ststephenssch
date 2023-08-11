@@ -16,7 +16,7 @@ third_nav_title: Staff
 | Mdm Suhaili Abdul Shukoor 	| suhaili_abdul_shukoor@moe.edu.sg 	|
 | Miss Siti Nur Ruhaya 	| siti_nur_ruhaya_rizal@moe.edu.sg 	|
 | Miss Nurzafirah Binte Mohamad Zainal 	| nurzafirah_mohamad_zainal@moe.edu.sg 	|
-| Ms Faiqah Binte Irwan Shah Abdullah	| siti_nur_ruhaya_rizal@moe.edu.sg 	|
+| Ms Faiqah Binte Irwan Shah Abdullah	| faiqah_irwan_shah_abdullah@moe.edu.sg	|
 
 
 #### Learning Support Coordinators
