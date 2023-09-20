@@ -4,7 +4,9 @@ collections:
     order:
       - SSOBA.md
       - SPARK.md
-      - STeP%204%20July%202023.pdf
-      - STeP%20Parents%20Information%20Booklet%20(2023).pdf
+      - title: STeP (Stephenian Technology Programme)
+        url: /files/STeP%204%20July%202023.pdf
+      - title: STeP Information Booklet
+        url: /files/STeP%20Parents%20Information%20Booklet%20(2023).pdf
       - HBL Technical Support.md
       - MOE Sexuality Education.md
