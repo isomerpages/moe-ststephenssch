@@ -3,6 +3,7 @@ title: Form Teachers
 permalink: /ststephen/staff/form-teachers/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 ### Form Teachers
 
@@ -11,7 +12,6 @@ third_nav_title: Staff
 | Name 	| Class 	| Email 	|
 |---	|---	|---	|
 | Ms Shanelle Raveena Ramiah	| P1 Courage	| shanelle_raveena_ramiah@moe.edu.sg	|
-| Ms Ashley Chong	| P1 Courage	| penny_ashley_chong@moe.edu.sg	|
 |   	|   	|   	|
 | Ms Belle Koh	| P1 Diligence	| belle_koh@moe.edu.sg	|
 | Ms Norshahidah Bte Aziz	| P1 Diligence	| norshahidah_aziz@moe.edu.sg	|
@@ -136,8 +136,6 @@ third_nav_title: Staff
 
 | Name 	| Class 	| Email 	|
 |---	|---	|---	|
-| Mrs Pakkiam Sandran	| P5 Humility	| pakkiam_etti_goundan@moe.edu.sg   |
-|  	|  	|  	|
 | Mrs Christine Nyoman	| P6 Courage	| tan_lay_koon_christine@moe.edu.sg   |
 | Mdm Nicole Anne Tan	| P6 Courage	| tan_nicole_anne@moe.edu.sg   |
 |  	|  	|  	|
