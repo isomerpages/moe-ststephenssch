@@ -12,7 +12,6 @@ variant: markdown
 | Name 	| Class 	| Email 	|
 |---	|---	|---	|
 | Ms Shanelle Raveena Ramiah	| P1 Courage	| shanelle_raveena_ramiah@moe.edu.sg	|
-| Ms Ashley Chong	| P1 Courage	| penny_ashley_chong@moe.edu.sg	|
 |   	|   	|   	|
 | Ms Belle Koh	| P1 Diligence	| belle_koh@moe.edu.sg	|
 | Ms Norshahidah Bte Aziz	| P1 Diligence	| norshahidah_aziz@moe.edu.sg	|
