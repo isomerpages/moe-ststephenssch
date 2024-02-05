@@ -11,7 +11,8 @@ variant: markdown
 
 | Name 	| Class 	| Email 	|
 |---	|---	|---	|
-| Ms Shanelle Raveena Ramiah	| P1 Courage	| shanelle_raveena_ramiah@moe.edu.sg	|
+|Mrs Isabelle Lim Niam Chin|P1 Courage |tay_niam_chin@schools.gov.sg
+|Ms Haslindah Binte Ab Rahman	| P1 Courage	| HASLINDAH_AB_RAHMAN@SCHOOLS.GOV.SG	|
 |   	|   	|   	|
 | Ms Belle Koh	| P1 Diligence	| belle_koh@moe.edu.sg	|
 | Ms Norshahidah Bte Aziz	| P1 Diligence	| norshahidah_aziz@moe.edu.sg	|
@@ -20,9 +21,9 @@ variant: markdown
 | Mrs Fiona Wong	| P1 Empathy	| shi_kaili_fiona@moe.edu.sg	|
 |   	|   	|   	|
 | Ms Fong Jie Min	| P1 Fortitude	| fong_jie_min@moe.edu.sg	|
-| Mr Ang Chee Peng	| P1 Fortitude	| ang_chee_peng@moe.edu.sg	|
+| Mr Ang Chee Peng	| P1 Fortitude	| ang_chee_peng@moe.edu.sg|
 |   	|   	|   	|
-| Mrs Veronica Goh	| P1 Gratitude	| cheong_lee_ling@moe.edu.sg	|
+| Mrs Veronica Goh	| P1 Gratitude	| cheong_lee_ling@moe.edu.sg|
 | Mdm Chan Joo Eng	| P1 Gratitude	| chan_joo_eng@moe.edu.sg	|
 |   	|   	|   	|
 | Mdm Huang Jie		| P1 Humility	| huang_jie@moe.edu.sg	|
