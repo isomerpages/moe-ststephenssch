@@ -72,7 +72,7 @@ variant: markdown
 | Mdm Hanifa Masdawood | P3 Courage	|    |
 |  	|  	|  	|
 | Mr Taufiq Izzudin Bin Jamaludin 	| P3 Diligence	| TAUFIQ_IZZUDIN_JAMALUDIN@SCHOOLS.GOV.SG   |
-| Mrs Marion Santa Maria 	| P3 Diligence	|    |
+| Mrs Marion Santa Maria 	| P3 Diligence	|  marion_santa_maria@moe.edu.sg  |
 |  	|  	|  	|
 | Mrs Jaysree Ravindaran	| P3 Empathy	| JAYSREE_KRISHNASAMY@SCHOOLS.GOV.SG|
 | Mdm Choo Huiyun	| P3 Empathy	|  |
@@ -94,23 +94,23 @@ variant: markdown
 
 | Name 	| Class 	| Email 	|
 |---	|---	|---	|
-| Mr Elias Chiang Yong Jian	| P4 Courage| tay_lei_yi@moe.edu.sg   |
-| Ms Candy Teo Siok Hoon | P4 Courage| yuan_yingna@moe.edu.sg   |
+| Mr Elias Chiang Yong Jian	| P4 Courage| CHIANG_YONG_JIAN_ELIAS@SCHOOLS.GOV.SG   |
+| Ms Candy Teo Siok Hoon | P4 Courage|    |
 |  	|  	|  	|
-| Mdm Quah Swee Bee 	| P4 Diligence| leraine_leow@moe.edu.sg   |
-| Mrs Geraldine Pereira 	| P4 Diligence| leraine_leow@moe.edu.sg   |
+| Mdm Quah Swee Bee 	| P4 Diligence| QUAH_SWEE_BEE@SCHOOLS.GOV.SG   |
+| Mrs Geraldine Pereira 	| P4 Diligence| GERALDINE_RITA_PEREIRA@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Ms Leraine Leow 	| P4 Empathy| teo_april@moe.edu.sg   |
-| Mdm Herdawati Suleiman 	| P4 Empathy| jayapal_hema@moe.edu.sg   |
+| Ms Leraine Leow 	| P4 Empathy| LERAINE_LEOW@SCHOOLS.GOV.SG   |
+| Mdm Herdawati Suleiman 	| P4 Empathy| jHERDAWATI_SULEIMAN@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Mrs Nicole Venturi 	| P4 Fortitude| jaysree_krishnasamy@moe.edu.sg   |
-| Mdm Chan Joo Eng	| P4 Fortitude	| Tan_Ai_Foong_A@moe.edu.sg   |
+| Mrs Nicole Venturi 	| P4 Fortitude| NICOLE_THAM@SCHOOLS.GOV.SG   |
+| Mdm Chan Joo Eng	| P4 Fortitude|    |
 |  	|  	|  	|
-| Ms Chloe Zhang Yi	| P4 Gratitude	| jeffrey_stephen_espehana@moe.edu.sg   |
-| Ms Nuraini Abdul Samat	| P4 Gratitude	| jeffrey_stephen_espehana@moe.edu.sg   |
+| Ms Chloe Zhang Yi	| P4 Gratitude	| ZHANG_YI_B@SCHOOLS.GOV.SG   |
+| Ms Nuraini Abdul Samat	| P4 Gratitude	| NURAINI_ABDUL_SAMAT@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Mdm Safarina Bte Satar	| P4 Humility	| chrispian_tirtamaya@moe.edu.sg   |
-| Mdm Goh Ka Bee	| P4 Humility	| marion_santa_maria@moe.edu.sg   |
+| Mdm Safarina Bte Satar	| P4 Humility	| SAFARINA_SATAR@SCHOOLS.GOV.SG   |
+| Mdm Goh Ka Bee	| P4 Humility	|  GOH_KA_BEE@SCHOOLS.GOV.SG |
 
 #### Primary 5
 
