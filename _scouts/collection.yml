@@ -1,0 +1,6 @@
+collections:
+  scouts:
+    output: true
+    order:
+      - Overview.md
+      - Key Activities.md

@@ -1,0 +1,11 @@
+collections:
+  for-students:
+    output: true
+    order:
+      - Co Curricular Activities.md
+      - CCA Schedule 2022.md
+      - Clubs & Societies.md
+      - Performing Arts.md
+      - Sports & Games.md
+      - Uniformed Groups.md
+      - Student Leadership.md

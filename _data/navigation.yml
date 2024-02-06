@@ -1,0 +1,95 @@
+logo: /images/sss-logo.png
+links:
+  - title: St Stephen's School
+    url: /ststephen/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /ststephen/principals-message/
+      - title: Vision, Mission, Values
+        url: /ststephen/vision-mission-values/
+      - title: Our School Rally
+        url: /ststephen/our-school-rally/
+      - title: Staff
+        url: /ststephen/staff/overview/
+      - title: Contact Us
+        url: /ststephen/contact-us/
+      - title: Publications
+        url: /ststephen/publications/
+      - title: Events FB & Calendar
+        url: /ststephen/events-fb-and-calendar/
+      - title: Our Stephenian History
+        url: /ststephen/our-stephenian-history/
+      - title: Admission
+        url: /ststephen/waitlist-2023/
+      - title: School Administrative Information
+        url: /files/School%20Administrative%20Information%20(15092023).pdf
+      - title: School Financial Information Table
+        url: https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary
+  - title: Lasallian Culture
+    url: /lasallian-culture/our-lasallian-heritage/
+    sublinks:
+      - title: Our Lasallian Heritage
+        url: /lasallian-culture/our-lasallian-heritage/
+      - title: Catholic Programmes
+        url: /lasallian-culture/catholic-programmes/
+      - title: Positive Education
+        url: /lasallian-culture/positive-education/
+      - title: Lasallian Network
+        url: /lasallian-culture/lasallian-network/
+      - title: CBS Schools
+        url: /lasallian-culture/cbs-schools/
+      - title: 65th Anniversary Microsite
+        url: /lasallian-culture/65th-anniversary-microsite/
+  - title: Academic Programmes
+    url: /academic-programmes/english/
+    sublinks:
+      - title: English
+        url: /academic-programmes/english/
+      - title: Maths
+        url: /academic-programmes/maths/
+      - title: Science
+        url: /academic-programmes/science/
+      - title: Mother Tongue
+        url: /academic-programmes/mother-tongue/
+      - title: Aesthetics
+        url: /academic-programmes/aesthetics/
+      - title: Character Education
+        url: /academic-programmes/cce/
+      - title: InfoComm Technology
+        url: /academic-programmes/ict/
+      - title: Physical Education
+        url: /academic-programmes/physical-education/
+      - title: Reading
+        url: /academic-programmes/reading/
+  - title: For Students
+    url: /for-students/cca/
+    sublinks:
+      - title: Co Curricular Activities
+        url: /for-students/cca/
+      - title: CCA Schedule
+        url: /for-students/cca-schedule-2022/
+      - title: Clubs & Societies
+        url: /for-students/clubs-and-societies/
+      - title: Performing Arts
+        url: /for-students/performing-arts/
+      - title: Sports & Games
+        url: /for-students/sports-and-games/
+      - title: Uniformed Groups
+        url: /for-students/uniformed-groups/
+      - title: Student Leadership
+        url: /for-students/student-leadership/
+  - title: Parents and Partners
+    url: /parents-and-partners/ssoba/
+    sublinks:
+      - title: SSOBA
+        url: /parents-and-partners/ssoba/
+      - title: SPARK
+        url: /parents-and-partners/spark/
+      - title: STeP (Stephenian Technology Programme)
+        url: /files/STeP%204%20July%202023.pdf
+      - title: STeP Information Booklet
+        url: /files/STeP%20Parents%20Information%20Booklet%20(2023).pdf
+      - title: HBL Technical Support
+        url: /parents-and-partners/hbl-technical-support/
+      - title: MOE Sexuality Education
+        url: /parents-and-partners/moe-sexuality-education/

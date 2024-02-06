@@ -1,0 +1,16 @@
+collections:
+  clubs-and-societies:
+    output: true
+    order:
+      - Art/Overview.md
+      - Art/Key Activities.md
+      - Art/.keep
+      - Media Club/Overview.md
+      - Media Club/Key Activities.md
+      - Media Club/.keep
+      - Robotics and Science/Overview.md
+      - Robotics and Science/Key Activities.md
+      - Robotics and Science/.keep
+      - Science and Green Club/Overview.md
+      - Science and Green Club/Key Activities.md
+      - Science and Green Club/.keep

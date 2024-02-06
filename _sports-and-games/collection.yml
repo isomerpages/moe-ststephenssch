@@ -1,0 +1,19 @@
+collections:
+  sports-and-games:
+    output: true
+    order:
+      - Badminton/Overview.md
+      - Badminton/Key Activities.md
+      - Badminton/.keep
+      - Cricket/Overview.md
+      - Cricket/Key Activities.md
+      - Cricket/.keep
+      - Floorball/Overview.md
+      - Floorball/Key Activities.md
+      - Floorball/.keep
+      - Football/Overview.md
+      - Football/Frequency of Training.md
+      - Football/.keep
+      - Track and Field/Overview.md
+      - Track and Field/Key Activities.md
+      - Track and Field/.keep

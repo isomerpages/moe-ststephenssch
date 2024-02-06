@@ -1,0 +1,13 @@
+collections:
+  academic-programmes:
+    output: true
+    order:
+      - English.md
+      - Maths.md
+      - Science.md
+      - Mother Tongue.md
+      - Aesthetics.md
+      - Character Citizenship Education.md
+      - InfoComm Technology.md
+      - Physical Education.md
+      - Reading.md

@@ -1,0 +1,10 @@
+collections:
+  performing-arts:
+    output: true
+    order:
+      - Band/Overview.md
+      - Band/Key Activities.md
+      - Band/.keep
+      - Dance Club/Overview.md
+      - Dance Club/Key Activities.md
+      - Dance Club/.keep

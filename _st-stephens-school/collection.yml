@@ -1,0 +1,19 @@
+collections:
+  st-stephens-school:
+    output: true
+    order:
+      - Principal's Message.md
+      - Vision, Mission, Values.md
+      - Our School Rally.md
+      - Staff/Overview.md
+      - Staff/School Management.md
+      - Staff/Administrative and Support Staff.md
+      - Staff/Form Teachers.md
+      - Staff/Mother Tongue Teachers.md
+      - Staff/Allied Educators and Coordinators.md
+      - Staff/.keep
+      - Contact Us.md
+      - Publications.md
+      - Events FB & Calendar.md
+      - Our Stephenian History.md
+      - Waitlist 2023.md
