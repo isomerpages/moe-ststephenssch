@@ -11,50 +11,51 @@ variant: markdown
 
 | Name 	| Class 	| Email 	|
 |---	|---	|---	|
-|Mrs Isabelle Lim Niam Chin|P1 Courage |tay_niam_chin@schools.gov.sg
+|Mrs Isabelle Lim Niam Chin|P1 Courage |TAY_NIAM_CHIN@SCHOOLS.GOV.SG|
 |Ms Haslindah Binte Ab Rahman	| P1 Courage	| HASLINDAH_AB_RAHMAN@SCHOOLS.GOV.SG	|
 |   	|   	|   	|
-| Ms Belle Koh	| P1 Diligence	| belle_koh@moe.edu.sg	|
-| Ms Norshahidah Bte Aziz	| P1 Diligence	| norshahidah_aziz@moe.edu.sg	|
+| Ms Tan Tse See	| P1 Diligence	| belle_koh@moe.edu.sg	|
+| Mr Loh Hon Kee	| P1 Diligence	| norshahidah_aziz@moe.edu.sg	|
 |   	|   	|   	|
-| Mr Abdul Rauf Bin AA Rahmatulla| P1 Empathy	| abdul_rauf_a_a@moe.edu.sg	|
-| Mrs Fiona Wong	| P1 Empathy	| shi_kaili_fiona@moe.edu.sg	|
+| Mdm Kareena Mohd Ally | P1 Empathy	| abdul_rauf_a_a@moe.edu.sg	|
+| Mdm Mavis Goh Hui Ling	| P1 Empathy	| shi_kaili_fiona@moe.edu.sg	|
 |   	|   	|   	|
-| Ms Fong Jie Min	| P1 Fortitude	| fong_jie_min@moe.edu.sg	|
-| Mr Ang Chee Peng	| P1 Fortitude	| ang_chee_peng@moe.edu.sg|
+| Mrs Agatha Dyason	| P1 Fortitude	| fong_jie_min@moe.edu.sg	|
+| Ms Rajeswari d/o Mogan| P1 Fortitude	| ang_chee_peng@moe.edu.sg|
 |   	|   	|   	|
-| Mrs Veronica Goh	| P1 Gratitude	| cheong_lee_ling@moe.edu.sg|
-| Mdm Chan Joo Eng	| P1 Gratitude	| chan_joo_eng@moe.edu.sg	|
+|Ms Nur Amirah Binte Azman | P1 Gratitude	| cheong_lee_ling@moe.edu.sg|
+|Mr Ernest Tan Ren Xian	| P1 Gratitude	| chan_joo_eng@moe.edu.sg	|
 |   	|   	|   	|
-| Mdm Huang Jie		| P1 Humility	| huang_jie@moe.edu.sg	|
-| Mdm Lim Ee Chen	| P1 Humility	| lim_ee_chen@moe.edu.sg	|
+| Ms Siti Nadia Amirah Bte Muhammad Ariff Khoo | P1 Humility	| huang_jie@moe.edu.sg	|
+| Ms Nurul Amelia Bte Akhtiar	| P1 Humility	| lim_ee_chen@moe.edu.sg	|
 |   	|   	|   	|
-| Ms Wong See Ting	| P1 Integrity	| wong_see_ting@moe.edu.sg	|
-| Mrs Juslyn Lim 	| P1 Integrity	| foo_mei_yih@moe.edu.sg	|
+| Ms Chue Weixin	| P1 Integrity	| wong_see_ting@moe.edu.sg	|
+| Mdm Yuan Yingna	| P1 Integrity	| foo_mei_yih@moe.edu.sg	|
 |   	|   	|   	|
-| Mrs Charmaine Yoo	| P1 Joy	| loh_hui_yan_charmaine@moe.edu.sg	|
-| Mr Budi Sim	| P1 Joy	| budi_sim_jong_fu@moe.edu.sg	|
+| Ms Rynda Tay Lei Yi 	| P1 Joy	| loh_hui_yan_charmaine@moe.edu.sg	|
+| Mdm Zhang Li	| P1 Joy	| budi_sim_jong_fu@moe.edu.sg	|
 
 #### Primary 2
 
 | Name 	| Class 	| Email 	|
 |---	|---	|---	|
-| Mrs Agatha Dyason	| P2 Courage	| agatha_dyason@moe.edu.sg   |
-| Mdm Hanifa Masdawood	| P2 Courage	| hanifa_a@moe.edu.sg   |
+| Ms Shanelle Raveena Ramiah	| P2 Courage	| agatha_dyason@moe.edu.sg   |
+|Mr Brandon Joseph Yip Wei Wen	| P2 Courage	| hanifa_a@moe.edu.sg   |
 |  	|  	|  	|
-| Mdm Hafiza Sapiee	| P2 Diligence	| hafiza_sapiee@moe.edu.sg   |
-| Ms Rajeswari Mogan	| P2 Diligence	| rajeswari_mogan@moe.edu.sg   |
+| Ms Belle Koh| P2 Diligence	| hafiza_sapiee@moe.edu.sg   |
+| Ms Norshahidah Bte Aziz | P2 Diligence	| rajeswari_mogan@moe.edu.sg   |
+| Mdm Yang Yiqun | P2 Diligence	| rajeswari_mogan@moe.edu.sg   |
 |  	|  	|  	|
-| Mr Taufiq Izzudin Jamaludin	| P2 Empathy	| taufiq_izzudin_jamaludin@moe.edu.sg   |
-| Mr Ernest Tan	| P2 Empathy	| tan_ren_xian_ernest@moe.edu.sg   |
+| Mrs Fiona Wong	| P2 Empathy	| taufiq_izzudin_jamaludin@moe.edu.sg   |
+| Mr Abdul Rauf Bin AA Rahmatulla| P2 Empathy	| tan_ren_xian_ernest@moe.edu.sg   |
 |  	|  	|  	|
-| Ms Siti Nadia Amirah Muhammad Ariff Khoo	| P2 Fortitude	| siti_nadia_amirah_muhammad_ariff_khoo@moe.edu.sg   |
-| Mdm Zhang Li	| P2 Fortitude	| zhang_li_c@moe.edu.sg   |
+| Ms Fong Jie Min	| P2 Fortitude	| siti_nadia_amirah_muhammad_ariff_khoo@moe.edu.sg   |
+| Mdm Hafiza Sapiee	| P2 Fortitude	| zhang_li_c@moe.edu.sg   |
 |  	|  	|  	|
-| Mdm Azizah Abdul Razak 	| P2 Gratitude	| azizah_abdul_razak@moe.edu.sg   |
-| Mdm Pee May May	| P2 Gratitude	| pee_may_may@moe.edu.sg   |
+| Mrs Veronica Goh	| P2 Gratitude	| azizah_abdul_razak@moe.edu.sg   |
+| Ms Yusyinda Mohammed Yusof 	| P2 Gratitude	| pee_may_may@moe.edu.sg   |
 |  	|  	|  	|
-| Ms Tan Tse See	| P2 Humility	| tan_tse_see@moe.edu.sg   |
+| Mdm Huang Jie	| P2 Humility	| tan_tse_see@moe.edu.sg   |
 | Ms Haslindah Ab Rahman	| P2 Humility	| haslindah_ab_rahman@moe.edu.sg   |
 |  	|  	|  	|
 | Mrs Melissa Lee	| P2 Integrity	| tan_hui_min_melissa@moe.edu.sg   |
