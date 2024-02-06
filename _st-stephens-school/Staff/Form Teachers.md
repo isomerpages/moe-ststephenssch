@@ -68,47 +68,49 @@ variant: markdown
 
 | Name 	| Class 	| Email 	|
 |---	|---	|---	|
-| Mr Brandon Yip	| P3 Courage	| brandon_yip@moe.edu.sg   |
-| Mr Elias Chiang	| P3 Courage	| chiang_yong_jian_elias@moe.edu.sg   |
+| Mrs Melissa Lee	| P3 Courage	| brandon_yip@moe.edu.sg   |
+| Mdm Hanifa Masdawood | P3 Courage	| chiang_yong_jian_elias@moe.edu.sg   |
 |  	|  	|  	|
-| Mdm Quah Swee Bee 	| P3 Diligence	| quah_swee_bee@moe.edu.sg   |
-| Mr Charles Timothy D'Cruz	| P3 Diligence	| charles_timothy_d_cruz@moe.edu.sg   |
+| Mr Taufiq Izzudin Bin Jamaludin 	| P3 Diligence	| quah_swee_bee@moe.edu.sg   |
+| Mrs Marion Santa Maria 	| P3 Diligence	| charles_timothy_d_cruz@moe.edu.sg   |
 |  	|  	|  	|
-| Mdm Norhazli Ramli	| P3 Empathy	| norhazli_ramli@moe.edu.sg   |
-| Ms Boss Regini	| P3 Empathy	| boss_rejini@moe.edu.sg   |
+| Mrs Jaysree Ravindaran	| P3 Empathy	| norhazli_ramli@moe.edu.sg|
+| Mdm Choo Huiyun	| P3 Empathy	| boss_rejini@moe.edu.sg   |
+|  	|  	|  	|    
+| Mr Yeo Quan Kai 	| P3 Fortitude	| nicole_tham@moe.edu.sg   |
+| Mr Tan Yi Ru	| P3 Fortitude	| nurul_amelia_akhtiar@moe.edu.sg |
 |  	|  	|  	|
-| Mrs Nicole Venturi 	| P3 Fortitude	| nicole_tham@moe.edu.sg   |
-| Ms Nurul Amelia Akhtiar	| P3 Fortitude	| nurul_amelia_akhtiar@moe.edu.sg   |
-| Mdm Thia Lee Lian	| P3 Fortitude| thia_lee_lian@moe.edu.sg   |
+| Mr Wong Siew Kheong	| P3 Gratitude| zhang_yi_b@moe.edu.sg   |
+| Mrs Katherine Michael| P3 Gratitude| nuraini_abdul_samat@moe.edu.sg   |
 |  	|  	|  	|
-| Ms Zhang Yi 	| P3 Gratitude| zhang_yi_b@moe.edu.sg   |
-| Ms Nuraini Abdul Samat| P3 Gratitude| nuraini_abdul_samat@moe.edu.sg   |
+| Mr Chrispian Tirtamaya| P3 Humility| safarina_satar@moe.edu.sg   |
+| Mrs Cherlyn Frances Raeburn| P3 Humility	| goh_ka_bee@moe.edu.sg   |
 |  	|  	|  	|
-| Mdm Safarina Bte Satar| P3 Humility| safarina_satar@moe.edu.sg   |
-| Mdm Goh Ka Bee| P3 Humility	| goh_ka_bee@moe.edu.sg   |
+| Mdm Rozita Bte M Said | P3 Integrity| safarina_satar@moe.edu.sg   |
+| Mrs Pakkiam Sandran| P3 Integrity	| goh_ka_bee@moe.edu.sg   |
+| Mdm Nancy Leppard| P3 Integrity	| goh_ka_bee@moe.edu.sg   |
 
 #### Primary 4
 
 | Name 	| Class 	| Email 	|
 |---	|---	|---	|
-| Ms Rynda Tay	| P4 Courage| tay_lei_yi@moe.edu.sg   |
-| Mdm Yuan Yingna	| P4 Courage| yuan_yingna@moe.edu.sg   |
+| Mr Elias Chiang Yong Jian	| P4 Courage| tay_lei_yi@moe.edu.sg   |
+| Ms Candy Teo Siok Hoon | P4 Courage| yuan_yingna@moe.edu.sg   |
 |  	|  	|  	|
-| Ms Leraine Leow	| P4 Diligence| leraine_leow@moe.edu.sg   |
+| Mdm Quah Swee Bee 	| P4 Diligence| leraine_leow@moe.edu.sg   |
+| Mrs Geraldine Pereira 	| P4 Diligence| leraine_leow@moe.edu.sg   |
 |  	|  	|  	|
-| Mrs April Sachi	| P4 Empathy| teo_april@moe.edu.sg   |
-| Mdm Jayapal Hema 	| P4 Empathy| jayapal_hema@moe.edu.sg   |
+| Ms Leraine Leow 	| P4 Empathy| teo_april@moe.edu.sg   |
+| Mdm Herdawati Suleiman 	| P4 Empathy| jayapal_hema@moe.edu.sg   |
 |  	|  	|  	|
-| Mrs Jaysree Ravindaran	| P4 Fortitude| jaysree_krishnasamy@moe.edu.sg   |
-| Mdm Tan Ai Foong	| P4 Fortitude	| Tan_Ai_Foong_A@moe.edu.sg   |
+| Mrs Nicole Venturi 	| P4 Fortitude| jaysree_krishnasamy@moe.edu.sg   |
+| Mdm Chan Joo Eng	| P4 Fortitude	| Tan_Ai_Foong_A@moe.edu.sg   |
 |  	|  	|  	|
-| Mr Jeffrey Stephen Espehana	| P4 Gratitude	| jeffrey_stephen_espehana@moe.edu.sg   |
+| Ms Chloe Zhang Yi	| P4 Gratitude	| jeffrey_stephen_espehana@moe.edu.sg   |
+| Ms Nuraini Abdul Samat	| P4 Gratitude	| jeffrey_stephen_espehana@moe.edu.sg   |
 |  	|  	|  	|
-| Mr Chrispian Tirtamaya	| P4 Humility	| chrispian_tirtamaya@moe.edu.sg   |
-| Mrs Marion Santa Maria	| P4 Humility	| marion_santa_maria@moe.edu.sg   |
-|  	|  	|  	|
-| Mr Ezri Fadli Bin Junadi	| P4 Integrity	| ezri_fadli_junadi@moe.edu.sg   |
-| Mrs Isabelle Lim Niam Chin	| P4 Integrity	| tay_niam_chin@moe.edu.sg   |
+| Mdm Safarina Bte Satar	| P4 Humility	| chrispian_tirtamaya@moe.edu.sg   |
+| Mdm Goh Ka Bee	| P4 Humility	| marion_santa_maria@moe.edu.sg   |
 
 #### Primary 5
 
