@@ -140,21 +140,21 @@ variant: markdown
 
 | Name 	| Class 	| Email 	|
 |---	|---	|---	|
-| Ms Sew Pui Huang	| P6 Courage	| tan_lay_koon_christine@moe.edu.sg   |
-| Mdm Azizah Abdul Razak	| P6 Courage	| tan_nicole_anne@moe.edu.sg   |
+| Ms Sew Pui Huang	| P6 Courage	| SEW_PUI_HUANG@SCHOOLS.GOV.SG   |
+| Mdm Azizah Abdul Razak	| P6 Courage	| AZIZAH_ABDUL_RAZAK@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Mdm Lang Jia Jing	| P6 Diligence	| yeo_quan_kai@moe.edu.sg   |
-|Ms Nur Amirah Binte Mohd Nasir	| P6 Diligence	| tan_yi_ru@moe.edu.sg   |
+| Mdm Lang Jia Jing	| P6 Diligence	| LANG_JIA_JING@SCHOOLS.GOV.SG   |
+| Ms Nur Amirah Binte Mohd Nasir	| P6 Diligence|NUR_AMIRAH_MOHAMAD_NASIR@SCHOOLS.GOV.SG |
 |  	|  	|  	|
-| Mr Rich Yu Kai Yao	| P6 Empathy	| anne_mary_puhaindran@moe.edu.sg   |
-| Mdm Yasotha D/O Loganadan	| P6 Empathy	| sandosham_darren_micheal@moe.edu.sg   |
+| Mr Rich Yu Kai Yao	| P6 Empathy	| YU_KAI_YAO_RICH@SCHOOLS.GOV.SG   |
+| Mdm Yasotha D/O Loganadan	| P6 Empathy	| YASOTHA_LOGANADAN@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Ms Eileen Leong	| P6 Fortitude	| goh_si_win_sherwin@moe.edu.sg   |
-| Mrs April Sachi	| P6 Fortitude	| lee_elizabeth_norlawati@moe.edu.sg   |
+| Ms Eileen Leong	| P6 Fortitude	| LEONG_EE_LIN_EILEEN@SCHOOLS.GOV.SG   |
+| Mrs April Sachi	| P6 Fortitude	| TEO_APRIL@SCHOOLS.GOV.SG  |
 |  	|  	|  	|
-| Ms Teresa Luo Xinyi	| P6 Gratitude	| wong_siew_kheong@moe.edu.sg   |
-| Mr Jansher Khan	| P6 Gratitude	| tan_kiat_beekatherine@moe.edu.sg   |
+| Ms Teresa Luo Xinyi	| P6 Gratitude	| LUO_XINYI_TERESA@SCHOOLS.GOV.SG   |
+| Mr Jansher Khan	| P6 Gratitude	| JANSHER_KHAN@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Mr Wu Puwen	| P6 Humility	| rozita_mohamad_said@moe.edu.sg    |
-| Mdm Jayapal Hema	| P6 Humility	| siti_nurhidayah_abdul_aziz@moe.edu.sg   |
-| Mdm Jayalatchumy Pitchayan	| P6 Humility	| siti_nurhidayah_abdul_aziz@moe.edu.sg   |
+| Mr Wu Puwen	| P6 Humility	| WU_PUWEN@SCHOOLS.GOV.SG    |
+| Mdm Jayapal Hema	| P6 Humility	| JAYAPAL_HEMA@SCHOOLS.GOV.SG   |
+| Mdm Jayalatchumy Pitchayan	| P6 Humility	|    |
