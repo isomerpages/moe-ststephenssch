@@ -56,16 +56,13 @@ variant: markdown
 | Ms Yusyinda Mohammed Yusof 	| P2 Gratitude	| pee_may_may@moe.edu.sg   |
 |  	|  	|  	|
 | Mdm Huang Jie	| P2 Humility	| tan_tse_see@moe.edu.sg   |
-| Ms Haslindah Ab Rahman	| P2 Humility	| haslindah_ab_rahman@moe.edu.sg   |
+| Mdm Lim Ee Chen	| P2 Humility	| haslindah_ab_rahman@moe.edu.sg   |
 |  	|  	|  	|
-| Mrs Melissa Lee	| P2 Integrity	| tan_hui_min_melissa@moe.edu.sg   |
-| Mr Loh Hon Kee	| P2 Integrity	| loh_Hon_Kee@moe.edu.sg   |
+| Ms Wong See Ting	| P2 Integrity	| tan_hui_min_melissa@moe.edu.sg   |
+| Mrs Juslyn Lim	| P2 Integrity	| loh_Hon_Kee@moe.edu.sg   |
 |  	|  	|  	|
-| Mdm Kareena Mohd Ally	| P2 Joy	| kareena_mohamed_ally@moe.edu.sg   |
-| Mr Jason De Hamel	| P2 Joy	| de_hamel_jason_stephen@moe.edu.sg   |
-|  	|  	|  	|
-| Ms Chue Weixin	| P2 Kindness	| chue_weixin@moe.edu.sg   |
-| Mdm Lang Jia Jing	| P2 Kindness	| lang_jia_jing@moe.edu.sg   |
+| Mrs Charmaine Yoo	| P2 Joy	| kareena_mohamed_ally@moe.edu.sg   |
+| Ms Siti Nurhidayah Binte Abdul Aziz	| P2 Joy	| de_hamel_jason_stephen@moe.edu.sg   |
 
 #### Primary 3
 
