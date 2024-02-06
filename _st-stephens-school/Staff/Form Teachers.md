@@ -15,16 +15,16 @@ variant: markdown
 |Ms Haslindah Binte Ab Rahman	| P1 Courage	| HASLINDAH_AB_RAHMAN@SCHOOLS.GOV.SG	|
 |   	|   	|   	|
 | Ms Tan Tse See	| P1 Diligence	| TAN_TSE_SEE@SCHOOLS.GOV.SG	|
-| Mr Loh Hon Kee	| P1 Diligence	| 	|
+| Mr Loh Hon Kee	| P1 Diligence	| loh_hon_kee@moe.edu.sg	|
 |   	|   	|   	|
 | Mdm Kareena Mohd Ally | P1 Empathy	| KAREENA_MOHAMED_ALLY@SCHOOLS.GOV.SG	|
 | Mdm Mavis Goh Hui Ling	| P1 Empathy	| 	|
 |   	|   	|   	|
 | Mrs Agatha Dyason	| P1 Fortitude	| AGATHA_DYASON@SCHOOLS.GOV.SG	|
-| Ms Rajeswari d/o Mogan| P1 Fortitude	| |
+| Ms Rajeswari d/o Mogan| P1 Fortitude	|rajeswari_mogan@moe.edu.sg |
 |   	|   	|   	|
 |Ms Nur Amirah Binte Azman | P1 Gratitude	| NUR_AMIRAH_AZMAN@SCHOOLS.GOV.SG|
-|Mr Ernest Tan Ren Xian	| P1 Gratitude	| 	|
+|Mr Ernest Tan Ren Xian	| P1 Gratitude	| tan_ren_xian_ernest@moe.edu.sg	|
 |   	|   	|   	|
 | Ms Siti Nadia Amirah Bte Muhammad Ariff Khoo | P1 Humility	| SITI_NADIA_AMIRAH_MUHAMMAD@SCHOOLS.GOV.SG	|
 | Ms Nurul Amelia Bte Akhtiar	| P1 Humility	| NURUL_AMELIA_AKHTIAR@SCHOOLS.GOV.SG	|
@@ -59,7 +59,7 @@ variant: markdown
 | Mdm Lim Ee Chen	| P2 Humility	| LIM_EE_CHEN@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
 | Ms Wong See Ting	| P2 Integrity	| WONG_SEE_TING@SCHOOLS.GOV.SG   |
-| Mrs Juslyn Lim	| P2 Integrity	|    |
+| Mrs Juslyn Lim	| P2 Integrity	|  foo_mei_yih@moe.edu.sg  |
 |  	|  	|  	|
 | Mrs Charmaine Yoo	| P2 Joy	| LOH_HUI_YAN_CHARMAINE@SCHOOLS.GOV.SG   |
 | Ms Siti Nurhidayah Binte Abdul Aziz	| P2 Joy	| SITI_NURHIDAYAH_ABDUL_AZIZ@SCHOOLS.GOV.SG   |
@@ -69,7 +69,7 @@ variant: markdown
 | Name 	| Class 	| Email 	|
 |---	|---	|---	|
 | Mrs Melissa Lee	| P3 Courage	| TAN_HUI_MIN_MELISSA@SCHOOLS.GOV.SG  |
-| Mdm Hanifa Masdawood | P3 Courage	|    |
+| Mdm Hanifa Masdawood | P3 Courage	| hanifa_a@moe.edu.sg   |
 |  	|  	|  	|
 | Mr Taufiq Izzudin Bin Jamaludin 	| P3 Diligence	| TAUFIQ_IZZUDIN_JAMALUDIN@SCHOOLS.GOV.SG   |
 | Mrs Marion Santa Maria 	| P3 Diligence	|  marion_santa_maria@moe.edu.sg  |
@@ -101,10 +101,10 @@ variant: markdown
 | Mrs Geraldine Pereira 	| P4 Diligence| GERALDINE_RITA_PEREIRA@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
 | Ms Leraine Leow 	| P4 Empathy| LERAINE_LEOW@SCHOOLS.GOV.SG   |
-| Mdm Herdawati Suleiman 	| P4 Empathy| jHERDAWATI_SULEIMAN@SCHOOLS.GOV.SG   |
+| Mdm Herdawati Suleiman 	| P4 Empathy| HERDAWATI_SULEIMAN@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
 | Mrs Nicole Venturi 	| P4 Fortitude| NICOLE_THAM@SCHOOLS.GOV.SG   |
-| Mdm Chan Joo Eng	| P4 Fortitude|    |
+| Mdm Chan Joo Eng	| P4 Fortitude| chan_joo_eng@moe.edu.sg   |
 |  	|  	|  	|
 | Ms Chloe Zhang Yi	| P4 Gratitude	| ZHANG_YI_B@SCHOOLS.GOV.SG   |
 | Ms Nuraini Abdul Samat	| P4 Gratitude	| NURAINI_ABDUL_SAMAT@SCHOOLS.GOV.SG   |
@@ -134,7 +134,7 @@ variant: markdown
 |  	|  	|  	|
 | Mrs Christine Nyoman	| P5 Humility	| TAN_LAY_KOON_CHRISTINE@SCHOOLS.GOV.SG   |
 | Mrs Christin Chew Meng Lee	| P5 Humility	| CHUA_MENG_LEE@SCHOOLS.GOV.SG   |
-| Mdm Tan Ai Foong	| P5 Humility	| tan_ai_foong@moe.edu.sg   |
+| Mdm Tan Ai Foong	| P5 Humility	| tan_ai_foong_a@moe.edu.sg   |
 
 #### Primary 6
 
