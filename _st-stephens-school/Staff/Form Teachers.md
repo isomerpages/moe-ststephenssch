@@ -95,7 +95,7 @@ variant: markdown
 | Name 	| Class 	| Email 	|
 |---	|---	|---	|
 | Mr Elias Chiang Yong Jian	| P4 Courage| CHIANG_YONG_JIAN_ELIAS@SCHOOLS.GOV.SG   |
-| Ms Candy Teo Siok Hoon | P4 Courage|    |
+| Ms Candy Teo Siok Hoon | P4 Courage| TEO_SIOK_HOON_CANDY@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
 | Mdm Quah Swee Bee 	| P4 Diligence| QUAH_SWEE_BEE@SCHOOLS.GOV.SG   |
 | Mrs Geraldine Pereira 	| P4 Diligence| GERALDINE_RITA_PEREIRA@SCHOOLS.GOV.SG   |
@@ -116,25 +116,25 @@ variant: markdown
 
 | Name 	| Class 	| Email 	|
 |---	|---	|---	|
-| Mrs Anne Goh	| P5 Courage	| sew_pui_huang@moe.edu.sg   |
-| Mr Charles Timothy D'Cruz	| P5 Courage	| yang_yiqun@moe.edu.sg   |
+| Mrs Anne Goh	| P5 Courage	| ANNE_MARY_PUHAINDRAN@SCHOOLS.GOV.SG   |
+| Mr Charles Timothy D'Cruz	| P5 Courage	| CHARLES_TIMOTHY_D_CRUZ@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Mr Darren Micheal Sandosham	| P5 Diligence	| chua_meng_lee@moe.edu.sg   |
-| Ms Elizabeth Lee Norlawati 	| P5 Diligence	| nur_amirah_mohamad_nasir@moe.edu.sg   |
+| Mr Darren Micheal Sandosham	| P5 Diligence	| SANDOSHAM_DARREN_MICHEAL@SCHOOLS.GOV.SG   
+| Ms Elizabeth Lee Norlawati 	| P5 Diligence	| LEE_ELIZABETH_NORLAWATI@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Mr Ezri Fadli Bin Junadi	| P5 Empathy	| yu_kai_yao_rich@moe.edu.sg   |
-| Mrs Ng Shu Hui	| P5 Empathy	| yasotha_loganadan@moe.edu.sg   |
+| Mr Ezri Fadli Bin Junadi	| P5 Empathy	| EZRI_FADLI_JUNADI@SCHOOLS.GOV.SG   |
+| Mrs Ng Shu Hui	| P5 Empathy	| POH_SHU_HUI@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Mr Jeffrey Stephen Espehana	| P5 Fortitude	| leong_ee_lin_eileen@moe.edu.sg   |
-| Mdm Thia Lee Lian	| P5 Fortitude	| charles_rajan_maniam@moe.edu.sg   |
+| Mr Jeffrey Stephen Espehana	| P5 Fortitude	| JEFFREY_STEPHEN_ESPEHANA@SCHOOLS.GOV.SG   |
+| Mdm Thia Lee Lian	| P5 Fortitude	| THIA_LEE_LIAN@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Mr Sherwin Goh Si Win	| P5 Gratitude	| luo_xinyi_teresa@moe.edu.sg   |
-| Mdm Nicole Anne Tan	| P5 Gratitude	| jansher_khan@moe.edu.sg   |
-| Mdm Pee May May	| P5 Gratitude	| jansher_khan@moe.edu.sg   |
+| Mr Sherwin Goh Si Win	| P5 Gratitude	| GOH_SI_WIN_SHERWIN@SCHOOLS.GOV.SG   |
+| Mdm Nicole Anne Tan	| P5 Gratitude	| TAN_NICOLE_ANNE@SCHOOLS.GOV.SG |
+| Mdm Pee May May	| P5 Gratitude	|PEE_MAY_MAY@SCHOOLS.GOV.SG |
 |  	|  	|  	|
-| Mrs Christine Nyoman	| P5 Humility	| luo_xinyi_teresa@moe.edu.sg   |
-| Mrs Christin Chew Meng Lee	| P5 Humility	| jansher_khan@moe.edu.sg   |
-| Mdm Tan Ai Foong	| P5 Humility	| jansher_khan@moe.edu.sg   |
+| Mrs Christine Nyoman	| P5 Humility	| TAN_LAY_KOON_CHRISTINE@SCHOOLS.GOV.SG   |
+| Mrs Christin Chew Meng Lee	| P5 Humility	| CHUA_MENG_LEE@SCHOOLS.GOV.SG   |
+| Mdm Tan Ai Foong	| P5 Humility	| tan_ai_foong@moe.edu.sg   |
 
 #### Primary 6
 
