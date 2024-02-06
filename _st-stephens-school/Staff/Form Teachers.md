@@ -39,30 +39,30 @@ variant: markdown
 
 | Name 	| Class 	| Email 	|
 |---	|---	|---	|
-| Ms Shanelle Raveena Ramiah	| P2 Courage	| agatha_dyason@moe.edu.sg   |
-|Mr Brandon Joseph Yip Wei Wen	| P2 Courage	| hanifa_a@moe.edu.sg   |
+| Ms Shanelle Raveena Ramiah	| P2 Courage	| SHANELLE_RAVEENA_RAMIAH@SCHOOLS.GOV.SG   |
+|Mr Brandon Joseph Yip Wei Wen	| P2 Courage	| BRANDON_YIP@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Ms Belle Koh| P2 Diligence	| hafiza_sapiee@moe.edu.sg   |
-| Ms Norshahidah Bte Aziz | P2 Diligence	| rajeswari_mogan@moe.edu.sg   |
-| Mdm Yang Yiqun | P2 Diligence	| rajeswari_mogan@moe.edu.sg   |
+| Ms Belle Koh| P2 Diligence	| BELLE_KOH@SCHOOLS.GOV.SG   |
+| Ms Norshahidah Bte Aziz | P2 Diligence	| NORSHAHIDAH_AZIZ@SCHOOLS.GOV.SG   |
+| Mdm Yang Yiqun | P2 Diligence	| YANG_YIQUN@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Mrs Fiona Wong	| P2 Empathy	| taufiq_izzudin_jamaludin@moe.edu.sg   |
-| Mr Abdul Rauf Bin AA Rahmatulla| P2 Empathy	| tan_ren_xian_ernest@moe.edu.sg   |
+| Mrs Fiona Wong	| P2 Empathy	| SHI_KAILI_FIONA@SCHOOLS.GOV.SG   |
+| Mr Abdul Rauf Bin AA Rahmatulla| P2 Empathy	| ABDUL_RAUF_A_A@SCHOOLS.GOV.SG  |
 |  	|  	|  	|
-| Ms Fong Jie Min	| P2 Fortitude	| siti_nadia_amirah_muhammad_ariff_khoo@moe.edu.sg   |
-| Mdm Hafiza Sapiee	| P2 Fortitude	| zhang_li_c@moe.edu.sg   |
+| Ms Fong Jie Min	| P2 Fortitude	| FONG_JIE_MIN@SCHOOLS.GOV.SG   |
+| Mdm Hafiza Sapiee	| P2 Fortitude	| HAFIZA_SAPIEE@SCHOOLS.GOV.SG  |
 |  	|  	|  	|
-| Mrs Veronica Goh	| P2 Gratitude	| azizah_abdul_razak@moe.edu.sg   |
-| Ms Yusyinda Mohammed Yusof 	| P2 Gratitude	| pee_may_may@moe.edu.sg   |
+| Mrs Veronica Goh	| P2 Gratitude	| CHEONG_LEE_LING@SCHOOLS.GOV.SG  |
+| Ms Yusyinda Mohammed Yusof 	| P2 Gratitude	|    |
 |  	|  	|  	|
-| Mdm Huang Jie	| P2 Humility	| tan_tse_see@moe.edu.sg   |
-| Mdm Lim Ee Chen	| P2 Humility	| haslindah_ab_rahman@moe.edu.sg   |
+| Mdm Huang Jie	| P2 Humility	| HUANG_JIE@SCHOOLS.GOV.SG   |
+| Mdm Lim Ee Chen	| P2 Humility	| LIM_EE_CHEN@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Ms Wong See Ting	| P2 Integrity	| tan_hui_min_melissa@moe.edu.sg   |
-| Mrs Juslyn Lim	| P2 Integrity	| loh_Hon_Kee@moe.edu.sg   |
+| Ms Wong See Ting	| P2 Integrity	| WONG_SEE_TING@SCHOOLS.GOV.SG   |
+| Mrs Juslyn Lim	| P2 Integrity	|    |
 |  	|  	|  	|
-| Mrs Charmaine Yoo	| P2 Joy	| kareena_mohamed_ally@moe.edu.sg   |
-| Ms Siti Nurhidayah Binte Abdul Aziz	| P2 Joy	| de_hamel_jason_stephen@moe.edu.sg   |
+| Mrs Charmaine Yoo	| P2 Joy	| LOH_HUI_YAN_CHARMAINE@SCHOOLS.GOV.SG   |
+| Ms Siti Nurhidayah Binte Abdul Aziz	| P2 Joy	| SITI_NURHIDAYAH_ABDUL_AZIZ@SCHOOLS.GOV.SG   |
 
 #### Primary 3
 
