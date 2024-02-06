@@ -43,7 +43,7 @@ variant: markdown
 |---	|---	|---	|
 | **P1**|Ms Nurul Amelia Bte Akhtiar 	| norshahidah_aziz@moe.edu.sg  	|
 | **P2**|Ms Norshahidah Bte Aziz 	| pee_may_may@moe.edu.sg 	|
-| **P3**|	| 	|
+| **P3**|Mdm Belle Taw Ai Hiang	| taw_ai_hiang@moe.edu.sg	|
 | **P4**|Ms Nuraini Abdul Samat   	|nuraini_abdul_samat@moe.edu.sg 	|
 | **P5**|Ms Elizabeth Lee Norlawati  	|lee_elizabeth_norlawati@moe.edu.sg	|
 | **P6**|Mdm Yasotha D/O Loganadan 	|  yasotha_loganadan@moe.edu.sg|
