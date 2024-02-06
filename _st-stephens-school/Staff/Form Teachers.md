@@ -68,27 +68,27 @@ variant: markdown
 
 | Name 	| Class 	| Email 	|
 |---	|---	|---	|
-| Mrs Melissa Lee	| P3 Courage	| brandon_yip@moe.edu.sg   |
-| Mdm Hanifa Masdawood | P3 Courage	| chiang_yong_jian_elias@moe.edu.sg   |
+| Mrs Melissa Lee	| P3 Courage	| TAN_HUI_MIN_MELISSA@SCHOOLS.GOV.SG  |
+| Mdm Hanifa Masdawood | P3 Courage	|    |
 |  	|  	|  	|
-| Mr Taufiq Izzudin Bin Jamaludin 	| P3 Diligence	| quah_swee_bee@moe.edu.sg   |
-| Mrs Marion Santa Maria 	| P3 Diligence	| charles_timothy_d_cruz@moe.edu.sg   |
+| Mr Taufiq Izzudin Bin Jamaludin 	| P3 Diligence	| TAUFIQ_IZZUDIN_JAMALUDIN@SCHOOLS.GOV.SG   |
+| Mrs Marion Santa Maria 	| P3 Diligence	|    |
 |  	|  	|  	|
-| Mrs Jaysree Ravindaran	| P3 Empathy	| norhazli_ramli@moe.edu.sg|
-| Mdm Choo Huiyun	| P3 Empathy	| boss_rejini@moe.edu.sg   |
+| Mrs Jaysree Ravindaran	| P3 Empathy	| JAYSREE_KRISHNASAMY@SCHOOLS.GOV.SG|
+| Mdm Choo Huiyun	| P3 Empathy	|  |
 |  	|  	|  	|    
-| Mr Yeo Quan Kai 	| P3 Fortitude	| nicole_tham@moe.edu.sg   |
-| Mr Tan Yi Ru	| P3 Fortitude	| nurul_amelia_akhtiar@moe.edu.sg |
+| Mr Yeo Quan Kai 	| P3 Fortitude	| YEO_QUAN_KAI@SCHOOLS.GOV.SG   |
+| Mr Tan Yi Ru	| P3 Fortitude	| TAN_YI_RU@SCHOOLS.GOV.SG |
 |  	|  	|  	|
-| Mr Wong Siew Kheong	| P3 Gratitude| zhang_yi_b@moe.edu.sg   |
-| Mrs Katherine Michael| P3 Gratitude| nuraini_abdul_samat@moe.edu.sg   |
+| Mr Wong Siew Kheong	| P3 Gratitude| WONG_SIEW_KHEONG@SCHOOLS.GOV.SG   |
+| Mrs Katherine Michael| P3 Gratitude| TAN_KIAT_BEEKATHERINE@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Mr Chrispian Tirtamaya| P3 Humility| safarina_satar@moe.edu.sg   |
-| Mrs Cherlyn Frances Raeburn| P3 Humility	| goh_ka_bee@moe.edu.sg   |
+| Mr Chrispian Tirtamaya| P3 Humility| CHRISPIAN_TIRTAMAYA@SCHOOLS.GOV.SG   |
+| Mrs Cherlyn Frances Raeburn| P3 Humility	| CHERLYN_FRANCES_RAEBURN@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Mdm Rozita Bte M Said | P3 Integrity| safarina_satar@moe.edu.sg   |
-| Mrs Pakkiam Sandran| P3 Integrity	| goh_ka_bee@moe.edu.sg   |
-| Mdm Nancy Leppard| P3 Integrity	| goh_ka_bee@moe.edu.sg   |
+| Mdm Rozita Bte M Said | P3 Integrity| ROZITA_MOHAMAD_SAID@SCHOOLS.GOV.SG  |
+| Mrs Pakkiam Sandran| P3 Integrity	| PAKKIAM_ETTI_GOUNDAN@SCHOOLS.GOV.SG   |
+| Mdm Nancy Leppard| P3 Integrity	|   |
 
 #### Primary 4
 
