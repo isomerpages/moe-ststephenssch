@@ -11,146 +11,150 @@ variant: markdown
 
 | Name 	| Class 	| Email 	|
 |---	|---	|---	|
-|Mrs Isabelle Lim Niam Chin|P1 Courage |tay_niam_chin@schools.gov.sg
+|Mrs Isabelle Lim Niam Chin|P1 Courage |TAY_NIAM_CHIN@SCHOOLS.GOV.SG|
 |Ms Haslindah Binte Ab Rahman	| P1 Courage	| HASLINDAH_AB_RAHMAN@SCHOOLS.GOV.SG	|
 |   	|   	|   	|
-| Ms Belle Koh	| P1 Diligence	| belle_koh@moe.edu.sg	|
-| Ms Norshahidah Bte Aziz	| P1 Diligence	| norshahidah_aziz@moe.edu.sg	|
+| Ms Tan Tse See	| P1 Diligence	| TAN_TSE_SEE@SCHOOLS.GOV.SG	|
+| Mr Loh Hon Kee	| P1 Diligence	| loh_hon_kee@moe.edu.sg	|
 |   	|   	|   	|
-| Mr Abdul Rauf Bin AA Rahmatulla| P1 Empathy	| abdul_rauf_a_a@moe.edu.sg	|
-| Mrs Fiona Wong	| P1 Empathy	| shi_kaili_fiona@moe.edu.sg	|
+| Mdm Kareena Mohd Ally | P1 Empathy	| KAREENA_MOHAMED_ALLY@SCHOOLS.GOV.SG	|
+| Mdm Mavis Goh Hui Ling	| P1 Empathy	| 	|
 |   	|   	|   	|
-| Ms Fong Jie Min	| P1 Fortitude	| fong_jie_min@moe.edu.sg	|
-| Mr Ang Chee Peng	| P1 Fortitude	| ang_chee_peng@moe.edu.sg|
+| Mrs Agatha Dyason	| P1 Fortitude	| AGATHA_DYASON@SCHOOLS.GOV.SG	|
+| Ms Rajeswari d/o Mogan| P1 Fortitude	|rajeswari_mogan@moe.edu.sg |
 |   	|   	|   	|
-| Mrs Veronica Goh	| P1 Gratitude	| cheong_lee_ling@moe.edu.sg|
-| Mdm Chan Joo Eng	| P1 Gratitude	| chan_joo_eng@moe.edu.sg	|
+|Ms Nur Amirah Binte Azman | P1 Gratitude	| NUR_AMIRAH_AZMAN@SCHOOLS.GOV.SG|
+|Mr Ernest Tan Ren Xian	| P1 Gratitude	| tan_ren_xian_ernest@moe.edu.sg	|
 |   	|   	|   	|
-| Mdm Huang Jie		| P1 Humility	| huang_jie@moe.edu.sg	|
-| Mdm Lim Ee Chen	| P1 Humility	| lim_ee_chen@moe.edu.sg	|
+| Ms Siti Nadia Amirah Bte Muhammad Ariff Khoo | P1 Humility	| SITI_NADIA_AMIRAH_MUHAMMAD@SCHOOLS.GOV.SG	|
+| Ms Nurul Amelia Bte Akhtiar	| P1 Humility	| NURUL_AMELIA_AKHTIAR@SCHOOLS.GOV.SG	|
 |   	|   	|   	|
-| Ms Wong See Ting	| P1 Integrity	| wong_see_ting@moe.edu.sg	|
-| Mrs Juslyn Lim 	| P1 Integrity	| foo_mei_yih@moe.edu.sg	|
+| Ms Chue Weixin	| P1 Integrity	| CHUE_WEIXIN@SCHOOLS.GOV.SG	|
+| Mdm Yuan Yingna	| P1 Integrity	| YUAN_YINGNA@SCHOOLS.GOV.SG	|
 |   	|   	|   	|
-| Mrs Charmaine Yoo	| P1 Joy	| loh_hui_yan_charmaine@moe.edu.sg	|
-| Mr Budi Sim	| P1 Joy	| budi_sim_jong_fu@moe.edu.sg	|
+| Ms Rynda Tay Lei Yi 	| P1 Joy	| TAY_LEI_YI@SCHOOLS.GOV.SG	|
+| Mdm Zhang Li	| P1 Joy	| ZHANG_LI_C@SCHOOLS.GOV.SG	|
 
 #### Primary 2
 
 | Name 	| Class 	| Email 	|
 |---	|---	|---	|
-| Mrs Agatha Dyason	| P2 Courage	| agatha_dyason@moe.edu.sg   |
-| Mdm Hanifa Masdawood	| P2 Courage	| hanifa_a@moe.edu.sg   |
+| Ms Shanelle Raveena Ramiah	| P2 Courage	| SHANELLE_RAVEENA_RAMIAH@SCHOOLS.GOV.SG   |
+|Mr Brandon Joseph Yip Wei Wen	| P2 Courage	| BRANDON_YIP@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Mdm Hafiza Sapiee	| P2 Diligence	| hafiza_sapiee@moe.edu.sg   |
-| Ms Rajeswari Mogan	| P2 Diligence	| rajeswari_mogan@moe.edu.sg   |
+| Ms Belle Koh| P2 Diligence	| BELLE_KOH@SCHOOLS.GOV.SG   |
+| Ms Norshahidah Bte Aziz | P2 Diligence	| NORSHAHIDAH_AZIZ@SCHOOLS.GOV.SG   |
+| Mdm Yang Yiqun | P2 Diligence	| YANG_YIQUN@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Mr Taufiq Izzudin Jamaludin	| P2 Empathy	| taufiq_izzudin_jamaludin@moe.edu.sg   |
-| Mr Ernest Tan	| P2 Empathy	| tan_ren_xian_ernest@moe.edu.sg   |
+| Mrs Fiona Wong	| P2 Empathy	| SHI_KAILI_FIONA@SCHOOLS.GOV.SG   |
+| Mr Abdul Rauf Bin AA Rahmatulla| P2 Empathy	| ABDUL_RAUF_A_A@SCHOOLS.GOV.SG  |
 |  	|  	|  	|
-| Ms Siti Nadia Amirah Muhammad Ariff Khoo	| P2 Fortitude	| siti_nadia_amirah_muhammad_ariff_khoo@moe.edu.sg   |
-| Mdm Zhang Li	| P2 Fortitude	| zhang_li_c@moe.edu.sg   |
+| Ms Fong Jie Min	| P2 Fortitude	| FONG_JIE_MIN@SCHOOLS.GOV.SG   |
+| Mdm Hafiza Sapiee	| P2 Fortitude	| HAFIZA_SAPIEE@SCHOOLS.GOV.SG  |
 |  	|  	|  	|
-| Mdm Azizah Abdul Razak 	| P2 Gratitude	| azizah_abdul_razak@moe.edu.sg   |
-| Mdm Pee May May	| P2 Gratitude	| pee_may_may@moe.edu.sg   |
+| Mrs Veronica Goh	| P2 Gratitude	| CHEONG_LEE_LING@SCHOOLS.GOV.SG  |
+| Ms Yusyinda Mohammed Yusof 	| P2 Gratitude	|    |
 |  	|  	|  	|
-| Ms Tan Tse See	| P2 Humility	| tan_tse_see@moe.edu.sg   |
-| Ms Haslindah Ab Rahman	| P2 Humility	| haslindah_ab_rahman@moe.edu.sg   |
+| Mdm Huang Jie	| P2 Humility	| HUANG_JIE@SCHOOLS.GOV.SG   |
+| Mdm Lim Ee Chen	| P2 Humility	| LIM_EE_CHEN@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Mrs Melissa Lee	| P2 Integrity	| tan_hui_min_melissa@moe.edu.sg   |
-| Mr Loh Hon Kee	| P2 Integrity	| loh_Hon_Kee@moe.edu.sg   |
+| Ms Wong See Ting	| P2 Integrity	| WONG_SEE_TING@SCHOOLS.GOV.SG   |
+| Mrs Juslyn Lim	| P2 Integrity	|  foo_mei_yih@moe.edu.sg  |
 |  	|  	|  	|
-| Mdm Kareena Mohd Ally	| P2 Joy	| kareena_mohamed_ally@moe.edu.sg   |
-| Mr Jason De Hamel	| P2 Joy	| de_hamel_jason_stephen@moe.edu.sg   |
-|  	|  	|  	|
-| Ms Chue Weixin	| P2 Kindness	| chue_weixin@moe.edu.sg   |
-| Mdm Lang Jia Jing	| P2 Kindness	| lang_jia_jing@moe.edu.sg   |
+| Mrs Charmaine Yoo	| P2 Joy	| LOH_HUI_YAN_CHARMAINE@SCHOOLS.GOV.SG   |
+| Ms Siti Nurhidayah Binte Abdul Aziz	| P2 Joy	| SITI_NURHIDAYAH_ABDUL_AZIZ@SCHOOLS.GOV.SG   |
 
 #### Primary 3
 
 | Name 	| Class 	| Email 	|
 |---	|---	|---	|
-| Mr Brandon Yip	| P3 Courage	| brandon_yip@moe.edu.sg   |
-| Mr Elias Chiang	| P3 Courage	| chiang_yong_jian_elias@moe.edu.sg   |
+| Mrs Melissa Lee	| P3 Courage	| TAN_HUI_MIN_MELISSA@SCHOOLS.GOV.SG  |
+| Mdm Hanifa Masdawood | P3 Courage	| hanifa_a@moe.edu.sg   |
 |  	|  	|  	|
-| Mdm Quah Swee Bee 	| P3 Diligence	| quah_swee_bee@moe.edu.sg   |
-| Mr Charles Timothy D'Cruz	| P3 Diligence	| charles_timothy_d_cruz@moe.edu.sg   |
+| Mr Taufiq Izzudin Bin Jamaludin 	| P3 Diligence	| TAUFIQ_IZZUDIN_JAMALUDIN@SCHOOLS.GOV.SG   |
+| Mrs Marion Santa Maria 	| P3 Diligence	|  marion_santa_maria@moe.edu.sg  |
 |  	|  	|  	|
-| Mdm Norhazli Ramli	| P3 Empathy	| norhazli_ramli@moe.edu.sg   |
-| Ms Boss Regini	| P3 Empathy	| boss_rejini@moe.edu.sg   |
+| Mrs Jaysree Ravindaran	| P3 Empathy	| JAYSREE_KRISHNASAMY@SCHOOLS.GOV.SG|
+| Mdm Choo Huiyun	| P3 Empathy	|  |
+|  	|  	|  	|    
+| Mr Yeo Quan Kai 	| P3 Fortitude	| YEO_QUAN_KAI@SCHOOLS.GOV.SG   |
+| Mr Tan Yi Ru	| P3 Fortitude	| TAN_YI_RU@SCHOOLS.GOV.SG |
 |  	|  	|  	|
-| Mrs Nicole Venturi 	| P3 Fortitude	| nicole_tham@moe.edu.sg   |
-| Ms Nurul Amelia Akhtiar	| P3 Fortitude	| nurul_amelia_akhtiar@moe.edu.sg   |
-| Mdm Thia Lee Lian	| P3 Fortitude| thia_lee_lian@moe.edu.sg   |
+| Mr Wong Siew Kheong	| P3 Gratitude| WONG_SIEW_KHEONG@SCHOOLS.GOV.SG   |
+| Mrs Katherine Michael| P3 Gratitude| TAN_KIAT_BEEKATHERINE@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Ms Zhang Yi 	| P3 Gratitude| zhang_yi_b@moe.edu.sg   |
-| Ms Nuraini Abdul Samat| P3 Gratitude| nuraini_abdul_samat@moe.edu.sg   |
+| Mr Chrispian Tirtamaya| P3 Humility| CHRISPIAN_TIRTAMAYA@SCHOOLS.GOV.SG   |
+| Mrs Cherlyn Frances Raeburn| P3 Humility	| CHERLYN_FRANCES_RAEBURN@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Mdm Safarina Bte Satar| P3 Humility| safarina_satar@moe.edu.sg   |
-| Mdm Goh Ka Bee| P3 Humility	| goh_ka_bee@moe.edu.sg   |
+| Mdm Rozita Bte M Said | P3 Integrity| ROZITA_MOHAMAD_SAID@SCHOOLS.GOV.SG  |
+| Mrs Pakkiam Sandran| P3 Integrity	| PAKKIAM_ETTI_GOUNDAN@SCHOOLS.GOV.SG   |
+| Mdm Nancy Leppard| P3 Integrity	|   |
 
 #### Primary 4
 
 | Name 	| Class 	| Email 	|
 |---	|---	|---	|
-| Ms Rynda Tay	| P4 Courage| tay_lei_yi@moe.edu.sg   |
-| Mdm Yuan Yingna	| P4 Courage| yuan_yingna@moe.edu.sg   |
+| Mr Elias Chiang Yong Jian	| P4 Courage| CHIANG_YONG_JIAN_ELIAS@SCHOOLS.GOV.SG   |
+| Ms Candy Teo Siok Hoon | P4 Courage| TEO_SIOK_HOON_CANDY@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Ms Leraine Leow	| P4 Diligence| leraine_leow@moe.edu.sg   |
+| Mdm Quah Swee Bee 	| P4 Diligence| QUAH_SWEE_BEE@SCHOOLS.GOV.SG   |
+| Mrs Geraldine Pereira 	| P4 Diligence| GERALDINE_RITA_PEREIRA@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Mrs April Sachi	| P4 Empathy| teo_april@moe.edu.sg   |
-| Mdm Jayapal Hema 	| P4 Empathy| jayapal_hema@moe.edu.sg   |
+| Ms Leraine Leow 	| P4 Empathy| LERAINE_LEOW@SCHOOLS.GOV.SG   |
+| Mdm Herdawati Suleiman 	| P4 Empathy| HERDAWATI_SULEIMAN@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Mrs Jaysree Ravindaran	| P4 Fortitude| jaysree_krishnasamy@moe.edu.sg   |
-| Mdm Tan Ai Foong	| P4 Fortitude	| Tan_Ai_Foong_A@moe.edu.sg   |
+| Mrs Nicole Venturi 	| P4 Fortitude| NICOLE_THAM@SCHOOLS.GOV.SG   |
+| Mdm Chan Joo Eng	| P4 Fortitude| chan_joo_eng@moe.edu.sg   |
 |  	|  	|  	|
-| Mr Jeffrey Stephen Espehana	| P4 Gratitude	| jeffrey_stephen_espehana@moe.edu.sg   |
+| Ms Chloe Zhang Yi	| P4 Gratitude	| ZHANG_YI_B@SCHOOLS.GOV.SG   |
+| Ms Nuraini Abdul Samat	| P4 Gratitude	| NURAINI_ABDUL_SAMAT@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Mr Chrispian Tirtamaya	| P4 Humility	| chrispian_tirtamaya@moe.edu.sg   |
-| Mrs Marion Santa Maria	| P4 Humility	| marion_santa_maria@moe.edu.sg   |
-|  	|  	|  	|
-| Mr Ezri Fadli Bin Junadi	| P4 Integrity	| ezri_fadli_junadi@moe.edu.sg   |
-| Mrs Isabelle Lim Niam Chin	| P4 Integrity	| tay_niam_chin@moe.edu.sg   |
+| Mdm Safarina Bte Satar	| P4 Humility	| SAFARINA_SATAR@SCHOOLS.GOV.SG   |
+| Mdm Goh Ka Bee	| P4 Humility	|  GOH_KA_BEE@SCHOOLS.GOV.SG |
 
 #### Primary 5
 
 | Name 	| Class 	| Email 	|
 |---	|---	|---	|
-| Ms Sew Pui Huang	| P5 Courage	| sew_pui_huang@moe.edu.sg   |
-| Mdm Yang Yiqun	| P5 Courage	| yang_yiqun@moe.edu.sg   |
+| Mrs Anne Goh	| P5 Courage	| ANNE_MARY_PUHAINDRAN@SCHOOLS.GOV.SG   |
+| Mr Charles Timothy D'Cruz	| P5 Courage	| CHARLES_TIMOTHY_D_CRUZ@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Mrs Chew Meng Lee Christin	| P5 Diligence	| chua_meng_lee@moe.edu.sg   |
-| Ms Nur Amirah Binte Mohd Nasir	| P5 Diligence	| nur_amirah_mohamad_nasir@moe.edu.sg   |
+| Mr Darren Micheal Sandosham	| P5 Diligence	| SANDOSHAM_DARREN_MICHEAL@SCHOOLS.GOV.SG   
+| Ms Elizabeth Lee Norlawati 	| P5 Diligence	| LEE_ELIZABETH_NORLAWATI@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Mr Yu Kai Yao Rich	| P5 Empathy	| yu_kai_yao_rich@moe.edu.sg   |
-| Mdm Yasotha D/O Loganadan	| P5 Empathy	| yasotha_loganadan@moe.edu.sg   |
+| Mr Ezri Fadli Bin Junadi	| P5 Empathy	| EZRI_FADLI_JUNADI@SCHOOLS.GOV.SG   |
+| Mrs Ng Shu Hui	| P5 Empathy	| POH_SHU_HUI@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Ms Eileen Leong 	| P5 Fortitude	| leong_ee_lin_eileen@moe.edu.sg   |
-| Mr Charles Rajan	| P5 Fortitude	| charles_rajan_maniam@moe.edu.sg   |
+| Mr Jeffrey Stephen Espehana	| P5 Fortitude	| JEFFREY_STEPHEN_ESPEHANA@SCHOOLS.GOV.SG   |
+| Mdm Thia Lee Lian	| P5 Fortitude	| THIA_LEE_LIAN@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Ms Teresa Luo	| P5 Gratitude	| luo_xinyi_teresa@moe.edu.sg   |
-| Mr Jansher Khan	| P5 Gratitude	| jansher_khan@moe.edu.sg   |
+| Mr Sherwin Goh Si Win	| P5 Gratitude	| GOH_SI_WIN_SHERWIN@SCHOOLS.GOV.SG   |
+| Mdm Nicole Anne Tan	| P5 Gratitude	| TAN_NICOLE_ANNE@SCHOOLS.GOV.SG |
+| Mdm Pee May May	| P5 Gratitude	|PEE_MAY_MAY@SCHOOLS.GOV.SG |
 |  	|  	|  	|
-| Mr Wu Puwen	| P5 Humility	| wu_puwen@moe.edu.sg   |
+| Mrs Christine Nyoman	| P5 Humility	| TAN_LAY_KOON_CHRISTINE@SCHOOLS.GOV.SG   |
+| Mrs Christin Chew Meng Lee	| P5 Humility	| CHUA_MENG_LEE@SCHOOLS.GOV.SG   |
+| Mdm Tan Ai Foong	| P5 Humility	| tan_ai_foong_a@moe.edu.sg   |
 
 #### Primary 6
 
 | Name 	| Class 	| Email 	|
 |---	|---	|---	|
-| Mrs Christine Nyoman	| P6 Courage	| tan_lay_koon_christine@moe.edu.sg   |
-| Mdm Nicole Anne Tan	| P6 Courage	| tan_nicole_anne@moe.edu.sg   |
+| Ms Sew Pui Huang	| P6 Courage	| SEW_PUI_HUANG@SCHOOLS.GOV.SG   |
+| Mdm Azizah Abdul Razak	| P6 Courage	| AZIZAH_ABDUL_RAZAK@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Mr Yeo Quan Kai	| P6 Diligence	| yeo_quan_kai@moe.edu.sg   |
-| Mr Tan Yi Ru	| P6 Diligence	| tan_yi_ru@moe.edu.sg   |
+| Mdm Lang Jia Jing	| P6 Diligence	| LANG_JIA_JING@SCHOOLS.GOV.SG   |
+| Ms Nur Amirah Binte Mohd Nasir	| P6 Diligence|NUR_AMIRAH_MOHAMAD_NASIR@SCHOOLS.GOV.SG |
 |  	|  	|  	|
-| Mrs Anne Goh	| P6 Empathy	| anne_mary_puhaindran@moe.edu.sg   |
-| Mr Darren Sandosham	| P6 Empathy	| sandosham_darren_micheal@moe.edu.sg   |
+| Mr Rich Yu Kai Yao	| P6 Empathy	| YU_KAI_YAO_RICH@SCHOOLS.GOV.SG   |
+| Mdm Yasotha D/O Loganadan	| P6 Empathy	| YASOTHA_LOGANADAN@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Mr Sherwin Goh	| P6 Fortitude	| goh_si_win_sherwin@moe.edu.sg   |
-| Ms Elizabeth Lee Norlawati	| P6 Fortitude	| lee_elizabeth_norlawati@moe.edu.sg   |
+| Ms Eileen Leong	| P6 Fortitude	| LEONG_EE_LIN_EILEEN@SCHOOLS.GOV.SG   |
+| Mrs April Sachi	| P6 Fortitude	| TEO_APRIL@SCHOOLS.GOV.SG  |
 |  	|  	|  	|
-| Mr Wong Siew Kheong	| P6 Gratitude	| wong_siew_kheong@moe.edu.sg   |
-| Mrs Katherine Michael	| P6 Gratitude	| tan_kiat_beekatherine@moe.edu.sg   |
+| Ms Teresa Luo Xinyi	| P6 Gratitude	| LUO_XINYI_TERESA@SCHOOLS.GOV.SG   |
+| Mr Jansher Khan	| P6 Gratitude	| JANSHER_KHAN@SCHOOLS.GOV.SG   |
 |  	|  	|  	|
-| Ms Rozita Bte Mohd Said	| P6 Humility	| rozita_mohamad_said@moe.edu.sg    |
-| Mdm Hidayah Abdul Aziz	| P6 Humility	| siti_nurhidayah_abdul_aziz@moe.edu.sg   |
+| Mr Wu Puwen	| P6 Humility	| WU_PUWEN@SCHOOLS.GOV.SG    |
+| Mdm Jayapal Hema	| P6 Humility	| JAYAPAL_HEMA@SCHOOLS.GOV.SG   |
+| Mdm Jayalatchumy Pitchayan	| P6 Humility	|    |
