@@ -3,6 +3,7 @@ title: School Management
 permalink: /ststephen/staff/school-management/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 ### School Management
 
@@ -18,9 +19,9 @@ third_nav_title: Staff
 |---	|---	|
 | **English**<br>Mrs Charlene Siew 	| <br>goh_chai_ling@moe.edu.sg 	|
 | **Mathematics**<br>Mrs Irene Ng 	|<br> irene_ng_sze_kiat@moe.edu.sg 	|
-| **Science**<br>Mr Lim Meng Thong 	|<br> lim_meng_thong@moe.edu.sg 	|
 | **Mother Tongue**<br>Mdm Ouw Li Shan 	| <br>ouw_li_shan@moe.edu.sg  	|
-| **Information Communication Technology (ICT)**<br>Mdm Murni Masuath 	| <br>murni_masuath@moe.edu.sg 	|
+| **Information Communication Technology (ICT) Ed Tech**<br>Mr Royston Low Kai Ming | <br> royston_low@moe.edu.sg|
+| **Learning Technologies**<br>Mdm Murni Masuath 	| <br>murni_masuath@moe.edu.sg 	|
 | **Physical Education**<br>Mr Stephen Tan 	| <br>tan_aik_kao_stephen@moe.edu.sg 	|
 | **Character &amp; Citizenship Education (CCE)**<br>Mrs Danielle Hon-Selvanathen 	| <br>hon_wymun_danielle@moe.edu.sg 	|
 | **Discipline**<br>Mr Sheikh Alauddin Abdul Aleem 	| <br>sheikh_alauddin_abdul_aleem@moe.edu.sg  	|
@@ -34,18 +35,18 @@ third_nav_title: Staff
 | **Level Head Science**<br>Mdm Herdawati Suleiman 	| <br>herdawati_suleiman@moe.edu.sg 	|
 | **Level Head English Language**<br>Mdm Nicole Anne Tan 	| <br>tan_nicole_anne@moe.edu.sg 	|
 | **Level Head Mathematics**<br>Ms Nur Amirah Mohamad Nasir 	| <br>nur_amirah_mohamad_nasir@moe.edu.sg 	|
-| **Subject Head CCA**<br>Mr Jansher Khan 	| jansher_khan@moe.edu.sg 	|
+| **Level Head PE/CCA**<br>Mr Jansher Khan 	| jansher_khan@moe.edu.sg 	|
 
 #### Year Head / Assistant Year Head
 
 |  	|  	|   |
 |---	|---	|---	|
-| **P1**|Ms Norshahidah Aziz  	| norshahidah_aziz@moe.edu.sg  	|
-| **P2**|Mdm Pee May May 	| pee_may_may@moe.edu.sg 	|
-| **P3**|Ms Nuraini Abdul Samat 	| nuraini_abdul_samat@moe.edu.sg 	|
-| **P4**|Mdm Belle Taw  	|taw_ai_hiang@moe.edu.sg 	|
-| **P5**|Mdm Yasotha Loganadan 	|yasotha_loganadan@moe.edu.sg 	|
-| **P6**|Ms Elizabeth Lee Norlawati 	| lee_elizabeth_norlawati@moe.edu.sg 	|
+| **P1**|Ms Nurul Amelia Bte Akhtiar 	| norshahidah_aziz@moe.edu.sg  	|
+| **P2**|Ms Norshahidah Bte Aziz 	| pee_may_may@moe.edu.sg 	|
+| **P3**|	| 	|
+| **P4**|Ms Nuraini Abdul Samat   	|nuraini_abdul_samat@moe.edu.sg 	|
+| **P5**|Ms Elizabeth Lee Norlawati  	|lee_elizabeth_norlawati@moe.edu.sg	|
+| **P6**|Mdm Yasotha D/O Loganadan 	|  yasotha_loganadan@moe.edu.sg|
 
 #### Teacher Leaders
 
