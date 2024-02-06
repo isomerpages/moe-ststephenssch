@@ -14,26 +14,26 @@ variant: markdown
 |Mrs Isabelle Lim Niam Chin|P1 Courage |TAY_NIAM_CHIN@SCHOOLS.GOV.SG|
 |Ms Haslindah Binte Ab Rahman	| P1 Courage	| HASLINDAH_AB_RAHMAN@SCHOOLS.GOV.SG	|
 |   	|   	|   	|
-| Ms Tan Tse See	| P1 Diligence	| belle_koh@moe.edu.sg	|
-| Mr Loh Hon Kee	| P1 Diligence	| norshahidah_aziz@moe.edu.sg	|
+| Ms Tan Tse See	| P1 Diligence	| TAN_TSE_SEE@SCHOOLS.GOV.SG	|
+| Mr Loh Hon Kee	| P1 Diligence	| 	|
 |   	|   	|   	|
-| Mdm Kareena Mohd Ally | P1 Empathy	| abdul_rauf_a_a@moe.edu.sg	|
-| Mdm Mavis Goh Hui Ling	| P1 Empathy	| shi_kaili_fiona@moe.edu.sg	|
+| Mdm Kareena Mohd Ally | P1 Empathy	| KAREENA_MOHAMED_ALLY@SCHOOLS.GOV.SG	|
+| Mdm Mavis Goh Hui Ling	| P1 Empathy	| 	|
 |   	|   	|   	|
-| Mrs Agatha Dyason	| P1 Fortitude	| fong_jie_min@moe.edu.sg	|
-| Ms Rajeswari d/o Mogan| P1 Fortitude	| ang_chee_peng@moe.edu.sg|
+| Mrs Agatha Dyason	| P1 Fortitude	| AGATHA_DYASON@SCHOOLS.GOV.SG	|
+| Ms Rajeswari d/o Mogan| P1 Fortitude	| |
 |   	|   	|   	|
-|Ms Nur Amirah Binte Azman | P1 Gratitude	| cheong_lee_ling@moe.edu.sg|
-|Mr Ernest Tan Ren Xian	| P1 Gratitude	| chan_joo_eng@moe.edu.sg	|
+|Ms Nur Amirah Binte Azman | P1 Gratitude	| NUR_AMIRAH_AZMAN@SCHOOLS.GOV.SG|
+|Mr Ernest Tan Ren Xian	| P1 Gratitude	| 	|
 |   	|   	|   	|
-| Ms Siti Nadia Amirah Bte Muhammad Ariff Khoo | P1 Humility	| huang_jie@moe.edu.sg	|
-| Ms Nurul Amelia Bte Akhtiar	| P1 Humility	| lim_ee_chen@moe.edu.sg	|
+| Ms Siti Nadia Amirah Bte Muhammad Ariff Khoo | P1 Humility	| SITI_NADIA_AMIRAH_MUHAMMAD@SCHOOLS.GOV.SG	|
+| Ms Nurul Amelia Bte Akhtiar	| P1 Humility	| NURUL_AMELIA_AKHTIAR@SCHOOLS.GOV.SG	|
 |   	|   	|   	|
-| Ms Chue Weixin	| P1 Integrity	| wong_see_ting@moe.edu.sg	|
-| Mdm Yuan Yingna	| P1 Integrity	| foo_mei_yih@moe.edu.sg	|
+| Ms Chue Weixin	| P1 Integrity	| CHUE_WEIXIN@SCHOOLS.GOV.SG	|
+| Mdm Yuan Yingna	| P1 Integrity	| YUAN_YINGNA@SCHOOLS.GOV.SG	|
 |   	|   	|   	|
-| Ms Rynda Tay Lei Yi 	| P1 Joy	| loh_hui_yan_charmaine@moe.edu.sg	|
-| Mdm Zhang Li	| P1 Joy	| budi_sim_jong_fu@moe.edu.sg	|
+| Ms Rynda Tay Lei Yi 	| P1 Joy	| TAY_LEI_YI@SCHOOLS.GOV.SG	|
+| Mdm Zhang Li	| P1 Joy	| ZHANG_LI_C@SCHOOLS.GOV.SG	|
 
 #### Primary 2
 
