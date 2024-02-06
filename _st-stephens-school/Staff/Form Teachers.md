@@ -116,41 +116,45 @@ variant: markdown
 
 | Name 	| Class 	| Email 	|
 |---	|---	|---	|
-| Ms Sew Pui Huang	| P5 Courage	| sew_pui_huang@moe.edu.sg   |
-| Mdm Yang Yiqun	| P5 Courage	| yang_yiqun@moe.edu.sg   |
+| Mrs Anne Goh	| P5 Courage	| sew_pui_huang@moe.edu.sg   |
+| Mr Charles Timothy D'Cruz	| P5 Courage	| yang_yiqun@moe.edu.sg   |
 |  	|  	|  	|
-| Mrs Chew Meng Lee Christin	| P5 Diligence	| chua_meng_lee@moe.edu.sg   |
-| Ms Nur Amirah Binte Mohd Nasir	| P5 Diligence	| nur_amirah_mohamad_nasir@moe.edu.sg   |
+| Mr Darren Micheal Sandosham	| P5 Diligence	| chua_meng_lee@moe.edu.sg   |
+| Ms Elizabeth Lee Norlawati 	| P5 Diligence	| nur_amirah_mohamad_nasir@moe.edu.sg   |
 |  	|  	|  	|
-| Mr Yu Kai Yao Rich	| P5 Empathy	| yu_kai_yao_rich@moe.edu.sg   |
-| Mdm Yasotha D/O Loganadan	| P5 Empathy	| yasotha_loganadan@moe.edu.sg   |
+| Mr Ezri Fadli Bin Junadi	| P5 Empathy	| yu_kai_yao_rich@moe.edu.sg   |
+| Mrs Ng Shu Hui	| P5 Empathy	| yasotha_loganadan@moe.edu.sg   |
 |  	|  	|  	|
-| Ms Eileen Leong 	| P5 Fortitude	| leong_ee_lin_eileen@moe.edu.sg   |
-| Mr Charles Rajan	| P5 Fortitude	| charles_rajan_maniam@moe.edu.sg   |
+| Mr Jeffrey Stephen Espehana	| P5 Fortitude	| leong_ee_lin_eileen@moe.edu.sg   |
+| Mdm Thia Lee Lian	| P5 Fortitude	| charles_rajan_maniam@moe.edu.sg   |
 |  	|  	|  	|
-| Ms Teresa Luo	| P5 Gratitude	| luo_xinyi_teresa@moe.edu.sg   |
-| Mr Jansher Khan	| P5 Gratitude	| jansher_khan@moe.edu.sg   |
+| Mr Sherwin Goh Si Win	| P5 Gratitude	| luo_xinyi_teresa@moe.edu.sg   |
+| Mdm Nicole Anne Tan	| P5 Gratitude	| jansher_khan@moe.edu.sg   |
+| Mdm Pee May May	| P5 Gratitude	| jansher_khan@moe.edu.sg   |
 |  	|  	|  	|
-| Mr Wu Puwen	| P5 Humility	| wu_puwen@moe.edu.sg   |
+| Mrs Christine Nyoman	| P5 Humility	| luo_xinyi_teresa@moe.edu.sg   |
+| Mrs Christin Chew Meng Lee	| P5 Humility	| jansher_khan@moe.edu.sg   |
+| Mdm Tan Ai Foong	| P5 Humility	| jansher_khan@moe.edu.sg   |
 
 #### Primary 6
 
 | Name 	| Class 	| Email 	|
 |---	|---	|---	|
-| Mrs Christine Nyoman	| P6 Courage	| tan_lay_koon_christine@moe.edu.sg   |
-| Mdm Nicole Anne Tan	| P6 Courage	| tan_nicole_anne@moe.edu.sg   |
+| Ms Sew Pui Huang	| P6 Courage	| tan_lay_koon_christine@moe.edu.sg   |
+| Mdm Azizah Abdul Razak	| P6 Courage	| tan_nicole_anne@moe.edu.sg   |
 |  	|  	|  	|
-| Mr Yeo Quan Kai	| P6 Diligence	| yeo_quan_kai@moe.edu.sg   |
-| Mr Tan Yi Ru	| P6 Diligence	| tan_yi_ru@moe.edu.sg   |
+| Mdm Lang Jia Jing	| P6 Diligence	| yeo_quan_kai@moe.edu.sg   |
+|Ms Nur Amirah Binte Mohd Nasir	| P6 Diligence	| tan_yi_ru@moe.edu.sg   |
 |  	|  	|  	|
-| Mrs Anne Goh	| P6 Empathy	| anne_mary_puhaindran@moe.edu.sg   |
-| Mr Darren Sandosham	| P6 Empathy	| sandosham_darren_micheal@moe.edu.sg   |
+| Mr Rich Yu Kai Yao	| P6 Empathy	| anne_mary_puhaindran@moe.edu.sg   |
+| Mdm Yasotha D/O Loganadan	| P6 Empathy	| sandosham_darren_micheal@moe.edu.sg   |
 |  	|  	|  	|
-| Mr Sherwin Goh	| P6 Fortitude	| goh_si_win_sherwin@moe.edu.sg   |
-| Ms Elizabeth Lee Norlawati	| P6 Fortitude	| lee_elizabeth_norlawati@moe.edu.sg   |
+| Ms Eileen Leong	| P6 Fortitude	| goh_si_win_sherwin@moe.edu.sg   |
+| Mrs April Sachi	| P6 Fortitude	| lee_elizabeth_norlawati@moe.edu.sg   |
 |  	|  	|  	|
-| Mr Wong Siew Kheong	| P6 Gratitude	| wong_siew_kheong@moe.edu.sg   |
-| Mrs Katherine Michael	| P6 Gratitude	| tan_kiat_beekatherine@moe.edu.sg   |
+| Ms Teresa Luo Xinyi	| P6 Gratitude	| wong_siew_kheong@moe.edu.sg   |
+| Mr Jansher Khan	| P6 Gratitude	| tan_kiat_beekatherine@moe.edu.sg   |
 |  	|  	|  	|
-| Ms Rozita Bte Mohd Said	| P6 Humility	| rozita_mohamad_said@moe.edu.sg    |
-| Mdm Hidayah Abdul Aziz	| P6 Humility	| siti_nurhidayah_abdul_aziz@moe.edu.sg   |
+| Mr Wu Puwen	| P6 Humility	| rozita_mohamad_said@moe.edu.sg    |
+| Mdm Jayapal Hema	| P6 Humility	| siti_nurhidayah_abdul_aziz@moe.edu.sg   |
+| Mdm Jayalatchumy Pitchayan	| P6 Humility	| siti_nurhidayah_abdul_aziz@moe.edu.sg   |
