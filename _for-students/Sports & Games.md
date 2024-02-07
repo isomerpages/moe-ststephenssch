@@ -2,8 +2,9 @@
 title: Sports & Games
 permalink: /for-students/sports-and-games/
 description: ""
+variant: markdown
 ---
-### Sports & Games
+### Sports &amp; Games
 
 <img src="/images/sg1.png" style="width:80%">
 
@@ -25,6 +26,7 @@ Provide a platform for the promotion and growth of Badminton in St Stephen Schoo
 
 #### Basketball
 
+![Basketball Team](/images/Basketball_CCA.jpeg)
 
 ##### VISION
 
@@ -86,12 +88,12 @@ Enabling Stephenians to be masters of the game, empowering them to be men for ot
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
 | Football 	| Mr Ezri Fadli Bin Junadi 	| ezri_fadli_junadi@moe.edu.sg<br><br> 	| Tuesday<br>Friday 	| 2:15 pm to<br>4.15 pm 	| Hall 	|
 
-#### Track & Field
+#### Track &amp; Field
 
 
 ##### VISION
 
-Every athlete striving for Track & Field Excellence  
+Every athlete striving for Track &amp; Field Excellence  
   
 
 ##### MISSION
@@ -100,7 +102,7 @@ Every athlete being developed in mind, body and spirit
 
 | CCA 	| Tr-in-charge 	| Email address of main i/c 	| Day 	| Time 	| Venue 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Track & Field 	| Mr Chrispian Tirtamaya 	| chrispian_tirtamaya@moe.edu.sg<br><br> 	| Tuesday<br>Thursday<br>Friday 	| 2:15 pm to<br>4.15 pm 	| VJC / School 	|
+| Track &amp; Field 	| Mr Chrispian Tirtamaya 	| chrispian_tirtamaya@moe.edu.sg<br><br> 	| Tuesday<br>Thursday<br>Friday 	| 2:15 pm to<br>4.15 pm 	| VJC / School 	|
 
 #### Ad-Hoc Sports (NSG)
 
