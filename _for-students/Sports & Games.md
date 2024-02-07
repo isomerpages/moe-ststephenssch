@@ -39,7 +39,7 @@ Provide the platform for every Stephenian to spring upon and achieve his basketb
 
 | CCA 	| Tr-in-charge 	| Email address of main i/c 	| Day 	| Time 	| Venue 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Basketball 	| Mrs Katherine Michael 	| tan_kiat_beekatherine@moe.edu.sg<br><br> 	| Tuesday<br>Friday 	| 2:15 pm to<br>4.15 pm 	| SBC 	|
+| Basketball 	|  Mr Abdul Rauf	| ABDUL_RAUF_A_A@SCHOOLS.GOV.SG<br><br> 	| Tuesday<br>Friday 	| 2:15 pm to<br>4.15 pm 	| SBC 	|
 
 #### Cricket
 
