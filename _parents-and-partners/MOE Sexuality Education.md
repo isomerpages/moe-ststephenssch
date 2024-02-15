@@ -42,7 +42,7 @@ decisions for yourself, your family and society; and</p>
 before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <hr>
-<p>You may click&nbsp; https://go.gov.sg/moe-sexuality-education &nbsp;for
+<p>You may click&nbsp; <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a> &nbsp;for
 more information on MOE Sexuality Education.</p>
 <hr>
 <p>OVERVIEW OF ST. STEPHEN’S SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</p>
@@ -50,14 +50,13 @@ more information on MOE Sexuality Education.</p>
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
 Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
-Law. You may click here (https://go.gov.sg/moe-sexuality-education-scope)
-for more information on the scope of Sexuality Education in the school
-curriculum.&nbsp;</p>
+Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here (https://go.gov.sg/moe-sexuality-education-scope)</a> for
+more information on the scope of Sexuality Education in the school curriculum.&nbsp;</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
 on sexuality include:</p>
 <p>a.&nbsp; &nbsp; &nbsp; &nbsp;Science</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship
-Education (CCE)</p>
+<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
+(CCE)</p>
 <p><strong>Sexuality Education Lessons</strong>:</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years mark the
 onset of puberty. With better nutrition and improved health care, children
