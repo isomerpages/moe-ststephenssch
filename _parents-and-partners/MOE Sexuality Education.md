@@ -15,7 +15,7 @@ of society. This means encouraging healthy, heterosexual marriages and
 stable nuclear family units with extended family support. The teaching
 and learning of SEd is based on respect for the values and beliefs of the
 different ethnic and religious communities in Singapore on sexuality issues.</p>
-<hr>
+<p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
 Education are:</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Support
@@ -28,7 +28,7 @@ matters.</p>
 students develop a moral compass and respect for themselves and others
 by having positive mainstream values and attitudes about sexuality that
 are premised on the family as the basic unit of society.</p>
-<hr>
+<p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Love
@@ -41,11 +41,12 @@ decisions for yourself, your family and society; and</p>
 <p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstinence
 before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
-<hr>
+<p></p>
 <p>You may click&nbsp; <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a> &nbsp;for
 more information on MOE Sexuality Education.</p>
-<hr>
-<p>OVERVIEW OF ST. STEPHEN’S SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</p>
+<p></p>
+<p><strong>OVERVIEW OF ST. STEPHEN’S SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</strong>
+</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
@@ -76,7 +77,7 @@ emotional changes in their growing years. They learn to build healthy and
 rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
-<hr>
+<p></p>
 <p><strong>At St. Stephen’s School, the following Sexuality Education lessons will be taught in 2024:</strong>
 </p>
 <div class="isomer-image-wrapper">
