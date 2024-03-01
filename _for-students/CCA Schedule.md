@@ -103,7 +103,7 @@ variant: tiptap
 <p>Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday (Dev Team)
+<p>Tuesday
 <br>Tuesday (Sch Team)
 <br>Friday (Sch Team)</p>
 </td>
