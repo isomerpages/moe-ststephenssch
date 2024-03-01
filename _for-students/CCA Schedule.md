@@ -82,7 +82,7 @@ variant: tiptap
 <p>Floorball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday &amp;
+<p>Tuesday (Sch Team) &amp;
 <br>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
