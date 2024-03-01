@@ -89,7 +89,7 @@ Every athlete being developed in mind, body and spirit
 
 | CCA 	| Tr-in-charge 	| Email address of main i/c 	| Day 	| Time 	| Venue 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Track &amp; Field 	| Mr Chrispian Tirtamaya 	| chrispian_tirtamaya@moe.edu.sg<br><br> 	| Tuesday<br>Thursday<br>Friday 	| 2:15 pm to<br>4.15 pm 	| VJC / School 	|
+| Track &amp; Field 	| Mr Chrispian Tirtamaya 	| chrispian_tirtamaya@moe.edu.sg<br><br> 	| Tuesday<br>Thursday (Sch Team)<br>Friday 	| 2:15 pm to<br>4.15 pm 	| VJC / School 	|
 
 #### Ad-Hoc Sports (NSG)
 
