@@ -61,6 +61,7 @@ Every Stephenian being developed in mind, body and spirit
 
 #### Football
 
+[Football CCA Video](https://www.youtube.com/watch?v=D6fxwqaNPi8)
 
 ##### VISION
 
