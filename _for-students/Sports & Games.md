@@ -22,7 +22,7 @@ Provide a platform for the promotion and growth of Badminton in St Stephen Schoo
 
 | CCA 	| Tr-in-charge 	| Email address of main i/c 	| Day 	| Time 	| Venue 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Badminton 	| Ms Thia Lee Lian 	| thia_lee_lian@moe.edu.sg<br> 	| Tuesday<br>Friday 	| 2:15 pm to<br>4.15 pm 	| ISH 	|
+| Badminton 	| Mr Sherwin Goh Si Win 	| goh_si_win_sherwin@moe.edu.sg<br> 	| Tuesday<br>Friday 	| 2:15 pm to<br>4.15 pm 	| ISH 	|
 
 #### Basketball
 
@@ -39,22 +39,9 @@ Provide the platform for every Stephenian to spring upon and achieve his basketb
 
 | CCA 	| Tr-in-charge 	| Email address of main i/c 	| Day 	| Time 	| Venue 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Basketball 	|  Mr Abdul Rauf	| ABDUL_RAUF_A_A@SCHOOLS.GOV.SG<br><br> 	| Tuesday<br>Friday 	| 2:15 pm to<br>4.15 pm 	| SBC 	|
+| Basketball 	|  Mr Abdul Rauf	| abdul_rauf_a_a@moe.edu.sg<br><br> 	| Tuesday<br>Friday 	| 2:15 pm to<br>4.15 pm 	| SBC 	|
 
-#### Cricket
 
-##### VISION
-
-Enter to Learn. Leave To Serve – To humbly learn and give off the best at all times.  
-  
-
-##### MISSION
-
-To develop character and mental strength through sports training.
-
-| CCA 	| Tr-in-charge 	| Email address of main i/c 	| Day 	| Time 	| Venue 	|
-|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Cricket 	| Ms Eileen Leong 	| leong_ee_lin_eileen@moe.edu.sg<br><br> 	| Tuesday 	| 2:15 pm to<br>4.15 pm 	| Parade Square 	|
 
 #### Floorball
 
@@ -86,7 +73,7 @@ Enabling Stephenians to be masters of the game, empowering them to be men for ot
 
 | CCA 	| Tr-in-charge 	| Email address of main i/c 	| Day 	| Time 	| Venue 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Football 	| Mr Ezri Fadli Bin Junadi 	| ezri_fadli_junadi@moe.edu.sg<br><br> 	| Tuesday<br>Friday 	| 2:15 pm to<br>4.15 pm 	| Hall 	|
+| Football 	| Mr Taufiq Izzudin Bin Jamaludin	| taufiq_izzudin_jamaludin@moe.edu.sg<br><br> 	| Tuesday<br>Friday 	| 2:15 pm to<br>4.15 pm 	| Hall 	|
 
 #### Track &amp; Field
 
