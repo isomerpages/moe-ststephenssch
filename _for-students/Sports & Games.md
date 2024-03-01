@@ -9,6 +9,8 @@ variant: tiptap
 <img style="width:80%" height="auto" width="100%" src="/images/sg1.png">
 </div>
 <h4>Badminton</h4>
+<p><a href="https://youtu.be/viKqIZz3oIw" rel="noopener noreferrer nofollow" target="_blank">Badminton CCA Video</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton.jpg">
 </div>
@@ -66,6 +68,8 @@ School</p>
 </tbody>
 </table>
 <h4>Basketball</h4>
+<p><a href="https://youtu.be/8c23YQh3l-M" rel="noopener noreferrer nofollow" target="_blank">Basketball CCA Video</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Basketball Team" src="/images/Basketball_CCA.jpeg">
 </div>
@@ -125,6 +129,8 @@ basketball potential.</p>
 </tbody>
 </table>
 <h4>Floorball</h4>
+<p><a href="https://youtu.be/XlwYJmFdijI" rel="noopener noreferrer nofollow" target="_blank">Floorball CCA Video</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball.jpg">
 </div>
@@ -183,11 +189,11 @@ Sports Excellence</p>
 </tbody>
 </table>
 <h4>Football</h4>
+<p><a href="https://www.youtube.com/watch?v=0KK31d3wKxw" rel="noopener noreferrer nofollow" target="_blank">Football CCA Video</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football_Team.jpg">
 </div>
-<p><a href="https://youtu.be/0KK31d3wKxw" rel="noopener noreferrer nofollow" target="_blank">Football CCA Video</a>
-</p>
 <h5>VISION</h5>
 <p>A community of inquiring soccer players with determination and skill excelling
 for the Glory of God.</p>
@@ -244,6 +250,8 @@ men for others.</p>
 </tbody>
 </table>
 <h4>Track &amp; Field</h4>
+<p><a href="https://youtu.be/Bqi7VHTMazY" rel="noopener noreferrer nofollow" target="_blank">Track &amp; Field CCA Video</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track___Field.jpg">
 </div>
