@@ -101,8 +101,6 @@ Every athlete being developed in mind, body and spirit
 
 	*   [Key Activities](https://staging.d2cjzrom1e1f8a.amplifyapp.com/sports-and-games/Badminton/key-activities/)
 
-*   [Cricket](https://staging.d2cjzrom1e1f8a.amplifyapp.com/sports-and-games/Cricket/overview/)
-
 	*   [Key Activities](https://staging.d2cjzrom1e1f8a.amplifyapp.com/sports-and-games/Cricket/key-activities/)
 
 *   [Floorball](https://staging.d2cjzrom1e1f8a.amplifyapp.com/sports-and-games/Floorball/overview/)
