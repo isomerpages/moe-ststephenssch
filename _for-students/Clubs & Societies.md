@@ -2,8 +2,9 @@
 title: Clubs & Societies
 permalink: /for-students/clubs-and-societies/
 description: ""
+variant: markdown
 ---
-### Clubs & Societies
+### Clubs &amp; Societies
 
 <img src="/images/cs1.png" style="width:80%">
 
@@ -20,7 +21,7 @@ Encourage a deeper understanding and enjoyment of modern and contemporary art.
 
 | CCA 	| Tr-in-charge 	| Email address of main i/c 	| Day 	| Time 	| Venue 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Art Club 	| Ms Poh Shu Hui 	| nuraini_abdul_samat@moe.edu.sg<br> 	| Friday 	| 2:15 pm to<br>4.15 pm 	| Art Room<br>( L3-25) 	|
+| Art Club 	| Ms Nuraini Abdul Samat 	| nuraini_abdul_samat@moe.edu.sg<br> 	| Friday 	| 2:15 pm to<br>4.15 pm 	| Art Room<br>( L3-25) 	|
 
 #### Media Productions
 
@@ -37,7 +38,7 @@ Enabling all Stephenians to learn info communication knowledge, empowering them 
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
 | Media Productions 	| Ms Poh Shu Hui 	| poh_shu_hui@moe.edu.sg 	| Friday 	| 2:15 pm to<br>4.15 pm 	| Com Lab 3<br>L4-11 	|
 
-#### Science & Green Technology
+#### Science &amp; Green Technology
 
 ##### VISION
 
@@ -46,17 +47,17 @@ To build a community of inquiring and responsible Science learners
 
 ##### MISSION
 
-To develop pupils to be inquisitive & enthusiastic Science learners, equipped with knowledge, skills and attitude to develop the world around them
+To develop pupils to be inquisitive &amp; enthusiastic Science learners, equipped with knowledge, skills and attitude to develop the world around them
 
 | CCA 	| Tr-in-charge 	| Email address of main i/c 	| Day 	| Time 	| Venue 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Science &<br>Green Tech 	| Mr Yeo Quan Kai 	| yeo_quan_kai@moe.edu.sg 	| Friday 	| 2:15 pm to<br>4.15 pm 	| Science Lab<br>L2-21 	|
+| Science &amp;<br>Green Tech 	| Mr Yeo Quan Kai 	| yeo_quan_kai@moe.edu.sg 	| Friday 	| 2:15 pm to<br>4.15 pm 	| Science Lab<br>L2-21 	|
 
 #### Robotics
 
 | CCA 	| Trs-in-charge 	| Email address of main i/c 	| Day 	| Time 	| Venue 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Robotics 	| Mr Wong Siew Keong 	| wong_siew_kheong@moe.edu.sg 	| Tuesday<br><br> 	| 2:15 pm to<br>4.15 pm<br> 	| Computer lab 1 (L2-14)<br>(competition)<br><br>Computer lab 2 (L3-16)<br>(advanced)<br><br>Computer lab 3 (L4-11)<br>(Intermediate)<br><br>Library Resource (L3-13)<br>(Basic) 	|
+| Robotics 	| Mdm Goh Ka Bee 	| goh_ka_bee@moe.edu.sg 	| Tuesday<br><br> 	| 2:15 pm to<br>4.15 pm<br> 	| Computer lab 1 (L2-14)<br>(competition)<br><br>Computer lab 2 (L3-16)<br>(advanced)<br><br>Computer lab 3 (L4-11)<br>(Intermediate)<br><br>Library Resource (L3-13)<br>(Basic) 	|
 
 *   [Art](https://staging.d2cjzrom1e1f8a.amplifyapp.com/clubs-and-societies/Art/overview/)
 
@@ -66,7 +67,7 @@ To develop pupils to be inquisitive & enthusiastic Science learners, equipped wi
 
 	*   [Key Activities](https://staging.d2cjzrom1e1f8a.amplifyapp.com/clubs-and-societies/Media-Club/key-activities/)
 
-*   [Robotics & Science](https://staging.d2cjzrom1e1f8a.amplifyapp.com/clubs-and-societies/Robotics-and-Science/overview/)
+*   [Robotics &amp; Science](https://staging.d2cjzrom1e1f8a.amplifyapp.com/clubs-and-societies/Robotics-and-Science/overview/)
 
 	*   [Key Activities](https://staging.d2cjzrom1e1f8a.amplifyapp.com/clubs-and-societies/Robotics-and-Science/key-activities/)
 
