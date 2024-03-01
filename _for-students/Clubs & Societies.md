@@ -9,6 +9,7 @@ variant: markdown
 <img src="/images/cs1.png" style="width:80%">
 
 #### Art Club
+[Art Club CCA Video](https://youtu.be/R74krLVKnmE)
 
 ##### VISION
 
@@ -24,6 +25,7 @@ Encourage a deeper understanding and enjoyment of modern and contemporary art.
 | Art Club 	| Ms Nuraini Abdul Samat 	| nuraini_abdul_samat@moe.edu.sg<br> 	| Friday 	| 2:15 pm to<br>4.15 pm 	| Art Room<br>( L3-25) 	|
 
 #### Media Productions
+[Media &amp; Productions CCA Video](https://youtu.be/7yzPX1cv0ug)
 
 ##### VISION
 
