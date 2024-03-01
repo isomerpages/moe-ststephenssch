@@ -39,7 +39,7 @@ Provide the platform for every Stephenian to spring upon and achieve his basketb
 
 | CCA 	| Tr-in-charge 	| Email address of main i/c 	| Day 	| Time 	| Venue 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Basketball 	|  Mr Abdul Rauf	| abdul_rauf_a_a@moe.edu.sg<br><br> 	| Tuesday<br>Friday 	| 2:15 pm to<br>4.15 pm 	| SBC 	|
+| Basketball 	|  Mr Abdul Rauf	| abdul_rauf_a_a@moe.edu.sg<br><br> 	| Tuesday<br>Friday (Sch Team) 	| 2:15 pm to<br>4.15 pm 	| SBC 	|
 
 
 
@@ -57,7 +57,7 @@ Every Stephenian being developed in mind, body and spirit
 
 | CCA 	| Tr-in-charge 	| Email address of main i/c 	| Day 	| Time 	| Venue 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Floorball 	| Mr Elias Chiang 	| chiang_yong_jian_elias@moe.edu.sg<br><br> 	| Tuesday<br>Friday 	| 2:15 pm to<br>4.15 pm 	| Hall 	|
+| Floorball 	| Mr Elias Chiang 	| chiang_yong_jian_elias@moe.edu.sg<br><br> 	| Tuesday (Sch Team)<br>Friday 	| 2:15 pm to<br>4.15 pm 	| Hall 	|
 
 #### Football
 
@@ -73,7 +73,7 @@ Enabling Stephenians to be masters of the game, empowering them to be men for ot
 
 | CCA 	| Tr-in-charge 	| Email address of main i/c 	| Day 	| Time 	| Venue 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Football 	| Mr Taufiq Izzudin Bin Jamaludin	| taufiq_izzudin_jamaludin@moe.edu.sg<br><br> 	| Tuesday<br>Friday 	| 2:15 pm to<br>4.15 pm 	| Hall 	|
+| Football 	| Mr Taufiq Izzudin Bin Jamaludin	| taufiq_izzudin_jamaludin@moe.edu.sg<br><br> 	| Tuesday<br>Friday (Sch Team)	| 2:15 pm to<br>4.15 pm 	| Hall 	|
 
 #### Track &amp; Field
 
