@@ -4,20 +4,291 @@ permalink: /for-students/cca-schedule/
 description: ""
 variant: tiptap
 ---
-### CCA Schedule
-
-| NO 	| DOMAIN 	| CCA 	| TRAINING DAYS 	| TIME 	| Venue 	|
-|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| 1 	| Sports &amp; Games 	| Track &amp; Field 	| Tuesday, Thursday, Friday<br>Saturday (Comp Period) 	| 2.15pm - 4.15pm<br>8.00am - 10.30am 	| VJC/School 	|
-| 2 	| Sports &amp; Games 	| Football 	| Tuesday<br>Friday (Sch Team) 	| 2.15pm - 4.15pm<br>2.15pm - 4.15pm 	| School Field 	|
-| 3 	| Sports &amp; Games 	| Cricket 	| Tuesday 	| 2.15pm - 4.15pm 	| Sheltered Basketball Court 	|
-| 4 	| Sports &amp; Games 	| Floorball 	| Tuesday &amp;<br>Friday 	| 2.15pm - 4.15pm 	| School Hall 	|
-| 5 	| Sports &amp; Games 	| Badminton 	| Tuesday (Dev Team)<br>Tuesday (Sch Team)<br>Friday (Sch Team) 	| 2.15pm - 4.15pm<br>4.15pm - 6.15pm<br>2.15pm - 4.15pm 	| ISH 	|
-| 6 	| Sports &amp; Games 	| Basketball 	| Tuesday<br>Friday (Sch Team) 	| 2.15pm - 4.15pm<br>2.15pm - 4.15pm 	| Sheltered Basketball Court 	|
-| 7 	| Uniformed Group 	| Cub Scouts 	| Friday 	| 2.15pm - 4.15pm 	| Parade Square 	|
-| 8 	| Clubs &amp; Societies 	| Science &amp;<br>Green Club 	| Friday 	| 2.15pm - 4.15pm 	| Science Lab (L2 - 21) 	|
-| 9 	| Clubs &amp; Societies 	| Media Productions 	| Friday 	| 2.15pm - 4.15pm 	| Computer Lab 3 (L4- 11) 	|
-| 10 	| Clubs &amp; Societies 	| Robotics<br>(fees required) 	| Tuesday<br>Friday (Sch Team) 	| 2.15pm - 4.15pm<br>2.15pm - 4.15pm 	| Computer Lab 1 (L2-14) Competition <br>Computer Lab 2 (L3-16) Advanced<br>Computer Lab 3 (L4-11) Intermediate<br>Library Resource (L3-13) Basic 	|
-| 11 	| Performing Arts 	| Brass Band 	| Tuesday<br>Friday 	| 2.15pm - 5.15pm<br>2.15pm - 5.15pm 	| Band Room (ISH H3-01)/ Canteen 	|
-| 12 	| Performing Arts 	| Dance 	| Tuesday<br>Friday (Sem 1 only) 	| 2.15pm - 4.15pm<br>2.15pm - 4.15pm 	| Dance Room (ISH H3-02) 	|
-| 13 	| Performing Arts 	| Art 	| Friday 	| 2.15pm - 4.15pm 	| Art Room ( L3-25) 	|
+<h3>CCA Schedule</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>NO</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>DOMAIN</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>CCA</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>TRAINING DAYS</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>TIME</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sports &amp; Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Track &amp; Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday, Thursday (Sch Team), Friday
+<br>Saturday (Comp Period)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15pm - 4.15pm
+<br>8.00am - 10.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VJC/School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sports &amp; Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Football</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>Friday (Sch Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15pm - 4.15pm
+<br>2.15pm - 4.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Field</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sports &amp; Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Floorball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday (Sch Team) &amp;
+<br>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15pm - 4.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sports &amp; Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>Tuesday (Sch Team)
+<br>Friday (Sch Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15pm - 4.15pm
+<br>4.15pm - 6.15pm
+<br>2.15pm - 4.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sports &amp; Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>Friday (Sch Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15pm - 4.15pm
+<br>2.15pm - 4.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sheltered Basketball Court</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Uniformed Group</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cub Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15pm - 4.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parade Square</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Clubs &amp; Societies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science &amp;
+<br>Green Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15pm - 4.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science Lab (L2 - 21)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Clubs &amp; Societies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Media Productions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15pm - 4.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computer Lab 3 (L4- 11)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Clubs &amp; Societies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Robotics
+<br>(fees required)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>Friday (Sch Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15pm - 4.15pm
+<br>2.15pm - 4.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computer Lab 1 (L2-14) Competition
+<br>Computer Lab 2 (L3-16) Advanced
+<br>Computer Lab 3 (L4-11) Intermediate
+<br>Library Resource (L3-13) Basic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performing Arts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brass Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15pm - 5.15pm
+<br>2.15pm - 5.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Band Room (ISH H3-01)/ Canteen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performing Arts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>Friday (Sem 1 only)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15pm - 4.15pm
+<br>2.15pm - 4.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dance Room (ISH H3-02)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performing Arts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15pm - 4.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art Room ( L3-25)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

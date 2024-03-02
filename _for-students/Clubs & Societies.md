@@ -9,6 +9,7 @@ variant: markdown
 <img src="/images/cs1.png" style="width:80%">
 
 #### Art Club
+[Art Club CCA Video](https://youtu.be/R74krLVKnmE)
 
 ##### VISION
 
@@ -24,6 +25,7 @@ Encourage a deeper understanding and enjoyment of modern and contemporary art.
 | Art Club 	| Ms Nuraini Abdul Samat 	| nuraini_abdul_samat@moe.edu.sg<br> 	| Friday 	| 2:15 pm to<br>4.15 pm 	| Art Room<br>( L3-25) 	|
 
 #### Media Productions
+[Media &amp; Productions CCA Video](https://youtu.be/7yzPX1cv0ug)
 
 ##### VISION
 
@@ -39,7 +41,7 @@ Enabling all Stephenians to learn info communication knowledge, empowering them 
 | Media Productions 	| Ms Poh Shu Hui 	| poh_shu_hui@moe.edu.sg 	| Friday 	| 2:15 pm to<br>4.15 pm 	| Com Lab 3<br>L4-11 	|
 
 #### Science &amp; Green Technology
-
+[Science &amp; Green Technology CCA Video](https://youtu.be/m9-qTIT0uqA)
 ##### VISION
 
 To build a community of inquiring and responsible Science learners  
@@ -54,6 +56,16 @@ To develop pupils to be inquisitive &amp; enthusiastic Science learners, equippe
 | Science &amp;<br>Green Tech 	| Mr Yeo Quan Kai 	| yeo_quan_kai@moe.edu.sg 	| Friday 	| 2:15 pm to<br>4.15 pm 	| Science Lab<br>L2-21 	|
 
 #### Robotics
+[Robotics CCA Video](https://youtu.be/wioRIeNoL7U)
+
+##### VISION
+
+To build a community of inquiring and robotics and coding enthusiasts
+  
+
+##### MISSION
+
+To develop pupils to be inquisitive, creative and collaborative while developing themselves for mastery in the area of Robotics
 
 | CCA 	| Trs-in-charge 	| Email address of main i/c 	| Day 	| Time 	| Venue 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
