@@ -2,14 +2,14 @@
 title: Performing Arts
 permalink: /for-students/performing-arts/
 description: ""
+variant: markdown
 ---
 ### Performing Arts
 
 <img src="/images/pa1.png" style="width:80%">
 
 #### Brass Band
-
-
+[Brass Band CCA Video](https://www.youtube.com/watch?v=AeFUOVHK6PA)
 ##### VISION
 
 MUSIC FOR LIFE  
@@ -24,8 +24,7 @@ To enable Stephenians to achieve musical excellence.
 | Brass Band 	| Mr Darren Sandosham 	| sandosham_darren_micheal@moe.edu.sg<br> 	| Tuesday<br>Friday 	| 2:15 pm to<br>5.15 pm 	| Band Room<br>(ISH H3-01) 	|
 
 #### Modern Dance
-
-
+[Modern Dance CCA Video](https://www.youtube.com/watch?v=1w7H28Qb-7E&amp;feature=youtu.be)
 ##### VISION
 
 A dance group which is ambitious, inspiring and creative  
