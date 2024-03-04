@@ -10,6 +10,7 @@ variant: markdown
 
 #### Brass Band
 [Brass Band CCA Video](https://www.youtube.com/watch?v=AeFUOVHK6PA)
+
 ##### VISION
 
 MUSIC FOR LIFE  
