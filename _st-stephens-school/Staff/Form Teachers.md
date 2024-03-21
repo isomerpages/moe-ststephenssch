@@ -484,7 +484,7 @@ variant: tiptap
 <p>P2 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HUANG_JIE@SCHOOLS.GOV.SG</p>
+<p>huang_jie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -495,7 +495,7 @@ variant: tiptap
 <p>P2 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LIM_EE_CHEN@SCHOOLS.GOV.SG</p>
+<p>lim_ee_chen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -517,7 +517,7 @@ variant: tiptap
 <p>P2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WONG_SEE_TING@SCHOOLS.GOV.SG</p>
+<p>wong_see_ting@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -550,7 +550,7 @@ variant: tiptap
 <p>P2 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LOH_HUI_YAN_CHARMAINE@SCHOOLS.GOV.SG</p>
+<p>loh_hui_yan_charmaine@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -561,7 +561,7 @@ variant: tiptap
 <p>P2 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SITI_NURHIDAYAH_ABDUL_AZIZ@SCHOOLS.GOV.SG</p>
+<p>siti_nurhidayah_abdul_aziz@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -588,7 +588,7 @@ variant: tiptap
 <p>P3 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TAN_HUI_MIN_MELISSA@SCHOOLS.GOV.SG</p>
+<p>tan_hui_min_melissa@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -621,7 +621,7 @@ variant: tiptap
 <p>P3 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TAUFIQ_IZZUDIN_JAMALUDIN@SCHOOLS.GOV.SG</p>
+<p>Taufiq_Izzudin_Jamaludin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -654,18 +654,18 @@ variant: tiptap
 <p>P3 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JAYSREE_KRISHNASAMY@SCHOOLS.GOV.SG</p>
+<p>jaysree_krishnasamy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Choo Huiyun</p>
+<p>Mdm Gina Goh Huang Yiing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>goh_huang_yiing@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -687,7 +687,7 @@ variant: tiptap
 <p>P3 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YEO_QUAN_KAI@SCHOOLS.GOV.SG</p>
+<p>yeo_quan_kai@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -698,7 +698,7 @@ variant: tiptap
 <p>P3 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TAN_YI_RU@SCHOOLS.GOV.SG</p>
+<p>tan_yi_ru@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -720,7 +720,7 @@ variant: tiptap
 <p>P3 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WONG_SIEW_KHEONG@SCHOOLS.GOV.SG</p>
+<p>wong_siew_kheong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -731,7 +731,7 @@ variant: tiptap
 <p>P3 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TAN_KIAT_BEEKATHERINE@SCHOOLS.GOV.SG</p>
+<p>tan_kiat_beekatherine@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -753,7 +753,7 @@ variant: tiptap
 <p>P3 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHRISPIAN_TIRTAMAYA@SCHOOLS.GOV.SG</p>
+<p>chrispian_tirtamaya@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -764,7 +764,7 @@ variant: tiptap
 <p>P3 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHERLYN_FRANCES_RAEBURN@SCHOOLS.GOV.SG</p>
+<p>cherlyn_frances_raeburn@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -786,7 +786,7 @@ variant: tiptap
 <p>P3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ROZITA_MOHAMAD_SAID@SCHOOLS.GOV.SG</p>
+<p>rozita_mohamad_said@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -797,18 +797,7 @@ variant: tiptap
 <p>P3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PAKKIAM_ETTI_GOUNDAN@SCHOOLS.GOV.SG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Nancy Leppard</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P3 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>pakkiam_etti_goundan@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -835,7 +824,7 @@ variant: tiptap
 <p>P4 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHIANG_YONG_JIAN_ELIAS@SCHOOLS.GOV.SG</p>
+<p>chiang_yong_jian_elias@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -846,7 +835,7 @@ variant: tiptap
 <p>P4 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TEO_SIOK_HOON_CANDY@SCHOOLS.GOV.SG</p>
+<p>teo_siok_hoon_candy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -868,7 +857,7 @@ variant: tiptap
 <p>P4 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>QUAH_SWEE_BEE@SCHOOLS.GOV.SG</p>
+<p>quah_swee_bee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -879,7 +868,7 @@ variant: tiptap
 <p>P4 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GERALDINE_RITA_PEREIRA@SCHOOLS.GOV.SG</p>
+<p>geraldine_rita_pereira@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -901,7 +890,7 @@ variant: tiptap
 <p>P4 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LERAINE_LEOW@SCHOOLS.GOV.SG</p>
+<p>leraine_leow@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -912,7 +901,7 @@ variant: tiptap
 <p>P4 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HERDAWATI_SULEIMAN@SCHOOLS.GOV.SG</p>
+<p>herdawati_suleiman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -934,7 +923,7 @@ variant: tiptap
 <p>P4 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NICOLE_THAM@SCHOOLS.GOV.SG</p>
+<p>nicole_tham@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -967,7 +956,7 @@ variant: tiptap
 <p>P4 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ZHANG_YI_B@SCHOOLS.GOV.SG</p>
+<p>Zhang_Yi_B@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -978,7 +967,7 @@ variant: tiptap
 <p>P4 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NURAINI_ABDUL_SAMAT@SCHOOLS.GOV.SG</p>
+<p>nuraini_abdul_samat@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -990,17 +979,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Safarina Bte Satar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P4 Humility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SAFARINA_SATAR@SCHOOLS.GOV.SG</p>
 </td>
 </tr>
 <tr>
@@ -1011,236 +989,34 @@ variant: tiptap
 <p>P4 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GOH_KA_BEE@SCHOOLS.GOV.SG</p>
+<p>goh_ka_bee@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Safarina Bte Satar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 Humility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>safarina_satar@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nancy Leppard</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 Humility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nancy_Leppard@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4>Primary 5</h4>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Anne Goh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 Courage</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ANNE_MARY_PUHAINDRAN@SCHOOLS.GOV.SG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Charles Timothy D'Cruz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 Courage</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHARLES_TIMOTHY_D_CRUZ@SCHOOLS.GOV.SG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Darren Micheal Sandosham</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 Diligence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SANDOSHAM_DARREN_MICHEAL@SCHOOLS.GOV.SG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Elizabeth Lee Norlawati</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 Diligence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LEE_ELIZABETH_NORLAWATI@SCHOOLS.GOV.SG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ezri Fadli Bin Junadi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 Empathy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>EZRI_FADLI_JUNADI@SCHOOLS.GOV.SG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Ng Shu Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 Empathy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>POH_SHU_HUI@SCHOOLS.GOV.SG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Jeffrey Stephen Espehana</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 Fortitude</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>JEFFREY_STEPHEN_ESPEHANA@SCHOOLS.GOV.SG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Thia Lee Lian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 Fortitude</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>THIA_LEE_LIAN@SCHOOLS.GOV.SG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Sherwin Goh Si Win</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 Gratitude</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GOH_SI_WIN_SHERWIN@SCHOOLS.GOV.SG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Nicole Anne Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 Gratitude</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TAN_NICOLE_ANNE@SCHOOLS.GOV.SG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Pee May May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 Gratitude</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PEE_MAY_MAY@SCHOOLS.GOV.SG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Christine Nyoman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 Humility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TAN_LAY_KOON_CHRISTINE@SCHOOLS.GOV.SG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Christin Chew Meng Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 Humility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHUA_MENG_LEE@SCHOOLS.GOV.SG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Ai Foong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 Humility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_ai_foong_a@moe.edu.sg</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>Primary 6</h4>
 <table>
 <tbody>
@@ -1301,13 +1077,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Amirah Binte Mohd Nasir</p>
+<p>Mr V Rajkumar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P6 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUR_AMIRAH_MOHAMAD_NASIR@SCHOOLS.GOV.SG</p>
+<p>v_rajkumar@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1329,7 +1105,7 @@ variant: tiptap
 <p>P6 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YU_KAI_YAO_RICH@SCHOOLS.GOV.SG</p>
+<p>yu_kai_yao_rich@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1340,7 +1116,7 @@ variant: tiptap
 <p>P6 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YASOTHA_LOGANADAN@SCHOOLS.GOV.SG</p>
+<p>yasotha_loganadan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1362,7 +1138,7 @@ variant: tiptap
 <p>P6 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LEONG_EE_LIN_EILEEN@SCHOOLS.GOV.SG</p>
+<p>leong_ee_lin_eileen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1373,7 +1149,7 @@ variant: tiptap
 <p>P6 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TEO_APRIL@SCHOOLS.GOV.SG</p>
+<p>teo_april@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1395,7 +1171,7 @@ variant: tiptap
 <p>P6 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LUO_XINYI_TERESA@SCHOOLS.GOV.SG</p>
+<p>luo_xinyi_teresa@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1406,7 +1182,7 @@ variant: tiptap
 <p>P6 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JANSHER_KHAN@SCHOOLS.GOV.SG</p>
+<p>jansher_khan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1428,7 +1204,7 @@ variant: tiptap
 <p>P6 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WU_PUWEN@SCHOOLS.GOV.SG</p>
+<p>wu_puwen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1439,7 +1215,7 @@ variant: tiptap
 <p>P6 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JAYAPAL_HEMA@SCHOOLS.GOV.SG</p>
+<p>jayapal_hema@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1450,7 +1226,7 @@ variant: tiptap
 <p>P6 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>jayalatchumy_pitchayan_a@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
