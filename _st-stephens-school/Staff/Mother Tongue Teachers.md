@@ -3,48 +3,278 @@ title: Mother Tongue Teachers
 permalink: /ststephen/staff/mother-tongue-teachers/
 description: ""
 third_nav_title: Staff
+variant: tiptap
 ---
-### Mother Tongue Teachers
-
-#### Chinese Language
-
-|  	|  	|
-|---	|---	|
-| Mdm Chan Joo Eng 	| chan_joo_eng@moe.edu.sg 	|
-| Mrs Chew Meng Lee Christin  	| chua_meng_lee@moe.edu.sg  	|
-| Mdm Choo Huiyun  	| choo_huiyun@moe.edu.sg  	|
-| Ms Fong Jie Min	 	| fong_jie_min@moe.edu.sg 	|
-| Mdm Goh Ka Bee 	| goh_ka_bee@moe.edu.sg  	|
-| Mdm Huang Jie 	| huang_jie@moe.edu.sg 	|
-| Mdm Lang Jia Jing  	| lang_jia_jing@moe.edu.sg  	|
-| Mrs Isabelle Lim Niam Chin  	| tay_niam_chin@moe.edu.sg  	|
-| Mr Loh Hon Kee	  	| loh_hon_kee@moe.edu.sg   	|
-| Mdm Ouw Li Shan  	| ouw_li_shan@moe.edu.sg  	|
-| Mdm Pee May May  	| pee_may_may@moe.edu.sg 	|
-| Ms Tan Tse See  	| tan_tse_see@moe.edu.sg  	|
-| Mr Tan Yi Ru  	| tan_yi_ru@moe.edu.sg  	|
-| Mdm Teo Siok Hoon Candy  	| teo_siok_hoon_candy@moe.edu.sg  	|
-| Mdm Thia Lee Lian  	| thia_lee_lian@moe.edu.sg  	|
-| Ms Wong See Ting  	| wong_see_ting@moe.edu.sg  	|
-| Mdm Yang Yiqun	  	| yang_yiqun@moe.edu.sg  	|
-| Mr Brandon Yip  	| brandon_yip@moe.edu.sg    	|
-| Mdm Yuan Yingna 	| yuan_yingna@moe.edu.sg 	|
-| Mdm Zhang Li 	| zhang_li_c@moe.edu.sg  	|
-| Ms Zhang Yi  	| zhang_yi_b@moe.edu.sg 	|
-
-#### Malay Language
-
-|  	|  	|
-|---	|---	|
-| Mdm Norhazli Bte Ramli 	| norhazli_ramli@moe.edu.sg 	|
-| Ms Nurul Amelia Akhtiar 	| nurul_amelia_akhtiar@moe.edu.sg 	|
-| Mdm Hanifa Masdawood 	| hanifa_a@moe.edu.sg 	|
-| Mdm Siti Nurhidayah Abdul Aziz  	| siti_nurhidayah_abdul_aziz@moe.edu.sg  	|
-
-#### Tamil Language
-
-|  	|  	|
-|---	|---	|
-| Mrs Pakkiam Sandran 	| pakkiam_etti_goundan@moe.edu.sg 	|
-| Mrs Jayapal Hema 	| jayapal_hema@moe.edu.sg 	|
-| Ms Rajeswari Mogan 	| rajeswari_mogan@moe.edu.sg  	|
+<h3>Mother Tongue Teachers</h3>
+<h4>Chinese Language</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chan Joo Eng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chan_joo_eng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Chew Meng Lee Christin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_meng_lee@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Choo Huiyun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>choo_huiyun@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Fong Jie Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>fong_jie_min@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Ka Bee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_ka_bee@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Huang Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>huang_jie@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lang Jia Jing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lang_jia_jing@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Isabelle Lim Niam Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tay_niam_chin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Loh Hon Kee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>loh_hon_kee@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ouw Li Shan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ouw_li_shan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Pee May May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>pee_may_may@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Tse See</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_tse_see@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Yi Ru</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_yi_ru@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Teo Siok Hoon Candy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>teo_siok_hoon_candy@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Thia Lee Lian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>thia_lee_lian@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wong See Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wong_see_ting@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yang Yiqun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yang_yiqun@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Brandon Yip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>brandon_yip@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yuan Yingna</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yuan_yingna@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Zhang Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>zhang_li_c@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zhang Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>zhang_yi_b@moe.edu.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Malay Language</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Norhazli Bte Ramli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>norhazli_ramli@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nurul Amelia Akhtiar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nurul_amelia_akhtiar@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Hanifa Masdawood</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>hanifa_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Nurhidayah Abdul Aziz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti_nurhidayah_abdul_aziz@moe.edu.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Tamil Language</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Pakkiam Sandran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>pakkiam_etti_goundan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Jayapal Hema</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>jayapal_hema@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Rajeswari Mogan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>rajeswari_mogan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr V Rajkumar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>v_rajkumar@moe.edu.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
