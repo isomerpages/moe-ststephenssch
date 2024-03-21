@@ -18,7 +18,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Principal</strong>
+<p><strong>Principal</strong> 
 <br>Mr Timothy Goh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -28,7 +28,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal Academic</strong>
+<p><strong>Vice-Principal Academic</strong> 
 <br>Mr Heng Tow Yang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal Administration</strong>
+<p><strong>Vice-Principal Administration</strong> 
 <br>Mr James Chew</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,7 +61,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>English</strong>
+<p><strong>English</strong> 
 <br>Mrs Charlene Siew</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -71,7 +71,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mathematics</strong>
+<p><strong>Mathematics</strong> 
 <br>Mrs Irene Ng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,7 +81,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mother Tongue</strong>
+<p><strong>Mother Tongue</strong> 
 <br>Mdm Ouw Li Shan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,7 +91,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Information Communication Technology (ICT) Ed Tech</strong>
+<p><strong>Information Communication Technology (ICT) Ed Tech</strong> 
 <br>Mr Royston Low Kai Ming</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -101,7 +101,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Learning Technologies</strong>
+<p><strong>Learning Technologies</strong> 
 <br>Mdm Murni Masuath</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -111,7 +111,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Physical Education</strong>
+<p><strong>Physical Education</strong> 
 <br>Mr Stephen Tan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,7 +121,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Character &amp; Citizenship Education (CCE)</strong>
+<p><strong>Character &amp; Citizenship Education (CCE)</strong> 
 <br>Mrs Danielle Hon-Selvanathen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -131,7 +131,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Discipline</strong>
+<p><strong>Discipline</strong> 
 <br>Mr Sheikh Alauddin Abdul Aleem</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,7 +141,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Staff Development</strong>
+<p><strong>School Staff Development</strong> 
 <br>Mrs Tan Chor Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -164,7 +164,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head Chinese Language</strong>
+<p><strong>Subject Head Chinese Language</strong> 
 <br>Mdm Yang Yiqun</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -174,7 +174,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head Science</strong>
+<p><strong>Level Head Science</strong> 
 <br>Mdm Herdawati Suleiman</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -184,7 +184,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head English Language</strong>
+<p><strong>Level Head English Language</strong> 
 <br>Mdm Nicole Anne Tan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -194,7 +194,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head Mathematics</strong>
+<p><strong>Level Head Mathematics</strong> 
 <br>Ms Nur Amirah Mohamad Nasir</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -204,7 +204,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head PE/CCA</strong>
+<p><strong>Level Head PE/CCA</strong> 
 <br>Mr Jansher Khan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -324,7 +324,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teachers</strong>
+<p><strong>Senior Teachers</strong> 
 <br>Mdm Azizah Bte Abdul Razak (English)
 <br>
 <br>Mr Wu Puwen (Science)
