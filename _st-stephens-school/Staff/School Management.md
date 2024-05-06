@@ -6,7 +6,11 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <h3>School Management</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -49,7 +53,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Heads of Department</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -152,7 +160,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Subject Head/ Level Head</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -164,7 +176,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head Chinese Language</strong> 
+<p><strong>Subject Head / Chinese Language</strong> 
 <br>Mdm Yang Yiqun</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -174,7 +186,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head Science</strong> 
+<p><strong>Subject Head / Values In Action (VIA)</strong>
+<br>Mdm Thia Lee Lian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>thia_lee_lian@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head / Student Leadership</strong>
+<br>Mr Elias Chiang Yong Jian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><a href="mailto:chiang_yong_jian_elias@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiang_yong_jian_elias@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level Head / Science</strong> 
 <br>Mdm Herdawati Suleiman</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -184,7 +217,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head English Language</strong> 
+<p><strong>Level Head / English Language</strong> 
 <br>Mdm Nicole Anne Tan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -194,7 +227,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head Mathematics</strong> 
+<p><strong>Level Head / Mathematics</strong> 
 <br>Ms Nur Amirah Mohamad Nasir</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -204,17 +237,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head PE/CCA</strong> 
+<p><strong>Level Head /  PE &amp; CCA</strong> 
 <br>Mr Jansher Khan</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>jansher_khan@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4>Year Head / Assistant Year Head</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -302,7 +341,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Teacher Leaders</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
