@@ -7,7 +7,12 @@ variant: tiptap
 ---
 <h3>Form Teachers</h3>
 <h4>Primary 1</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -287,7 +292,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Primary 2</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -567,7 +577,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Primary 3</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -803,7 +818,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Primary 4</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -851,17 +871,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Quah Swee Bee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P4 Diligence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>quah_swee_bee@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Geraldine Pereira</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -869,6 +878,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>geraldine_rita_pereira@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Quah Swee Bee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>quah_swee_bee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1017,7 +1037,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Primary 5</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1231,7 +1256,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Primary 6</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
