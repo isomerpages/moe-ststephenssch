@@ -383,10 +383,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Master Teacher</strong> 
-<br>Ms Shakila Vasu (PE)</p>
+<br>Ms Shakila Vasu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p>shakila_vasu@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
