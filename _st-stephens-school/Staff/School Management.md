@@ -89,6 +89,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Science</strong>
+</p>
+<p>Mdm Teo Lian Peng, Evelyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>teo_lian_peng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mother Tongue</strong> 
 <br>Mdm Ouw Li Shan</p>
 </td>
@@ -120,21 +131,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Physical Education</strong> 
-<br>Mr Stephen Tan</p>
+<br>Mr Jansher Khan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>tan_aik_kao_stephen@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Character &amp; Citizenship Education (CCE)</strong> 
-<br>Mrs Danielle Hon-Selvanathen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>hon_wymun_danielle@moe.edu.sg</p>
+<br>jansher_khan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -176,6 +177,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Level Head / English Language</strong> 
+<br>Mdm Nicole Anne Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>tan_nicole_anne@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level Head / Science</strong> 
+<br>Mdm Herdawati Suleiman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>herdawati_suleiman@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Subject Head / Chinese Language</strong> 
 <br>Mdm Yang Yiqun</p>
 </td>
@@ -201,48 +222,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><a href="mailto:chiang_yong_jian_elias@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiang_yong_jian_elias@moe.edu.sg</a>
+<p>chiang_yong_jian_elias@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head / National Education &amp; Social Studies</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Level Head / Science</strong> 
-<br>Mdm Herdawati Suleiman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>herdawati_suleiman@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Level Head / English Language</strong> 
-<br>Mdm Nicole Anne Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>tan_nicole_anne@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Level Head / Mathematics</strong> 
-<br>Ms Nur Amirah Mohamad Nasir</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>nur_amirah_mohamad_nasir@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Level Head /  PE &amp; CCA</strong> 
-<br>Mr Jansher Khan</p>
+<p>Mrs Danielle Hon-Selvanathen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>jansher_khan@moe.edu.sg</p>
+<p></p>
+<p>hon_wymun_danielle@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head / Partnerships</strong>
+</p>
+<p>Mr Stephen Tan Aik Kao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>tan_aik_kao_stephen@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -316,6 +319,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Herdawati Suleiman (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>herdawati_suleiman@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Elias Chiang Yong Jian (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chiang_yong_jian_elias@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>P5</strong>
 </p>
 </td>
@@ -354,6 +379,16 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Master Teacher</strong> 
+<br>Ms Shakila Vasu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>shakila_vasu@moe.edu.sg</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
