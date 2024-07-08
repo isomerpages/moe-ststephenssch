@@ -91,10 +91,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Science</strong>
 </p>
-<p>Mdm Teo Lian Peng, Evelyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Teo Lian Peng, Evelyn</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>teo_lian_peng@moe.edu.sg</p>
 </td>
 </tr>
@@ -115,7 +121,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>royston_low@moe.edu.sg</p>
+<br>
+</p>
+<p>royston_low@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -229,11 +237,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Subject Head / National Education &amp; Social Studies</strong>
 </p>
-<p>Mrs Danielle Hon-Selvanathen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Danielle Hon-Selvanathen</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>hon_wymun_danielle@moe.edu.sg</p>
 </td>
 </tr>
@@ -241,10 +254,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Subject Head / Partnerships</strong>
 </p>
-<p>Mr Stephen Tan Aik Kao</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Stephen Tan Aik Kao</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>tan_aik_kao_stephen@moe.edu.sg</p>
 </td>
 </tr>
