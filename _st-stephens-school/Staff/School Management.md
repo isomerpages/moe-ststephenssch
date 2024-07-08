@@ -91,10 +91,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Science</strong>
 </p>
-<p>Mdm Teo Lian Peng, Evelyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Teo Lian Peng, Evelyn</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>teo_lian_peng@moe.edu.sg</p>
 </td>
 </tr>
@@ -115,7 +121,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>royston_low@moe.edu.sg</p>
+<br>
+</p>
+<p>royston_low@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
