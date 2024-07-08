@@ -227,13 +227,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head / National Education &amp; Social Studies</strong>
+<p><strong>Subject Head / National Education &amp; Social Studies </strong>
 </p>
-<p>Mrs Danielle Hon-Selvanathen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Danielle Hon-Selvanathen</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>hon_wymun_danielle@moe.edu.sg</p>
 </td>
 </tr>
@@ -241,10 +246,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Subject Head / Partnerships</strong>
 </p>
-<p>Mr Stephen Tan Aik Kao</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Stephen Tan Aik Kao</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>tan_aik_kao_stephen@moe.edu.sg</p>
 </td>
 </tr>
