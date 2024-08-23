@@ -7,7 +7,11 @@ variant: tiptap
 ---
 <h3>Mother Tongue Teachers</h3>
 <h4>Chinese Language</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -188,7 +192,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Malay Language</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -233,24 +241,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Tamil Language</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Pakkiam Sandran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>pakkiam_etti_goundan@moe.edu.sg</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Jayapal Hema</p>
@@ -269,10 +265,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr V Rajkumar</p>
+<p>Mdm Sembian Meena</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>v_rajkumar@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 </tbody>
