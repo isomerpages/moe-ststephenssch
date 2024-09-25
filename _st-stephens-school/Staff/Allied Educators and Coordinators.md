@@ -3,27 +3,130 @@ title: Allied Educators and Coordinators
 permalink: /ststephen/staff/allied-educators-and-coordinators/
 description: ""
 third_nav_title: Staff
+variant: tiptap
 ---
-### Allied Educators and Coordinators
-
-#### Allied Educators
-
-| Counsellor |  	|
-|---	|---	|
-| Mrs Ann Tan Chee Kiang (FTSC) 	| sim_chee_kiang_ann@moe.edu.sg 	|
-| Mdm Muniandy Gowrie juliana	| muniandy_gowrie_juliana@moe.edu.sg |	|
-| **Special Educational Needs (SEN) Officer** 	|  	|
-| Mdm Suhaili Abdul Shukoor 	| suhaili_abdul_shukoor@moe.edu.sg 	|
-| Miss Siti Nur Ruhaya 	| siti_nur_ruhaya_rizal@moe.edu.sg 	|
-| Miss Nurzafirah Binte Mohamad Zainal 	| nurzafirah_mohamad_zainal@moe.edu.sg 	|
-| Ms Faiqah Binte Irwan Shah Abdullah	| faiqah_irwan_shah_abdullah@moe.edu.sg	|
-
-
-#### Learning Support Coordinators
-
-|  	|  	|
-|---	|---	|
-| (LSM) Mdm Lim Ee Chen 	| lim_ee_chin@moe.edu.sg 	|
-| (LSM) Mdm Safarina Bte Satar 	| safarina_satar@moe.edu.sg 	|
-| (LSP) Mrs Agatha Dyason 	| agatha_dyason@moe.edu.sg 	|
-| (LSP) Mdm Safarina Satar 	| safarina_satar@moe.edu.sg 	|
+<h3>Allied Educators and Coordinators</h3>
+<h4>Allied Educators</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Counsellor</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Ann Tan Chee Kiang (FTSC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sim_chee_kiang_ann@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Muniandy Gowrie juliana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>muniandy_gowrie_juliana@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Special Educational Needs (SEN) Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Suhaili Abdul Shukoor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>suhaili_abdul_shukoor@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Siti Nur Ruhaya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti_nur_ruhaya_rizal@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Nurzafirah Binte Mohamad Zainal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nurzafirah_mohamad_zainal@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Faiqah Binte Irwan Shah Abdullah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>faiqah_irwan_shah_abdullah@moe.edu.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Learning Support Coordinators</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(LSM) Mdm Lim Ee Chen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_ee_chin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(LSM) Mdm Safarina Bte Satar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>safarina_satar@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(LSP) Mrs Agatha Dyason</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>agatha_dyason@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(LSP) Mdm Safarina Satar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>safarina_satar@moe.edu.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
