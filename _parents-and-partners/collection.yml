@@ -2,6 +2,7 @@ collections:
   parents-and-partners:
     output: true
     order:
+      - Giving To SSS.md
       - SSOBA.md
       - SPARK.md
       - HBL Technical Support.md
