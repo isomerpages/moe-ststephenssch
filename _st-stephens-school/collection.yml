@@ -2,6 +2,7 @@ collections:
   st-stephens-school:
     output: true
     order:
+      - Giving To SSS.md
       - Principal's Message.md
       - Vision, Mission, Values.md
       - Our School Rally.md
