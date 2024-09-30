@@ -28,5 +28,4 @@ totally to you may receive you totally.”</p>
 </ul>
 <p></p>
 <p><a href="/files/SSS_Donation_Form__25092024_.pdf" rel="noopener nofollow" target="_blank">SSS Donation Form</a>
-<a href="files/" rel="noopener nofollow" target="_blank"></a>
 </p>
