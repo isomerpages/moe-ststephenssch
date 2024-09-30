@@ -11,7 +11,7 @@ school, we need to pay for our share of running expenses as well as Lasallian
 and Catholic programmes and activities not provided for by Government Grants.
 As a non-revenue generating organisation, we continually need sources of
 funds to keep these programmes which gives our school its unique identity
-running. Asu such, we need the financial support of the community and your
+running. As such, we need the financial support of the community and your
 generous support and donations, big or small, is deeply appreciated.</p>
 <p>&nbsp;</p>
 <p>There are many causes within the school that your donations can support,
@@ -27,5 +27,6 @@ totally to you may receive you totally.”</p>
 </li>
 </ul>
 <p></p>
-<p><a href="/files/SSS_Donation_Form__25092024_.pdf" rel="noopener nofollow" target="_blank">SSS Donation Form </a>
+<p><a href="/files/SSS_Donation_Form__25092024_.pdf" rel="noopener nofollow" target="_blank">SSS Donation Form</a>
+<a href="files/" rel="noopener nofollow" target="_blank"></a>
 </p>
