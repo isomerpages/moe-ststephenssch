@@ -2,7 +2,6 @@ collections:
   st-stephens-school:
     output: true
     order:
-      - School Financial Information Table.md
       - Principal's Message.md
       - Vision, Mission, Values.md
       - Our School Rally.md
@@ -19,4 +18,5 @@ collections:
       - Our Stephenian History.md
       - Waitlist 2023.md
       - School Administrative Information.md
+      - School Financial Information Table.md
       - Giving To SSS.md
