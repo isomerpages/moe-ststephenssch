@@ -18,11 +18,7 @@ will support. We hope that you can pay it forward, and invest in the growth
 and development of future Stephenians!</p>
 <p>&nbsp;“Hold back nothing of yourselves for yourselves so that He who gives
 Himself totally to you may receive you totally.”</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Francis of Assisi</p>
-</li>
-</ul>
+<p>- Francis of Assisi</p>
 <p></p>
 <p><a href="/files/SSS_Donation_Form__25092024_.pdf" rel="noopener nofollow" target="_blank">SSS Donation Form</a>
 </p>
