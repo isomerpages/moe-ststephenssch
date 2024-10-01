@@ -78,7 +78,7 @@ a 2-step process prior to registration in Phase 3.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Phase</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Eligibility</p>
