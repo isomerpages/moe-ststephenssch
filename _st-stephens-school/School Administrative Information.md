@@ -4,11 +4,10 @@ permalink: /ststephen/school-administrative-information/
 variant: tiptap
 description: ""
 ---
-<p>The link below gives a summary of key administrative information in the
-school.</p>
+<h4>The link below gives a summary of key administrative information in the school.</h4>
 <p><a href="/files/School Administrative Information (15092023).pdf" rel="noopener nofollow" target="_blank">School Administrative Information</a>
 </p>
-<h2><strong>Frequently Asked Questions</strong></h2>
+<h2><strong>Frequently Asked Questions (FAQs)</strong></h2>
 <p><strong>General</strong>
 </p>
 <p>Q1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I fetch my son before dismissal
