@@ -224,9 +224,9 @@ with the primary school.</p>
 </table>
 <p><a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates" rel="noopener nofollow" target="_blank">Overview of different registration phase</a>
 </p>
-<p>Q3 &nbsp;&nbsp;&nbsp;&nbsp; How do I check for vacancies?</p>
+<p>Q3) &nbsp;&nbsp;&nbsp;&nbsp; How do I check for vacancies?</p>
 <p>A3)&nbsp;&nbsp;&nbsp;&nbsp; Refer to MOE website under P1 Registration
-Exercise :- <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener nofollow" target="_blank">P1 Registration</a>
+Exercise :- <a href="https://www.moe.gov.sg/primary/p1-registration/vacancies-and-balloting" rel="noopener nofollow" target="_blank">P1 Registration Vacancies</a>
 </p>
 <p><strong>Pupil Group Insurance Claims</strong>
 </p>
