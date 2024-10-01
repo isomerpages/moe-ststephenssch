@@ -26,8 +26,7 @@ do I apply for admission?</p>
 <p>A1) &nbsp;&nbsp;&nbsp; Please complete the <a href="https://go.gov.sg/ssswaitlist" rel="noopener noreferrer nofollow" target="_blank">Waitlist Form</a>. Link can also be
 found in school website under “St Stephen’s School” à “Admission”. The
 school will contact parents if there are any suitable vacancies.</p>
-<p>&nbsp;</p>
-<p><strong>Co- Curricular Activities (CCA)</strong>
+<p>&nbsp;<strong>Co- Curricular Activities (CCA)</strong>
 </p>
 <p>Q1)&nbsp;&nbsp;&nbsp;&nbsp; Is there CCA/Remedial today?</p>
 <p>A1)&nbsp;&nbsp;&nbsp;&nbsp; The generic CCA schedule can be found at the
@@ -35,8 +34,6 @@ school website <a href="https://www.ststephens.moe.edu.sg/for-students/cca-sched
 If you require more specific/updated details of the CCA schedule, please
 refer to the CCA schedule sent via Parent Gateway (PG) or you can check
 with the CCA teacher i/c of your child’s CCA .</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Financial Assistance</strong>
 </p>
 <p>Q1) &nbsp;&nbsp;&nbsp; How do I apply for Financial Assistance?</p>
@@ -45,19 +42,17 @@ with the CCA teacher i/c of your child’s CCA .</p>
 forms are also available upon request from the General Office.</p>
 <p>Q2) &nbsp;&nbsp;&nbsp; How do I collect my textbooks and attire</p>
 <p>A2)&nbsp;&nbsp;&nbsp;&nbsp; The school will inform parents on the collection
-details <a rel="noopener noreferrer nofollow" target="_blank">via e-mail or</a>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[TYS1]</a>&nbsp; letter when it has confirmed the collection details with
-the relevant vendors.</p>
+details via Parent Gateway (PG), e-mail or letter when it has confirmed
+the collection details with the relevant vendors.</p>
 <p>&nbsp;Q3)&nbsp;&nbsp;&nbsp;&nbsp; How is the money for the School Meals
 disbursed?</p>
-<p>A3)&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">School Meals are disbursed by your child’s Smart Buddy Watch or School Smart </a>
-<a rel="noopener noreferrer nofollow" target="_blank">Card.It</a><a rel="noopener noreferrer nofollow" target="_blank"> will be $2.60 daily. </a>
+<p>A3)&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">School Meals are disbursed by your child’s Smart Buddy Watch or School Smart Card.It will be $2.60 daily.</a>
 </p>
 <p>&nbsp;Q4) &nbsp;&nbsp;&nbsp; For recipients of Straits Times Pocket Money
 Fund (STPMF), when will be the funds be disbursed?</p>
 <p>A4)&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">By the 1<sup>st</sup> week of the month e.g. for January the STPMF will be disbursed by the 1<sup>st</sup> of February.</a>
 </p>
-<p><strong>&nbsp;Leave Of Absence (LOA)</strong>
+<p><strong>Leave Of Absence (LOA)</strong>
 </p>
 <p>Q1) &nbsp;&nbsp;&nbsp; How do I apply for LOA for my child?</p>
 <p>A1)&nbsp;&nbsp;&nbsp;&nbsp; Application for LOA can be done online at
@@ -77,8 +72,7 @@ You can find out more about the history of the school at out <a href="https://si
 SC and PR) and Phase 3 (for Foreigners)</p>
 <p>Q3 &nbsp;&nbsp;&nbsp;&nbsp; How do I check for vacancies?</p>
 <p>A3)&nbsp;&nbsp;&nbsp;&nbsp; Refer to MOE website under P1 Registration
-Exercise : Vacancies and balloting updates<a href="#_msocom_4" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank"> </a>
-</p>
+Exercise : Vacancies and balloting updates</p>
 <p><strong>&nbsp;Pupil Group Insurance Claims</strong>
 </p>
 <p><strong>&nbsp;</strong>Q1)&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">How do I make the group insurance claim? What supporting documents need to be submitted?</a>
@@ -87,14 +81,13 @@ Exercise : Vacancies and balloting updates<a href="#_msocom_4" class="msocomanch
 at <a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg/#/</a>.
 Please prepare softcopies of supporting documents e.g. receipts, medical
 reports, discharge summary when making claims</p>
-<p>&nbsp;</p>
-<p>Q2)&nbsp;&nbsp;&nbsp;&nbsp; What is the claim limits for outpatient and
-hospitalization bills?</p>
+<p>&nbsp;Q2)&nbsp;&nbsp;&nbsp;&nbsp; What is the claim limits for outpatient
+and hospitalization bills?</p>
 <p>A2)&nbsp;&nbsp;&nbsp;&nbsp; The claim limits is up to $13,000 (Out-patient
 expenses - $ 2,150 and In-patient expenses - $ 10,850) for medical expenses
 incurred up to 365 days from date of accident.</p>
 <p>You may refer product fact sheet @ <a rel="noopener noreferrer nofollow" target="_blank">https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/Product+Fact+Sheet+(Year+2022).pdf</a> for
-more details. <a href="#_msocom_5" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[TYS5]</a>&nbsp;</p>
+more details.</p>
 <p><strong>&nbsp;School Bill</strong>
 </p>
 <p><strong>&nbsp;</strong>Q1)&nbsp;&nbsp;&nbsp;&nbsp; What is the frequency
@@ -109,8 +102,6 @@ if necessary.</p>
 and school bills?</p>
 <p>A1) &nbsp;&nbsp;&nbsp; The recommended mode of payment is via GIRO. You
 can apply for eGIRO at the following website :- <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">You may contact the General Office if you have any enquiries on the payment of school fees.</a>
-<a href="#_msocom_6" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[TYS6]</a>&nbsp;</p>
 <p><strong><a rel="noopener noreferrer nofollow" target="_blank">School Vendors</a></strong>
 </p>
 <p>Q1) &nbsp;&nbsp;&nbsp; How do I make online order for school uniform and
