@@ -13,8 +13,8 @@ school.</p>
 </p>
 <p>Q1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I fetch my son before dismissal
 time?</p>
-<p>A1) &nbsp;&nbsp;&nbsp;&nbsp; Yes but student must be picked before 1pm.
-The school gates will be locked at 1pm to prepare for dismissal.</p>
+<p>A1) &nbsp;&nbsp;&nbsp;&nbsp; Yes but student must be picked up before
+1pm. The school gates will be locked at 1pm to prepare for dismissal.</p>
 <p>Q2) &nbsp;&nbsp;&nbsp;&nbsp; I would like to make an appointment to meet
 School Leaders.</p>
 <p>A2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please e-mail to <a href="mailto:ststephensch@moe.edu.sg" rel="noopener nofollow" target="_blank">St Stephen's School generic e-mail</a>to
