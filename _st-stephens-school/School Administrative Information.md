@@ -45,7 +45,7 @@ details via e-mail or hardcopy letter when it has confirmed with the relevant
 vendors.</p>
 <p>Q3)&nbsp;&nbsp;&nbsp;&nbsp; How is the money for the School Meals disbursed?</p>
 <p>A3)&nbsp;&nbsp;&nbsp;&nbsp; School meals are disbursed via your child's
-Smart Buddy watch or School Smart Card at the rate of $ 2.90 daily.</p>
+Smart Buddy watch or School Smart Card at the rate of $2.90 daily.</p>
 <p>Q4) &nbsp;&nbsp;&nbsp; For recipients of Straits Times Pocket Money Fund
 (STPMF), when will be the funds be disbursed?</p>
 <p>A4)&nbsp;&nbsp;&nbsp;&nbsp; By the 1st week of the month e.g. for January
