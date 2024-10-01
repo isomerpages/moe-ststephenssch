@@ -30,7 +30,7 @@ school will contact parents if there are any suitable vacancies.</p>
 </p>
 <p>Q1)&nbsp;&nbsp;&nbsp;&nbsp; Is there CCA/Remedial today?</p>
 <p>A1)&nbsp;&nbsp;&nbsp;&nbsp; The generic CCA schedule can be found at the
-school website <a href="https://www.ststephens.moe.edu.sg/for-students/cca-schedule-2022/" rel="noopener noreferrer nofollow" target="_blank">CCA Schedule</a>.
+school website <a href="/for-students/cca-schedule/" rel="noopener noreferrer nofollow" target="_blank">CCA Schedule</a>.
 If you require more specific/updated details of the CCA schedule, please
 refer to the CCA schedule sent via Parent Gateway (PG) or you can check
 with the CCA teacher i/c of your child’s CCA .</p>
