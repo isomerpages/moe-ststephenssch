@@ -11,14 +11,14 @@ school.</p>
 <h2><strong>Frequently Asked Questions</strong></h2>
 <p><strong>General</strong>
 </p>
-<p>Q1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can i fetch my son before dismissal
+<p>Q1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I fetch my son before dismissal
 time?</p>
 <p>A1) &nbsp;&nbsp;&nbsp;&nbsp; Yes but student must be picked before 1pm.
 The school gates will be locked at 1pm to prepare for dismissal.</p>
 <p>Q2) &nbsp;&nbsp;&nbsp;&nbsp; I would like to make an appointment to meet
 School Leaders.</p>
-<p>A2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please e-mail to <a rel="noopener noreferrer nofollow" target="_blank">ststephensch@moe.edu.sg</a> to
-make a formal request.</p>
+<p>A2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please e-mail to <a href="mailto:ststephensch@moe.edu.sg" rel="noopener nofollow" target="_blank">St Stephen's School generic e-mail</a>
+<a href="ststephensch@moe.edu.sg" rel="noopener nofollow" target="_blank"></a>to make a formal request.</p>
 <p><strong>&nbsp;Admission</strong>
 </p>
 <p>Q1) &nbsp;&nbsp;&nbsp; I would like to admit my son in your school. How
@@ -38,8 +38,8 @@ with the CCA teacher i/c of your child’s CCA .</p>
 </p>
 <p>Q1) &nbsp;&nbsp;&nbsp; How do I apply for Financial Assistance?</p>
 <p>A1) &nbsp;&nbsp;&nbsp; You may apply for Financial Assistance online at
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>. Hardcopy
-forms are also available upon request from the General Office.</p>
+<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">MOE Financial Assistance Scheme</a>. Hardcopy forms are also available
+upon request from the General Office.</p>
 <p>Q2) &nbsp;&nbsp;&nbsp; How do I collect my textbooks and attire</p>
 <p>A2)&nbsp;&nbsp;&nbsp;&nbsp; The school will inform parents on the collection
 details via e-mail or hardcopy letter when it has confirmed with the relevant
@@ -55,7 +55,7 @@ the STPMF will be disbursed by the 1st of February.</p>
 </p>
 <p>Q1) &nbsp;&nbsp;&nbsp; How do I apply for LOA for my child?</p>
 <p>A1)&nbsp;&nbsp;&nbsp;&nbsp; Application for LOA can be done online at
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sssloa</a>
+<a href="https://go.gov.sg/sssloa" rel="noopener nofollow" target="_blank">LOA Application</a>
 </p>
 <p>&nbsp;Q2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the LOA rate for the school?</p>
 <p>A2) &nbsp;&nbsp;&nbsp; LOA rate for the school is $120 per year.</p>
@@ -70,13 +70,13 @@ You can find out more about the history of the school at out <a href="https://si
 SC and PR) and Phase 3 (for Foreigners)</p>
 <p>Q3 &nbsp;&nbsp;&nbsp;&nbsp; How do I check for vacancies?</p>
 <p>A3)&nbsp;&nbsp;&nbsp;&nbsp; Refer to MOE website under P1 Registration
-Exercise : Vacancies and balloting updates<a href="#_msocom_4" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[TYS4]</a>&nbsp;</p>
+Exercise : Vacancies and balloting updates.</p>
 <p><strong>Pupil Group Insurance Claims</strong>
 </p>
 <p>Q1)&nbsp;&nbsp;&nbsp;&nbsp; How do i make group insurance claims? What
 supporting documents need to be submitted?</p>
 <p>A1)&nbsp;&nbsp;&nbsp;&nbsp; Accident insurance claim can be made online
-at <a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg/#/</a>.
+at <a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener nofollow" target="_blank">Income Student Group Insurance </a>.
 Please prepare softcopies of supporting documents e.g. receipts, medical
 reports, discharge summary when making claims</p>
 <p>Q2)&nbsp;&nbsp;&nbsp;&nbsp; What is the claim limits for outpatient and
@@ -84,7 +84,7 @@ hospitalization bills?</p>
 <p>A2)&nbsp;&nbsp;&nbsp;&nbsp; The claim limits is up to $13,000 (Out-patient
 expenses - $ 2,150 and In-patient expenses - $ 10,850) for medical expenses
 incurred up to 365 days from date of accident.</p>
-<p>You may refer product fact sheet @ <a rel="noopener noreferrer nofollow" target="_blank">https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/Product+Fact+Sheet+(Year+2022).pdf</a> for
+<p>You may refer product fact sheet @ <a href="https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/Product+Fact+Sheet+(Year+2022).pdf" rel="noopener nofollow" target="_blank">Product Factsheet</a> for
 more details.</p>
 <p><strong>&nbsp;School Bill</strong>
 </p>
@@ -98,9 +98,7 @@ be issued for co-payment of unscheduled programmes/activities if necessary.</p>
 <p>Q1)&nbsp;&nbsp;&nbsp;&nbsp; How do I pay school &amp; miscellaneous fees
 and school bills?</p>
 <p>A1) &nbsp;&nbsp;&nbsp; The recommended mode of payment is via GIRO. You
-can apply for eGIRO at the following website :- <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>.
-<a rel="noopener noreferrer nofollow" target="_blank">You may contact the General Office if you have any enquiries on the payment
-of school fees.</a><a href="#_msocom_6" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[</a>
+can apply for eGIRO at the following website :- <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener nofollow" target="_blank">eGIRO application</a>
 </p>
 <p><strong>School Vendors</strong>
 </p>
@@ -108,9 +106,9 @@ of school fees.</a><a href="#_msocom_6" class="msocomanchor" rel="noopener noref
 nametags?</p>
 <p>A1) &nbsp;&nbsp;&nbsp; Orders for school uniform and nametags can be made
 at the following links :-</p>
-<p>For school uniform, <a rel="noopener noreferrer nofollow" target="_blank">https://shop.shanghai-uniforms.com/product-category/st-stephens-school/</a>
+<p>For school uniform, <a href="https://shop.shanghai-uniforms.com/product-category/st-stephens-school/" rel="noopener nofollow" target="_blank">Online Uniform Order</a>
 </p>
-<p>For nametags, <a rel="noopener noreferrer nofollow" target="_blank">https://www.stitchwerkz.sg/nametags/st-stephen-school</a>
+<p>For nametags, <a href="https://www.stitchwerkz.sg/nametags/st-stephen-school" rel="noopener nofollow" target="_blank">Online Nametag Order</a>
 </p>
 <p>&nbsp;Q2)&nbsp;&nbsp;&nbsp;&nbsp; How do I collect the online orders for
 school uniforms and nametags?</p>
@@ -125,10 +123,10 @@ typically be issued to your P1 child by March.</p>
 <p>&nbsp;Q2)&nbsp;&nbsp;&nbsp;&nbsp; How do I request for replacement for
 School Smartcard?</p>
 <p>A2)&nbsp;&nbsp;&nbsp;&nbsp; Details on how to request for replacement
-of School Smartcard can found at the following page : <a rel="noopener noreferrer nofollow" target="_blank">https://www.ststephens.moe.edu.sg/files/School%20Administrative%20Information%20(15092023).pdf</a>
+of School Smartcard can found at the following page : <a href="https://www.ststephens.moe.edu.sg/files/School%20Administrative%20Information%20(15092023).pdf" rel="noopener nofollow" target="_blank">School Smartcard Replacement</a>
 </p>
-<p>You may also refer to the link below for details of School Smartcard replacement.
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.transitlink.com.sg/lost-card-replacement</a>
+<p>You may also refer to the may also refer to the Transitlink website below
+for details of School Smartcard replacement. <a href="https://www.transitlink.com.sg/lost-card-replacement" rel="noopener nofollow" target="_blank">Transitlink - Lost Card Replacement</a>
 </p>
 <hr>
 <p>&nbsp;</p>
