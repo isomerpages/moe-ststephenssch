@@ -17,8 +17,8 @@ time?</p>
 The school gates will be locked at 1pm to prepare for dismissal.</p>
 <p>Q2) &nbsp;&nbsp;&nbsp;&nbsp; I would like to make an appointment to meet
 School Leaders.</p>
-<p>A2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please e-mail to <a href="mailto:ststephensch@moe.edu.sg" rel="noopener nofollow" target="_blank">St Stephen's School generic e-mail</a>
-<a href="ststephensch@moe.edu.sg" rel="noopener nofollow" target="_blank"></a>to make a formal request.</p>
+<p>A2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please e-mail to <a href="mailto:ststephensch@moe.edu.sg" rel="noopener nofollow" target="_blank">St Stephen's School generic e-mail</a>to
+make a formal request.</p>
 <p><strong>&nbsp;Admission</strong>
 </p>
 <p>Q1) &nbsp;&nbsp;&nbsp; I would like to admit my son in your school. How
