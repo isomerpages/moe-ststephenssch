@@ -69,7 +69,8 @@ You can find out more about the history of the school at out <a href="https://si
 SC and PR) and Phase 3 (for Foreigners)</p>
 <p>Q3 &nbsp;&nbsp;&nbsp;&nbsp; How do I check for vacancies?</p>
 <p>A3)&nbsp;&nbsp;&nbsp;&nbsp; Refer to MOE website under P1 Registration
-Exercise : Vacancies and balloting updates.</p>
+Exercise :- <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener nofollow" target="_blank">P1 Registration </a>
+</p>
 <p><strong>Pupil Group Insurance Claims</strong>
 </p>
 <p>Q1)&nbsp;&nbsp;&nbsp;&nbsp; How do i make group insurance claims? What
