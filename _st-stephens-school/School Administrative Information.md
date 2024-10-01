@@ -65,8 +65,165 @@ the STPMF will be disbursed by the 1st of February.</p>
 of the school programmes and facilities can found at the school website.
 You can find out more about the history of the school at out <a href="https://sites.google.com/moe.edu.sg/sssheritagegallery/home" rel="noopener noreferrer nofollow" target="_blank">65<sup>th</sup> Anniversary microsite</a>.</p>
 <p>Q2) What are the different phases of the P1 Registration Exercise?</p>
-<p>A2)&nbsp;&nbsp;&nbsp;&nbsp; Phase 1, 2A, 2B, 2C, 2C Supplementary (for
-SC and PR) and Phase 3 (for Foreigners)</p>
+<p>A2)&nbsp;&nbsp;&nbsp;&nbsp; P1 registration is conducted over several
+phases. Phases 1 to 2C Supplementary apply to children who are <strong>Singapore Citizens (SC) and Permanent Residents (PR)</strong>.
+<br><strong>International students (IS)</strong>&nbsp;must register through
+a 2-step process prior to registration in Phase 3.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Eligibility</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Key Dates &amp; Remarks</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Phase 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>SC &amp; PR</p>
+</li>
+<li>
+<p>For a child who has a sibling studying in the primary school.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Phase 2A</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>SC &amp; PR</p>
+</li>
+</ul>
+<p>For a child:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Whose parent or sibling is a former student of the primary school, including
+those who have joined the alumni association of the primary school as a
+member.</p>
+</li>
+<li>
+<p>Whose parent is a member of the School Advisory or Management Committee.&nbsp;</p>
+</li>
+<li>
+<p>Whose parent is a staff member of the primary school.&nbsp;</p>
+</li>
+<li>
+<p>From the MOE Kindergarten under the purview of and located within the
+primary school.&nbsp;</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Phase 2B</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>SC &amp; PR</p>
+</li>
+</ul>
+<p>For a child:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Whose parent has joined the primary school as a parent volunteer not later
+than 1 July of the year before P1 registration and has given at least 40
+hours of voluntary service to the school by 30 June of the year of P1 registration.</p>
+</li>
+<li>
+<p>Whose parent is a member endorsed by the church or clan directly connected
+with the primary school.</p>
+</li>
+<li>
+<p>Whose parent is endorsed as an active community leader.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Phase 2C</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>SC &amp; PR</p>
+</li>
+<li>
+<p>For a child who is not yet registered in a primary school.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Phase 2C Suplementary</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>SC &amp; PR</p>
+</li>
+<li>
+<p>For a child who is not yet registered in a primary school after Phase
+2C</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Phase 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>IS</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates" rel="noopener nofollow" target="_blank">Overview of different registration phase</a>
+</p>
 <p>Q3 &nbsp;&nbsp;&nbsp;&nbsp; How do I check for vacancies?</p>
 <p>A3)&nbsp;&nbsp;&nbsp;&nbsp; Refer to MOE website under P1 Registration
 Exercise :- <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener nofollow" target="_blank">P1 Registration</a>
