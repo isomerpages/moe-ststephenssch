@@ -22,9 +22,11 @@ links:
       - title: Admission
         url: /ststephen/waitlist-2023/
       - title: School Administrative Information
-        url: /files/School%20Administrative%20Information%20(15092023).pdf
+        url: /ststephen/school-administrative-information/
       - title: School Financial Information Table
-        url: https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary
+        url: /ststephen/school-financial-information-table/
+      - title: Giving to SSS
+        url: /ststephen/giving-to-sss/
   - title: Lasallian Culture
     url: /lasallian-culture/our-lasallian-heritage/
     sublinks:
@@ -93,5 +95,3 @@ links:
         url: /parents-and-partners/hbl-technical-support/
       - title: MOE Sexuality Education
         url: /parents-and-partners/moe-sexuality-education/
-      - title: Giving To SSS
-        url: /parents-and-partners/giving-to-sss/
