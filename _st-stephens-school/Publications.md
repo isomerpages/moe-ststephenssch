@@ -1,6 +1,6 @@
 ---
 title: Publications
-permalink: /st-stephens-school/ststephen/publications/
+permalink: /ststephen/publications/
 description: ""
 variant: markdown
 ---
