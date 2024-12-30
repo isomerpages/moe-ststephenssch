@@ -404,13 +404,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Senior Teachers</strong> 
 <br>Mdm Azizah Bte Abdul Razak (English)
-<br>
 <br>Mr Wu Puwen (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
 <br>azizah_abdul_razak@moe.edu.sg
-<br>
 <br>wu_puwen@moe.edu.sg</p>
 </td>
 </tr>
