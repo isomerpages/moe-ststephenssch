@@ -229,6 +229,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Subject Head / Student Well-Being</strong>
+<br>Mdm Pee May May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>pee_may_may@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Subject Head / Student Leadership</strong>
 <br>Mr Elias Chiang Yong Jian</p>
 </td>
@@ -256,6 +266,7 @@ variant: tiptap
 <p>Mr Stephen Tan Aik Kao</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>tan_aik_kao_stephen@moe.edu.sg</p>
 </td>
 </tr>
