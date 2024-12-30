@@ -80,27 +80,22 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mathematics</strong> 
-<br>Mrs Irene Ng</p>
+<br>Mr Brandon Tay Lian Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>irene_ng_sze_kiat@moe.edu.sg</p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Science</strong>
 </p>
+<p>Ms Teo Lian Peng, Evelyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Teo Lian Peng, Evelyn</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>teo_lian_peng@moe.edu.sg</p>
 </td>
 </tr>
@@ -138,7 +133,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Physical Education</strong> 
+<p><strong>Physical Education/CCA</strong>
 <br>Mr Jansher Khan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -164,6 +159,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>
 <br>ng_chor_kheng_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Character &amp; Citizenship Education</strong>
+<br>Ms Deepa Nanwani Singh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -237,16 +241,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Subject Head / National Education &amp; Social Studies</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Danielle Hon-Selvanathen</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <p>hon_wymun_danielle@moe.edu.sg</p>
 </td>
 </tr>
@@ -254,13 +253,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Subject Head / Partnerships</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Stephen Tan Aik Kao</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -294,18 +286,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Amelia Bte Akhtiar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nurul_amelia_akhtiar@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>P2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Norshahidah Bte Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -314,19 +294,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P3</strong>
+<p><strong>P2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Belle Taw Ai Hiang</p>
+<p>Ms Nurul Amelia Bte Akhtiar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>taw_ai_hiang@moe.edu.sg</p>
+<p>nurul_amelia_akhtiar@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P4</strong>
+<p><strong>P3</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -338,24 +318,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>P4</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Herdawati Suleiman (Covering)</p>
+<p>Mdm Belle Taw Ai Hiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>herdawati_suleiman@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Elias Chiang Yong Jian (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chiang_yong_jian_elias@moe.edu.sg</p>
+<p>taw_ai_hiang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -364,10 +334,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Elizabeth Lee Norlawati</p>
+<p>Mdm Yasotha D/O Loganadan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_elizabeth_norlawati@moe.edu.sg</p>
+<p>yasotha_loganadan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -376,10 +346,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yasotha D/O Loganadan</p>
+<p>Ms Elizabeth Lee Norlawati</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yasotha_loganadan@moe.edu.sg</p>
+<p>lee_elizabeth_norlawati@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -424,17 +394,13 @@ variant: tiptap
 <p><strong>Senior Teachers</strong> 
 <br>Mdm Azizah Bte Abdul Razak (English)
 <br>
-<br>Mr Wu Puwen (Science)
-<br>
-<br>Mrs Cherlyn Frances Raeburn (SEN)</p>
+<br>Mr Wu Puwen (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
 <br>azizah_abdul_razak@moe.edu.sg
 <br>
-<br>wu_puwen@moe.edu.sg
-<br>
-<br>cherlyn_frances_raeburn@moe.edu.sg</p>
+<br>wu_puwen@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
