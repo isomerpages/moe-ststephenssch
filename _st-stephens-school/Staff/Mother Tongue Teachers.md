@@ -26,7 +26,7 @@ variant: tiptap
 <p>Ms Agnes Pang Yu Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>agnes_pang_yu_han@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ variant: tiptap
 <p>Mr Ho Lui Soon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ho_lui_soon@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +106,7 @@ variant: tiptap
 <p>Mdm Por Soon Lan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>por_soon_lan_1@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +154,7 @@ variant: tiptap
 <p>Ms Wong Zi'en</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>wong_zien@@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -269,6 +269,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>shankar_selvam@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Nagalingam Selvanayagam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nagalingam_selvanayagam_b@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
