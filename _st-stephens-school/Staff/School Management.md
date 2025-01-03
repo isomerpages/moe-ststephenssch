@@ -84,8 +84,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>
-</p>
+<br>tay_lian_hoon@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
