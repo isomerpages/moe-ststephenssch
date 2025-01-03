@@ -44,7 +44,7 @@ variant: tiptap
 <p>P1 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>agnes_pang_yu_han@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -220,7 +220,7 @@ variant: tiptap
 <p>P1 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chong_chia_fong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -264,7 +264,7 @@ variant: tiptap
 <p>P1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>amrita_sawlani@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -757,7 +757,7 @@ variant: tiptap
 <p>P3 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nagalingam _selvanayagam_b@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1129,7 +1129,7 @@ variant: tiptap
 <p>P5 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ho_lui_soon@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1392,7 +1392,7 @@ variant: tiptap
 <p>P6 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>jeffrey_stephen_espehana@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
