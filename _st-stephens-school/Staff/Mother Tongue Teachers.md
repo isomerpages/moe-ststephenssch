@@ -23,6 +23,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Agnes Pang Yu Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>agnes_pang_yu_han@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Brandon Yip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>brandon_yip@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Chan Joo Eng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,6 +55,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ho Lui Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ho_lui_soon@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Huang Jie</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -47,18 +71,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lang Jia Jing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lang_jia_jing@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Isabelle Lim Niam Chin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tay_niam_chin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lang Jia Jing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lang_jia_jing@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -75,6 +99,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>pee_may_may@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Por Soon Lan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>por_soon_lan_1@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -119,18 +151,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yang Yiqun</p>
+<p>Ms Wong Zi'en</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yang_yiqun@moe.edu.sg</p>
+<p>wong_zien@@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Brandon Yip</p>
+<p>Mdm Yang Yiqun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>brandon_yip@moe.edu.sg</p>
+<p>yang_yiqun@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -237,6 +269,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>shankar_selvam@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Nagalingam Selvanayagam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nagalingam_selvanayagam_b@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
