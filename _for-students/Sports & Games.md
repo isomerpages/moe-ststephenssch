@@ -19,9 +19,8 @@ variant: tiptap
 <h5>MISSION</h5>
 <p>Provide a platform for the promotion and growth of Badminton in St Stephen
 School</p>
-<table style="minWidth: 175px">
+<table style="minWidth: 150px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -31,9 +30,6 @@ School</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <th rowspan="1" colspan="1">
 <p>CCA</p>
 </th>
@@ -61,10 +57,7 @@ School</p>
 <p>Mr Jeffrey Stephen espehana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>jeffrey_stephen_espehana@schools.gov.sg</p>
+<p>jeffrey_stephen_espehana@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday
