@@ -37,7 +37,7 @@ Enabling the boys to learn how to dance and to love dancing
 
 | CCA 	| Tr-in-charge 	| Email address of main i/c 	| Day 	| Time 	| Venue 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Modern Dance 	|  Ms Tay Lei Yi Rynda 	| tay_lei_yi@schools.gov.sg <br> 	| Tuesday<br>Friday 	| 2:15 pm to<br>4.15 pm 	| Dance Room<br>(ISH H3-02) 	|
+| Modern Dance 	|  Ms Tay Lei Yi Rynda 	| tay_lei_yi@moe.edu.sg <br> 	| Tuesday<br>Friday 	| 2:15 pm to<br>4.15 pm 	| Dance Room<br>(ISH H3-02) 	|
 
 *   [Band](https://staging.d2cjzrom1e1f8a.amplifyapp.com/performing-arts/Band/overview/)
 
