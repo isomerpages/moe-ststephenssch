@@ -2,6 +2,7 @@
 title: Uniformed Groups
 permalink: /for-students/uniformed-groups/
 description: ""
+variant: markdown
 ---
 ### Uniformed Groups
 
@@ -21,7 +22,7 @@ The mission of Scouting is to contribute to the education of young people, throu
 
 | CCA 	| Tr-in-charge 	| Email address of main i/c 	| Day 	| Time 	| Venue 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Cub Scouts 	| Mr Brandon Yip 	| brandon_yip@moe.edu.sg<br><br> 	| Friday 	| 2:15 pm to<br>4.15 pm 	| School 	|
+| Cub Scouts 	| Ms Chua Meng Lee Christin 	| chua_meng_lee@schools.gov.sg<br><br> 	| Friday 	| 2:15 pm to<br>4.15 pm 	| School 	|
 
 *   [Scouts](https://staging.d2cjzrom1e1f8a.amplifyapp.com/scouts/overview/)
 
