@@ -19,9 +19,21 @@ variant: tiptap
 <h5>MISSION</h5>
 <p>Provide a platform for the promotion and growth of Badminton in St Stephen
 School</p>
-<table>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 <th rowspan="1" colspan="1">
 <p>CCA</p>
 </th>
@@ -46,12 +58,13 @@ School</p>
 <p>Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sherwin Goh Si Win</p>
+<p>Mr Jeffrey Stephen espehana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_si_win_sherwin@moe.edu.sg
-<br>
-</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>jeffrey_stephen_espehana@schools.gov.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday
@@ -79,7 +92,15 @@ through.</p>
 <h5>MISSION</h5>
 <p>Provide the platform for every Stephenian to spring upon and achieve his
 basketball potential.</p>
-<table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -139,7 +160,15 @@ basketball potential.</p>
 Sports Excellence</p>
 <h5>MISSION</h5>
 <p>Every Stephenian being developed in mind, body and spirit</p>
-<table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -200,7 +229,15 @@ for the Glory of God.</p>
 <h5>MISSION</h5>
 <p>Enabling Stephenians to be masters of the game, empowering them to be
 men for others.</p>
-<table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -259,7 +296,15 @@ men for others.</p>
 <p>Every athlete striving for Track &amp; Field Excellence</p>
 <h5>MISSION</h5>
 <p>Every athlete being developed in mind, body and spirit</p>
-<table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -310,7 +355,12 @@ men for others.</p>
 </tbody>
 </table>
 <h4>Ad-Hoc Sports (NSG)</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
