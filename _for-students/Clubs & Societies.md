@@ -38,7 +38,7 @@ Enabling all Stephenians to learn info communication knowledge, empowering them 
 
 | CCA 	| Tr-in-charge 	| Email address of main i/c 	| Day 	| Time 	| Venue 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Media Productions 	| Mdm Azizah Abdul Razak 	|  azizah_abdul_razak@schools.gov.sg	| Friday 	| 2:15 pm to<br>4.15 pm 	| Com Lab 3<br>L4-11 	|
+| Media Productions 	| Mdm Azizah Abdul Razak 	|  azizah_abdul_razak@moe.edu.sg	| Friday 	| 2:15 pm to<br>4.15 pm 	| Com Lab 3<br>L4-11 	|
 
 #### Science &amp; Green Technology
 [Science &amp; Green Technology CCA Video](https://youtu.be/m9-qTIT0uqA)
@@ -69,7 +69,7 @@ To develop pupils to be inquisitive, creative and collaborative while developing
 
 | CCA 	| Trs-in-charge 	| Email address of main i/c 	| Day 	| Time 	| Venue 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Robotics 	| Mdm Eileen Leong 	| leong_ee_lin_eileen@schools.gov.sg 	| Tuesday<br><br> 	| 2:15 pm to<br>4.15 pm<br> 	| Computer lab 1 (L2-14)<br>(competition)<br><br>Computer lab 2 (L3-16)<br>(advanced)<br><br>Computer lab 3 (L4-11)<br>(Intermediate)<br><br>Library Resource (L3-13)<br>(Basic) 	|
+| Robotics 	| Mdm Eileen Leong 	| leong_ee_lin_eileen@moe.edu.sg 	| Tuesday<br><br> 	| 2:15 pm to<br>4.15 pm<br> 	| Computer lab 1 (L2-14)<br>(competition)<br><br>Computer lab 2 (L3-16)<br>(advanced)<br><br>Computer lab 3 (L4-11)<br>(Intermediate)<br><br>Library Resource (L3-13)<br>(Basic) 	|
 
 *   [Art](https://staging.d2cjzrom1e1f8a.amplifyapp.com/clubs-and-societies/Art/overview/)
 
