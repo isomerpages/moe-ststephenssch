@@ -1,14 +1,13 @@
 ---
-title: Our School Rally
-permalink: /ststephen/our-school-rally/
+title: Our School Songs
+permalink: /ststephen/our-school-songs/
 description: ""
 ---
-### Our School Rally
+### Our School Songs
 
-#### SCHOOL RALLY - Alma Mater's Call
+#### SCHOOL RALLY (Alma Mater's Call)
 
-_Music based on the Irish song O'Donnell Abu (1567)_
-
+_Music based on the Irish song O'Donnell Abu (1567)_&nbsp;<br>
 _Lyrics by Brother Marcian James Cullen (1869-1938)_
 
   
@@ -45,13 +44,12 @@ Heaven will e'er protect<br>
 Sons of Saint Stephen's<br>
 Valiant and true.
 
-*Insert audio here*
 
 ##### ABOUT the School Rally
 
-_The School Rally is shared by all the Lasallian schools in Singapore. For our school's version, the original phrase "our college" in stanza 1 verse 1 is replaced by "Saint Stephen's", and similarly in the Chorus, our institution's name takes the place in the verse "Sons of Saint Stephen's"._
+_All the Lasallian schools share the School Rally in Singapore, Malaysia and Hong Kong. For our school's version, the original phrase "our college" in stanza 1 verse 1 is replaced by "Saint Stephen's", and similarly in the Chorus, our institution's name takes the place in the verse "Sons of Saint Stephen's"._
 
-#### Glorious Patron
+#### GLORIOUS PATRON
 
 Saint John Baptist, Holy Founder<br>
 Friend and father of the young<br>
@@ -69,7 +67,6 @@ Making God's word understood<br>
 Saint John Baptist, Holy Founder<br>
 Model of our brotherhood
 
-*Insert audio here*
 
 ##### ABOUT Glorious Patron
 
@@ -77,7 +74,7 @@ _Glorious Patron pays tribute to our founder, Saint Jean-Baptiste de La Salle (1
 
 _This is also the melody that Stephenians hum to at the end of each day - the final school bell of the day ringing out this popular tune as the boys make their way out into the hallways and corridors._
 
-#### We Are Lasallian
+#### WE ARE LASALLIAN
 
 
 We come from all nations, united in our cause<br>
@@ -130,7 +127,6 @@ And we shall ever shine like stars through trial by fire and strife
 *We share a dream, and sing with one voice* <br>
 *I am, you are, we are Lasallian*
 
-*Insert audio here*
 
 ##### ABOUT We Are Lasallian
 
