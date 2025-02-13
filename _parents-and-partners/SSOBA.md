@@ -9,10 +9,9 @@ description: ""
 
   
 
-We will be celebrating our 65th Anniversary in 2022 and we have seen many cohorts and generations of boys graduate.
+The St. Stephen's Old Boys Association was formed in 2017 and hopes to connect with the generations of Stephenians, past and present, since our founding in 1957.
 
-Our old boys - Sons of St. Stephen's - have continued their good times and are providing their strongest support for the alma mater through SSOBA, the St. Stephen's Old Boys Association.
-
+All ex-Stephenians are highly encouraged and welcomed to join SSOBA to connect with other Sons of St. Stephen's, and continue their good times and render support to their alma mater through SSOBA, the St. Stephen's Old Boys Association, so that other generations continue to grow and develop as part of the Stephenian family. 
   
 
 Old boys, come reconnect via
