@@ -32,36 +32,27 @@ empowering them to become&nbsp;<br>
 **Community, Our Support**
 
 
-### School Stephenian Outcomes
+### Desried Stephenian Outcomes
 
 Here are our Stephenian Outcomes, the manifestation of our Lasallian School Vision &amp; Values:
 
-#### Stephenians
 
 **LIVING IN FAITH**
 
-is strong in faith and grounded in values.
-
-is resilient, mindful and disciplined in his words, thoughts and actions.
-
-seeks truth, appreciates beauty and leads a healthy, meaningful life.
+Strong in faith and grounded in values.&nbsp;<br>
+Resilient, mindful and disciplined in his words, thoughts and actions.&nbsp;<br>
+Seeks truth, appreciates beauty and leads a healthy, meaningful life.&nbsp;<br>
 
 **LEADING IN SERVICE**
 
-is a caring and concerned citizen.
-
-is a reflective servant leader who betters his world.
+A caring and concerned citizen.&nbsp;<br>
+A reflective servant leader who betters his world.&nbsp;<br>
 
 **LEARNING AS A COMMUNITY**
 
-is a literate gentleman: an effective and discerning reader and communicator.
+A literate gentleman: an effective and discerning reader and communicator.&nbsp;<br>
+An inquirer - a curious, critical and creative thinker.&nbsp;<br>
+A motivated learner with a growth mindset.&nbsp;<br>
+Self-directed and collaborative in learning.&nbsp;<br>
+Passionate about subjects and attains mastery of skills and knowledge.&nbsp;<br>
 
-is an inquirer - a curious, critical and creative thinker.
-
-is a motivated learner with a growth mindset.
-
-is self-directed and collaborative in learning.
-
-is passionate about subjects and attains mastery of skills and knowledge.
-
-**FOR THE GLORY OF GOD**
