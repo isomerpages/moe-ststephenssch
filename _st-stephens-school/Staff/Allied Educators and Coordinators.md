@@ -1,6 +1,6 @@
 ---
-title: Allied Educators and Coordinators
-permalink: /ststephen/staff/allied-educators-and-coordinators/
+title: Allied Educators
+permalink: /ststephen/staff/allied-educators/
 description: ""
 third_nav_title: Staff
 variant: tiptap
@@ -80,53 +80,3 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Learning Support Coordinators</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(LSM) Mdm Lim Ee Chen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_ee_chin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(LSM) Mdm Safarina Bte Satar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>safarina_satar@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(LSP) Mrs Agatha Dyason</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>agatha_dyason@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(LSP) Mdm Safarina Satar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>safarina_satar@moe.edu.sg</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
