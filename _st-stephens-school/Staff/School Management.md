@@ -90,8 +90,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Science</strong>
-</p>
-<p>Ms Teo Lian Peng, Evelyn</p>
+<br>Ms Teo Lian Peng, Evelyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -110,7 +109,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Information Communication Technology (ICT) Ed Tech</strong> 
+<p><strong>Information Communication Technology</strong> 
 <br>Mr Royston Low Kai Ming</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,19 +119,10 @@ variant: tiptap
 <p>royston_low@moe.edu.sg</p>
 </td>
 </tr>
+
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Learning Technologies</strong> 
-<br>Mdm Murni Masuath</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>murni_masuath@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Physical Education/CCA</strong>
+<p><strong>Physical Education and CCA</strong>
 <br>Mr Jansher Khan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -152,7 +142,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Staff Development</strong> 
+<p><strong>School Staff Developer</strong> 
 <br>Mrs Tan Chor Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -166,7 +156,8 @@ variant: tiptap
 <br>Ms Deepa Nanwani Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>
+<br>deepa_parkash_nanwani@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -218,6 +209,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Subject Head / Learning Technologies</strong> 
+<br>Mdm Murni Masuath</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>murni_masuath@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Subject Head / Values In Action (VIA)</strong>
 <br>Mdm Thia Lee Lian</p>
 </td>
@@ -249,8 +250,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Subject Head / National Education &amp; Social Studies</strong>
-</p>
-<p>Mrs Danielle Hon-Selvanathen</p>
+<br>Mrs Danielle Hon-Selvanathen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -261,8 +261,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Subject Head / Partnerships</strong>
-</p>
-<p>Mr Stephen Tan Aik Kao</p>
+<br>Mr Stephen Tan Aik Kao</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
