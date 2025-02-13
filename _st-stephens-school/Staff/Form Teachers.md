@@ -65,8 +65,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P1 Diligence</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+ <td rowspan="1" colspan="1">
+<p> wong_zien@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -89,17 +89,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>norshahidah_aziz@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Teresa Luo Xinyi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P1 Diligence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>luo_xinyi_teresa@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
