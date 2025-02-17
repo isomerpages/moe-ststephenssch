@@ -2,7 +2,7 @@
 layout: homepage
 title: St Stephen's School
 description: Brief site description here
-image: /images/sss-logo.png
+image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
