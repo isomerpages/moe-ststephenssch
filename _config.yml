@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: ""
+description: A school of the De La Salle Brothers
 permalink: none
 baseurl: ""
 exclude:
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2cjzrom1e1f8a.amplifyapp.com
 prod: https://master.d2cjzrom1e1f8a.amplifyapp.com
-shareicon: ""
+shareicon: /images/isomer-logo.svg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""

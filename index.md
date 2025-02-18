@@ -1,8 +1,8 @@
 ---
 layout: homepage
 title: St Stephen's School
-description: Brief site description here
-image: /images/sss-logo.png
+description: A school of the De La Salle Brothers
+image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:

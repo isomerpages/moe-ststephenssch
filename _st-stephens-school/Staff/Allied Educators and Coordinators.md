@@ -1,12 +1,11 @@
 ---
-title: Allied Educators and Coordinators
-permalink: /ststephen/staff/allied-educators-and-coordinators/
+title: Allied Educators
+permalink: /ststephen/staff/allied-educators/
 description: ""
 third_nav_title: Staff
 variant: tiptap
 ---
-<h3>Allied Educators and Coordinators</h3>
-<h4>Allied Educators</h4>
+<h3>Allied Educators and Learning Support</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -35,6 +34,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>muniandy_gowrie_juliana@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -78,53 +85,56 @@ variant: tiptap
 <p>faiqah_irwan_shah_abdullah@moe.edu.sg</p>
 </td>
 </tr>
-</tbody>
-</table>
-<h4>Learning Support Coordinators</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(LSM) Mdm Lim Ee Chen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_ee_chin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>(LSM) Mdm Safarina Bte Satar</p>
+<p><strong>Learning Support Teachers</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>safarina_satar@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(LSP) Mrs Agatha Dyason</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>agatha_dyason@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>(LSP) Mdm Safarina Satar</p>
+<p>Mdm Lim Ee Chen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>safarina_satar@moe.edu.sg</p>
+<p><a href="mailto:lim_ee_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ee_chen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Agatha Dyason</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:agatha_dyason@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">agatha_dyason@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Safarina Bte Satar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:safarina_satar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">safarina_satar@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

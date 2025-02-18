@@ -42,7 +42,7 @@ decisions for yourself, your family and society; and</p>
 before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p></p>
-<p>You may click&nbsp; <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a> &nbsp;for
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a>&nbsp;for
 more information on MOE Sexuality Education.</p>
 <p></p>
 <p><strong>OVERVIEW OF ST. STEPHEN’S SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</strong>
@@ -51,7 +51,7 @@ more information on MOE Sexuality Education.</p>
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
 Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
-Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here (https://go.gov.sg/moe-sexuality-education-scope)</a> for
+Law. You may <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.&nbsp;</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
 on sexuality include:</p>
@@ -78,17 +78,26 @@ rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
-<p><strong>At St. Stephen’s School, the following Sexuality Education lessons will be taught in 2024:</strong>
+<p><strong>At St. Stephen’s School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_18_151113.png">
 </div>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_18_151344.png">
+</div>
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_18_151612.png">
 </div>
+<p></p>
+<p></p>
 <p></p>

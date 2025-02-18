@@ -2,36 +2,28 @@
 title: HBL Technical Support
 permalink: /parents-and-partners/hbl-technical-support/
 description: ""
+variant: tiptap
 ---
-###  Technical Support
-
-1\. During school operating hours, contact the School-based Helpline for all queries (SLS access matters, etc.
-
-School-based Helpline: 62419513
-
-Mondays – Fridays : 8am – 4pm
-
-  
-2. Outside school operating hours, contact the SLS Helpdesk for support
-
-*   SLS Helpdesk : 6702 6513
-*   Mondays – Fridays : 4pm – 9pm
-*   Saturdays : 9am – 3pm
-
-  
-3\. For SLS matters, you may also email the SLS Central Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com) at any time for assistance. Please include your son’s full name, name of school and form class.
-
-  
-
-4\. Please fill in this [FORM](https://form.gov.sg/#!/5e37d58673a1e90011945210) to request for the following:
-
-*   Password Reset for SLS
-*   Unlocking of SLS Account
-We will get back to you with the new password soon.
-
-Guide to SLS Account Management
-
-[Guide to SLS Account Management. P2 to P6 Students.pdf](/files/Guide%20to%20SLS.pdf)
-
-FAQs for STeP
-[FAQs onSTeP](/files/Jan%202023%20STeP%20FAQs.pdf)
+<h3>Technical Support</h3>
+<p>1.During Home-based Learning (HBL) days, your child/ ward will be informed
+of their assigned tasks through ClassDojo and Student Learning Space (SLS).</p>
+<p></p>
+<p>2. For technical assistance, you can contact the following helplines:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>School-based Helpline:&nbsp;62419513 </u>
+<br>(Monday – Friday: 0800-1600hrs)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>SLS Helpdesk: 6702 6513 </u>
+<br>(Monday – Friday: 1600-2100hrs)
+<br>(Saturday: 0900-1500hrs)</p>
+<p>Kindly note that the helplines cannot assist with specific subject-related
+queries (e.g., what subject work is assigned for class, etc.).&nbsp;</p>
+<p>4. Please fill in this&nbsp;<a href="https://form.gov.sg/#!/5e37d58673a1e90011945210" rel="noopener noreferrer nofollow" target="_blank">FORM</a>&nbsp;to
+request for the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Password Reset for SLS</p>
+</li>
+<li>
+<p>Unlocking of SLS Account</p>
+</li>
+</ul>
+<p></p>
