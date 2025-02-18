@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Staff
 variant: tiptap
 ---
-<h3>Allied Educators</h3>
+<h3>Allied Educators and Learning Support</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
