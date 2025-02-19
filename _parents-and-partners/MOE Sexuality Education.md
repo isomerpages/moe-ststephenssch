@@ -45,7 +45,7 @@ pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a>&nbsp;for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<p><strong>OVERVIEW OF ST. STEPHEN’S SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</strong>
+<p><strong>OVERVIEW OF ST. STEPHEN’S SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
