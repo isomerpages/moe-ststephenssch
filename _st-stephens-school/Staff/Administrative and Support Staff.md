@@ -118,8 +118,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ICT Executive</strong>
-<br>Ms Letchumi Kalanidi Ma Nithya Kalpavrikshananda A</p>
+<p><strong>ICT Manager</strong>
+<br>Ms Letchumi Kalanidi</p>
 <p>
 <br>
 <br>
