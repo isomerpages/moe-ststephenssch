@@ -107,8 +107,7 @@ variant: tiptap
 <p>Mdm Lim Ee Chen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_ee_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ee_chen@moe.edu.sg</a>
-</p>
+<p>lim_ee_chen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -116,8 +115,7 @@ variant: tiptap
 <p>Mrs Agatha Dyason</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:agatha_dyason@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">agatha_dyason@moe.edu.sg</a>
-</p>
+<p>agatha_dyason@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -125,8 +123,7 @@ variant: tiptap
 <p>Mdm Safarina Bte Satar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:safarina_satar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">safarina_satar@moe.edu.sg</a>
-</p>
+<p>safarina_satar@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
