@@ -26,7 +26,7 @@ description: ""
 <p></p>
 <h3><strong><u>Stitchwerkz Pte Ltd</u></strong></h3>
 <p>✆ 8930 0388</p>
-<p>✉ <a href="mailto:nametags@stitchwerkz.sg" rel="noopener noreferrer nofollow" target="_blank"> nametags@stitchwerkz.sg</a>
+<p>✉ <a href="mailto:nametags@stitchwerkz.sg" rel="noopener noreferrer nofollow" target="_blank">nametags@stitchwerkz.sg</a>
 </p>
 <p>🌐<a href="https://nametags.stitchwerkz.sg/product-page/nametag-st-stephen-school" rel="noopener noreferrer nofollow" target="_blank">https://nametags.stitchwerkz.sg/product-page/nametag-st-stephen-school</a>
 </p>
@@ -34,8 +34,7 @@ description: ""
 </p>
 <h3><strong><u>Liberty Resources Pte Ltd</u></strong></h3>
 <p>✆ 8656 9889</p>
-<p>✉ <a href="mailto:nametags@stitchwerkz.sg" rel="noopener noreferrer nofollow" target="_blank"> </a>
-<a href="mailto:libertyresources2002@gmail.com" rel="noopener noreferrer nofollow" target="_blank">libertyresources2002@gmail.com</a>
+<p>✉ <a href="mailto:libertyresources2002@gmail.com" rel="noopener noreferrer nofollow" target="_blank">libertyresources2002@gmail.com</a>
 </p>
 <p></p>
 <p><strong>xx</strong>
@@ -43,19 +42,7 @@ description: ""
 <p></p>
 <h3><strong><u>Liberty Resources Pte Ltd</u></strong></h3>
 <p>✆ 8656 9889</p>
-<p>✉ <a href="mailto:nametags@stitchwerkz.sg" rel="noopener noreferrer nofollow" target="_blank"> </a>
-<a href="mailto:libertyresources2002@gmail.com" rel="noopener noreferrer nofollow" target="_blank">libertyresources2002@gmail.com</a>
-</p>
-<p></p>
-<p><strong>xx</strong>
-</p>
-<p></p>
-<h3><strong><u>YMCA SCC @ St Stephen's</u></strong></h3>
-<p>✆ 9821 8990</p>
-<p>✉ <a href="mailto:nametags@stitchwerkz.sg" rel="noopener noreferrer nofollow" target="_blank"> </a>
-<a href="mailto:libertyresources2002@gmail.com" rel="noopener noreferrer nofollow" target="_blank">libertyresources2002@gmail.com</a>
-</p>
-<p>🌐 <a rel="noopener noreferrer nofollow" target="_blank">www.ymca.org.sg</a>
+<p>✉ <a href="mailto:libertyresources2002@gmail.com" rel="noopener noreferrer nofollow" target="_blank">libertyresources2002@gmail.com</a>
 </p>
 <p></p>
 <p><strong>xx</strong>
