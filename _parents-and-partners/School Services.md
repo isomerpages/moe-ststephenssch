@@ -40,14 +40,6 @@ description: ""
 <p><strong>xx</strong>
 </p>
 <p></p>
-<h3><strong><u>Liberty Resources Pte Ltd</u></strong></h3>
-<p>✆ 8656 9889</p>
-<p>✉ <a href="mailto:libertyresources2002@gmail.com" rel="noopener noreferrer nofollow" target="_blank">libertyresources2002@gmail.com</a>
-</p>
-<p></p>
-<p><strong>xx</strong>
-</p>
-<p></p>
 <h3><strong><u>School Dental Clinic</u></strong></h3>
 <p>✆ 91122045</p>
 <p>Operating Hours</p>
