@@ -2,8 +2,8 @@ collections:
   parents-and-partners:
     output: true
     order:
+      - School Bookshop.md
       - SSOBA.md
       - SPARK.md
       - HBL Technical Support.md
       - MOE Sexuality Education.md
-     
