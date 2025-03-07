@@ -88,7 +88,7 @@ please contact one of the following dental clinics:</p>
 <td rowspan="1" colspan="1">
 <h3><strong><u>YMCA SCC @ St Stephen's</u></strong></h3>
 <p>✆ 9821 8990</p>
-<p>✉ <a href="ssscc@ymca.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nametags@stitchwerkz.sg</a>
+<p>✉ <a href="mailto:ssscc@ymca.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ssscc@ymca.edu.sg</a>
 </p>
 <p>🌐&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.ymca.org.sg</a>
 </p>
