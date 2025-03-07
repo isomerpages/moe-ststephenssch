@@ -72,11 +72,14 @@ Please refer to the PG for more details.</p>
 <td rowspan="1" colspan="1">
 <h3><strong><u>School Dental Clinic</u></strong></h3>
 <p>✆ 91122045</p>
+<p></p>
 <p>Operating Hours</p>
 <p>Monday, Wednesday, Friday - 8:00am to 5:00pm</p>
 <p>Tuesday, Thursday - 8:00am to 5.30pm</p>
+<p></p>
 <p><strong>Please call to check the dentist's opening hours.</strong>
 </p>
+<p></p>
 <p>If your child requires urgent dental treatment and the clinic is closed,
 please contact one of the following dental clinics:</p>
 <p>✆ 9113 0636 - Tao Nan School</p>
