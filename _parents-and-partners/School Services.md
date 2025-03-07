@@ -86,7 +86,15 @@ please contact one of the following dental clinics:</p>
 <p>✆ 8940 1058 - CHIJ</p>
 </td>
 <td rowspan="1" colspan="1">
+<h3><strong><u>YMCA SCC @ St Stephen's</u></strong></h3>
+<p>✆ 9821 8990</p>
+<p>✉ <a href="ssscc@ymca.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nametags@stitchwerkz.sg</a>
+</p>
+<p>🌐&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.ymca.org.sg</a>
+</p>
 <p></p>
+<p><strong>Should you require after-school care for your child, you may contact the student care center provider.</strong>
+</p>
 </td>
 </tr>
 </tbody>
