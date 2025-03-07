@@ -40,7 +40,7 @@ Please refer to the PG for more details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3><u>Stitchwerkz Pte Ltd</u></h3>
+<h3><strong><u>Stitchwerkz Pte Ltd</u></strong></h3>
 <p>✆ 8930 0388</p>
 <p>✉ <a href="mailto:nametags@stitchwerkz.sg" rel="noopener noreferrer nofollow" target="_blank">nametags@stitchwerkz.sg</a>
 </p>
@@ -71,7 +71,7 @@ Please refer to the PG for more details.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <h3><strong><u>School Dental Clinic</u></strong></h3>
-<p>✆ 91122045</p>
+<p>✆ 9112 2045</p>
 <p></p>
 <p>Operating Hours</p>
 <p>Monday, Wednesday, Friday - 8:00am to 5:00pm</p>
