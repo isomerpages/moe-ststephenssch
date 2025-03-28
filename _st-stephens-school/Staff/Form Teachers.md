@@ -7,8 +7,9 @@ variant: tiptap
 ---
 <h3>Form Teachers</h3>
 <h4>Primary 1</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -22,6 +23,9 @@ variant: tiptap
 <p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
+<p>My Beliefs About Teaching</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
 </tr>
@@ -29,12 +33,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Hafiza Sapiee</p>
 <p></p>
-<blockquote>
-<p>Learning is best when it's enjoyable.</p>
-</blockquote>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Courage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learning is best when it's enjoyable.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>hafiza_sapiee@moe.edu.sg</p>
@@ -42,27 +48,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Agnes Pang Yu Han</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Courage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>agnes_pang_yu_han@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -81,6 +83,9 @@ variant: tiptap
 <p>P1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>wong_zien@moe.edu.sg</p>
 </td>
 </tr>
@@ -90,6 +95,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>shi_kaili_fiona@moe.edu.sg</p>
@@ -103,6 +111,9 @@ variant: tiptap
 <p>P1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>norshahidah_aziz@moe.edu.sg</p>
 </td>
 </tr>
@@ -112,6 +123,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>koo_hue_ling@moe.edu.sg</p>
@@ -125,10 +139,16 @@ variant: tiptap
 <p>P1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>luo_xinyi_teresa@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -147,6 +167,9 @@ variant: tiptap
 <p>P1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>cheong_lee_ling@moe.edu.sg</p>
 </td>
 </tr>
@@ -158,10 +181,16 @@ variant: tiptap
 <p>P1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>mohamad_zakie_mohd_aiksan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -180,6 +209,9 @@ variant: tiptap
 <p>P1 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>siti_nurhidayah_abdul_aziz@moe.edu.sg</p>
 </td>
 </tr>
@@ -191,10 +223,16 @@ variant: tiptap
 <p>P1 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>foo_mei_yih@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -213,6 +251,9 @@ variant: tiptap
 <p>P1 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>loh_hui_yan_charmaine@moe.edu.sg</p>
 </td>
 </tr>
@@ -224,10 +265,16 @@ variant: tiptap
 <p>P1 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Zhang_Yi_B@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -246,6 +293,9 @@ variant: tiptap
 <p>P1 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>chong_chia_fong@moe.edu.sg</p>
 </td>
 </tr>
@@ -255,6 +305,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Humility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_ee_chen@moe.edu.sg</p>
@@ -268,10 +321,16 @@ variant: tiptap
 <p>P1 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>tan_jiak_lan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -290,6 +349,9 @@ variant: tiptap
 <p>P1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>leong_ee_lin_eileen@moe.edu.sg</p>
 </td>
 </tr>
@@ -301,10 +363,16 @@ variant: tiptap
 <p>P1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>amrita_sawlani@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -323,6 +391,9 @@ variant: tiptap
 <p>P1 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>safarina_satar@moe.edu.sg</p>
 </td>
 </tr>
@@ -334,6 +405,9 @@ variant: tiptap
 <p>P1 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>jayapal_hema@moe.edu.sg</p>
 </td>
 </tr>
@@ -343,6 +417,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Joy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ramasamy_mareeswari_sivaranjana_a@moe.edu.sg</p>
