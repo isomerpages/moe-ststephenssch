@@ -28,12 +28,27 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Hafiza Sapiee</p>
+<p></p>
+<blockquote>
+<p>Learning is best when it's enjoyable.</p>
+</blockquote>
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>hafiza_sapiee@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
