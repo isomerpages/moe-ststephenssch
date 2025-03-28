@@ -55,6 +55,9 @@ variant: tiptap
 <p>P1 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>I believe that true happiness comes from learning and discovering new
+things. Thus, I am committed to guiding and supporting my students onto
+that wonderful and glorious path.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
