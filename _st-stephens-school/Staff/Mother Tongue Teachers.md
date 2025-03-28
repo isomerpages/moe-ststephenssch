@@ -103,10 +103,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Por Soon Lan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>por_soon_lan_1@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -261,14 +261,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>rajeswari_mogan@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Shankar s/o Selvam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>shankar_selvam@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
