@@ -86,6 +86,8 @@ that wonderful and glorious path.</p>
 <p>P1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Teaching problem-solving equips students with critical thinking skills,
+enabling them to navigate challenges and make informed decisions.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -100,6 +102,10 @@ that wonderful and glorious path.</p>
 <p>P1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>A hallmark of a great teacher is where the children work and learn as
+if the teacher did not exist. Children today will make the discoveries
+of tomorrow... without us. They must be able to go that extra step beyond
+what we teach them.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,6 +120,8 @@ that wonderful and glorious path.</p>
 <p>P1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Each student can work hard and achieve big goals.</p>
+<p>It’s OK to make mistakes. Let’s learn from them!</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,6 +150,7 @@ that wonderful and glorious path.</p>
 <p>P1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>To mould characters, form minds, teach virtue and raise saints.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -170,7 +179,10 @@ that wonderful and glorious path.</p>
 <p>P1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teaching for me, is about inspiring curiosity, fostering critical thinking,
+and creating a supportive environment where students feel empowered to
+explore and grow. I believe in the transformative power of education and
+strive to make learning engaging, inclusive, and meaningful for every student.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>cheong_lee_ling@moe.edu.sg</p>
@@ -212,6 +224,8 @@ that wonderful and glorious path.</p>
 <p>P1 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>To nurture the future generation with an open heart and mind.</p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -226,7 +240,7 @@ that wonderful and glorious path.</p>
 <p>P1 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>To motivate each &amp; every child to be proactive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>foo_mei_yih@moe.edu.sg</p>
@@ -254,6 +268,8 @@ that wonderful and glorious path.</p>
 <p>P1 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>A teachable student is one who is motivated to learn on his/her own. The
+not-so-teachable ones are the ones who need to be taught more.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -268,7 +284,7 @@ that wonderful and glorious path.</p>
 <p>P1 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Educating the mind without educating the heart is no education at all.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Zhang_Yi_B@moe.edu.sg</p>
@@ -296,7 +312,8 @@ that wonderful and glorious path.</p>
 <p>P1 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Consistency is key! Developing a love for reading and being a life-long
+learner aids in success!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chong_chia_fong@moe.edu.sg</p>
@@ -310,7 +327,8 @@ that wonderful and glorious path.</p>
 <p>P1 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Effective teaching involves consistent reflection on your strategies and
+conduct.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_ee_chen@moe.edu.sg</p>
@@ -324,7 +342,8 @@ that wonderful and glorious path.</p>
 <p>P1 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>To pass on the knowledge, values n to inculcate lifelong learning to the
+younger generation.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_jiak_lan@moe.edu.sg</p>
@@ -352,7 +371,8 @@ that wonderful and glorious path.</p>
 <p>P1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>In my class, I would like to see my pupils embrace teamwork and empathy
+as much as good test results.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>leong_ee_lin_eileen@moe.edu.sg</p>
@@ -366,7 +386,7 @@ that wonderful and glorious path.</p>
 <p>P1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>A journey of a thousand miles begins with a single step.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>amrita_sawlani@moe.edu.sg</p>
@@ -394,7 +414,7 @@ that wonderful and glorious path.</p>
 <p>P1 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>All students can learn and want to learn.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>safarina_satar@moe.edu.sg</p>
@@ -408,7 +428,8 @@ that wonderful and glorious path.</p>
 <p>P1 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Every child is unique and with proper guidance and support everyone can
+learn.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>jayapal_hema@moe.edu.sg</p>
@@ -431,8 +452,9 @@ that wonderful and glorious path.</p>
 </tbody>
 </table>
 <h4>Primary 2</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -445,6 +467,10 @@ that wonderful and glorious path.</p>
 <th rowspan="1" colspan="1">
 <p>Class</p>
 </th>
+<td rowspan="1" colspan="1">
+<p><strong>My Beliefs About Teaching</strong>
+</p>
+</td>
 <th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
@@ -455,6 +481,9 @@ that wonderful and glorious path.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P2 Courage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A good teacher imparts knowledge, while a great teacher ignites inspiration.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>haslindah_ab_rahman@moe.edu.sg</p>
@@ -468,10 +497,16 @@ that wonderful and glorious path.</p>
 <p>P2 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>We learn as we teach.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>tay_niam_chin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -490,6 +525,9 @@ that wonderful and glorious path.</p>
 <p>P2 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Believing in the best in everyone and helping them achieve their potential.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>tan_tse_see@moe.edu.sg</p>
 </td>
 </tr>
@@ -501,10 +539,16 @@ that wonderful and glorious path.</p>
 <p>P2 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>esther_ngo_xue_ting@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -523,6 +567,12 @@ that wonderful and glorious path.</p>
 <p>P2 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>I aim to instill a passion for learning in every student, encouraging
+active participation and responsibility while nurturing character and a
+growth mindset to help them thrive academically and grow into compassionate,
+resilient individuals.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>kareena_mohamed_ally@moe.edu.sg</p>
 </td>
 </tr>
@@ -534,10 +584,16 @@ that wonderful and glorious path.</p>
 <p>P2 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Every child can learn and help him find success in learning.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>goh_hui_ling_mavis@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -556,6 +612,9 @@ that wonderful and glorious path.</p>
 <p>P2 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Every child is good and can learn. To educate with faith and integrity.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>agatha_dyason@moe.edu.sg</p>
 </td>
 </tr>
@@ -567,10 +626,16 @@ that wonderful and glorious path.</p>
 <p>P2 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Every child in my class should feel valued and respected.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>rajeswari_mogan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -589,6 +654,9 @@ that wonderful and glorious path.</p>
 <p>P2 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Inspire and grow the potential of every child.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>tan_aik_kao_stephen@moe.edu.sg</p>
 </td>
 </tr>
@@ -600,10 +668,20 @@ that wonderful and glorious path.</p>
 <p>P2 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>It's to foster the students' curiosity and passion for learning, both
+in academic and character development through engaging, inquiry-based learning
+and providing real-world connections to the learning content. This will
+serve as the foundation for their personal growth and life long learning.</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Tan_Ai_Foong_A@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -622,6 +700,9 @@ that wonderful and glorious path.</p>
 <p>P2 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Every student has the potential to grow and improve with effort and perseverance.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>siti_nadia_amirah_muhammad_ariff_khoo@moe.edu.sg</p>
 </td>
 </tr>
@@ -631,6 +712,10 @@ that wonderful and glorious path.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P2 Humility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Every student has the ability to learn despite his background. Believe
+in every child.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nurul_amelia_akhtiar@moe.edu.sg</p>
@@ -644,6 +729,9 @@ that wonderful and glorious path.</p>
 <p>P2 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>I am teaching the whole child.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Nancy_Leppard@moe.edu.sg</p>
 </td>
 </tr>
@@ -655,10 +743,16 @@ that wonderful and glorious path.</p>
 <p>P2 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>nuraliaa_kamarudin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -677,6 +771,15 @@ that wonderful and glorious path.</p>
 <p>P2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Every child has an innate desire and potential to learn. As teachers,
+it is our privilege and responsibility to recognize their unique strengths
+and challenges, nurture their curiosity, and meet their diverse learning
+needs with compassion. By fostering a safe and caring environment, where
+every child feels valued and supported, we can inspire confidence, ignite
+a love for learning, and empower each student to realize their fullest
+potential.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>yuan_yingna@moe.edu.sg</p>
 </td>
 </tr>
@@ -688,10 +791,16 @@ that wonderful and glorious path.</p>
 <p>P2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Passing the baton to the next generation.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Lee_Loo_Yen_A@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -710,6 +819,9 @@ that wonderful and glorious path.</p>
 <p>P2 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>To inculcate good values and instil a love for learning.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>tay_lei_yi@moe.edu.sg</p>
 </td>
 </tr>
@@ -721,14 +833,21 @@ that wonderful and glorious path.</p>
 <p>P2 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Every child wants to learn and is able to learn. I want to motivate and
+empower students do their best in their endeavours. I work towards helping
+students develop skills to learn independently and to work collaboratively
+with peers.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>wong_see_ting@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4>Primary 3</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -742,6 +861,10 @@ that wonderful and glorious path.</p>
 <p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
+<p><strong>My Beliefs About Teaching</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
 </tr>
@@ -751,6 +874,32 @@ that wonderful and glorious path.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 Courage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To teach is to guide, not just to explain,
+<br>But to show how learning can never be plain.
+<br>Each lesson a step, a chance to ignite,
+<br>A spark of responsibility, steady and bright.
+<br>
+<br>I believe in their voices, their choices, their drive,
+<br>In a classroom where wonder keeps dreams alive.
+<br>Where they don’t just listen, but step up to lead,
+<br>Taking charge of their world, fulfilling its need.
+<br>
+<br>Through reSSSycle’s bins and plant towers of green,
+<br>They learn that the smallest act can be seen.
+<br>From clothes they recycle to dengue they fight,
+<br>Their hands shape a future, their hearts hold the light.
+<br>
+<br>It’s not about facts but the life that they weave,
+<br>In a community bound by what we believe.
+<br>To serve, to reflect, to give and to grow,
+<br>This is the lesson I want them to know.
+<br>
+<br>For teaching is purpose, not just a plan,
+<br>But building a world through each child’s hand.
+<br>Their courage, their care, their endless pursuit,
+<br>Are the roots of the values I hope to impute.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nicole_tham@moe.edu.sg</p>
@@ -764,6 +913,9 @@ that wonderful and glorious path.</p>
 <p>P3 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Teaching is heartwork. It should not only be seen, but deeply felt.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>nuraini_abdul_samat@moe.edu.sg</p>
 </td>
 </tr>
@@ -775,10 +927,19 @@ that wonderful and glorious path.</p>
 <p>P3 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Teaching the young, we as teachers we nuture the young just like taking
+care of a plant, we need to water them everyday, give the plants enough
+water, sunlight and nutrients so that they can grow well, healthy and strong.
+Equip them with the necessary skills for survival.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>norhazli_ramli@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -797,6 +958,11 @@ that wonderful and glorious path.</p>
 <p>P3 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Teaching is like gardening—each student is beautiful and unique, with
+their own backgrounds and needs. They require personalised care and support
+to help them grow, flourish, and reach their full potential.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Shanelle_Raveena_Ramiah@moe.edu.sg</p>
 </td>
 </tr>
@@ -808,10 +974,16 @@ that wonderful and glorious path.</p>
 <p>P3 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>lim_wei_hung@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -830,6 +1002,10 @@ that wonderful and glorious path.</p>
 <p>P3 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Nurture every student to learn effectively and develop their potential
+to be happy and successful individuals.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>murni_masuath@moe.edu.sg</p>
 </td>
 </tr>
@@ -841,10 +1017,16 @@ that wonderful and glorious path.</p>
 <p>P3 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>I believe a teacher is the most powerful of role models.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>chan_joo_eng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -863,6 +1045,12 @@ that wonderful and glorious path.</p>
 <p>P3 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Teachers have a moral responsibility to ensure equity, inclusivity, and
+access to quality education, the greatest enabler in a child’s life. Education
+empowers holistic growth—academic, social, and emotional—shaping resilient,
+thoughtful, and contributing citizens.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>geraldine_rita_pereira@moe.edu.sg</p>
 </td>
 </tr>
@@ -874,10 +1062,16 @@ that wonderful and glorious path.</p>
 <p>P3 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>choo_watt_kian_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -896,6 +1090,9 @@ that wonderful and glorious path.</p>
 <p>P3 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>It takes a village to bring up a child.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>leraine_leow@moe.edu.sg</p>
 </td>
 </tr>
@@ -907,10 +1104,22 @@ that wonderful and glorious path.</p>
 <p>P3 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>One of my strongest believe is that teaching is never a one way process
+but rather a two way process. This is because as I teach students, not
+only are they learning something, but I'm also learning at the same time.
+Furthermore, I also believe that learning should he engaging and joyful
+but I strongly believe that education can shape lives, hence my goal as
+a teacher is to make students grow not only academically but as a person
+as well.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>nagalingam _selvanayagam_b@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -929,6 +1138,9 @@ that wonderful and glorious path.</p>
 <p>P3 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Motivation ignites passion for learning.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>teo_siok_hoon_candy@moe.edu.sg</p>
 </td>
 </tr>
@@ -938,6 +1150,10 @@ that wonderful and glorious path.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 Humility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>I believed that learner-oriented teaching promotes learning that is both
+purposeful and enduring.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Yusyinda_Mohammed_Yusof_A@moe.edu.sg</p>
