@@ -1162,8 +1162,9 @@ purposeful and enduring.</p>
 </tbody>
 </table>
 <h4>Primary 4</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -1177,6 +1178,10 @@ purposeful and enduring.</p>
 <p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
+<p><strong>My Beliefs About Teaching</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
 </tr>
@@ -1186,6 +1191,10 @@ purposeful and enduring.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P4 Courage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teaching is about inspiring students, unlocking their potential and nurturing
+them with care and love to help them grow.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_hui_min_melissa@moe.edu.sg</p>
@@ -1199,10 +1208,16 @@ purposeful and enduring.</p>
 <p>P4 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>hanifa_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1221,6 +1236,12 @@ purposeful and enduring.</p>
 <p>P4 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>I believe in nurturing students to become well-rounded individuals by
+instilling strong values, fostering resilience, and encouraging a love
+for learning. Teaching is about shaping character and building a supportive
+community where every student thrives.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Taufiq_Izzudin_Jamaludin@moe.edu.sg</p>
 </td>
 </tr>
@@ -1232,10 +1253,17 @@ purposeful and enduring.</p>
 <p>P4 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Pupils learn best in a conducive environment, for example when everyone
+is quiet and ready.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Marion_Santa_Maria@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1254,6 +1282,12 @@ purposeful and enduring.</p>
 <p>P4 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>I firmly believe that every child possesses unique talents and abilities
+waiting to be nurtured. With patient guidance, supportive encouragement,
+and a nurturing environment, I am convinced every child can unlock their
+full potential and achieve greatness.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>jaysree_krishnasamy@moe.edu.sg</p>
 </td>
 </tr>
@@ -1265,10 +1299,16 @@ purposeful and enduring.</p>
 <p>P4 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Every student is a good student.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>zhang_li_c@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1287,6 +1327,10 @@ purposeful and enduring.</p>
 <p>P4 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Equipping them the skills to learn. Showing them the joy of learning.
+Guiding them to use what they have learnt.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>yeo_quan_kai@moe.edu.sg</p>
 </td>
 </tr>
@@ -1298,10 +1342,16 @@ purposeful and enduring.</p>
 <p>P4 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Everyone can learn.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>tan_yi_ru@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1320,6 +1370,9 @@ purposeful and enduring.</p>
 <p>P4 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Discipline and character is the foundation of effective learning.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>wong_siew_kheong@moe.edu.sg</p>
 </td>
 </tr>
@@ -1329,6 +1382,9 @@ purposeful and enduring.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P4 Gratitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>huang_jie@moe.edu.sg</p>
@@ -1342,10 +1398,16 @@ purposeful and enduring.</p>
 <p>P4 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>we_antai@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1364,6 +1426,10 @@ purposeful and enduring.</p>
 <p>P4 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Teaching should first touch the heart, shape the character, and educate
+the mind.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>chrispian_tirtamaya@moe.edu.sg</p>
 </td>
 </tr>
@@ -1375,10 +1441,19 @@ purposeful and enduring.</p>
 <p>P4 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>I believe that learning is a lifelong process and that it plays a significant
+role in building character. However, this also depends on receiving proper
+guidance from the right person, as the quality of teaching influences what
+a child learns about life.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>abdul_khairi_b_abdul@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1397,6 +1472,9 @@ purposeful and enduring.</p>
 <p>P4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>To teach is to uplift.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>rozita_mohamad_said@moe.edu.sg</p>
 </td>
 </tr>
@@ -1408,14 +1486,18 @@ purposeful and enduring.</p>
 <p>P4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>kua_kia_pang_geoffrey@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4>Primary 5</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -1429,6 +1511,10 @@ purposeful and enduring.</p>
 <p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
+<p><strong>My Beliefs About Teaching</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
 </tr>
@@ -1438,6 +1524,10 @@ purposeful and enduring.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5 Courage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Order and discipline are the foundation of all good education. Without
+them, learning cannot flourish. Knowledge isn't free. One has to pay attention.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yu_kai_yao_rich@moe.edu.sg</p>
@@ -1451,10 +1541,16 @@ purposeful and enduring.</p>
 <p>P5 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>yasotha_loganadan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1473,6 +1569,9 @@ purposeful and enduring.</p>
 <p>P5 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Brandon_Yip@moe.edu.sg</p>
 </td>
 </tr>
@@ -1484,10 +1583,16 @@ purposeful and enduring.</p>
 <p>P5 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>lang_jia_jing@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1506,6 +1611,9 @@ purposeful and enduring.</p>
 <p>P5 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>ho_lui_soon@moe.edu.sg</p>
 </td>
 </tr>
@@ -1517,10 +1625,16 @@ purposeful and enduring.</p>
 <p>P5 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>yang_yiqun@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1539,6 +1653,9 @@ purposeful and enduring.</p>
 <p>P5 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>irene_ng_sze_kiat@moe.edu.sg</p>
 </td>
 </tr>
@@ -1550,10 +1667,16 @@ purposeful and enduring.</p>
 <p>P5 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>hon_wymun_danielle@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1572,6 +1695,9 @@ purposeful and enduring.</p>
 <p>P5 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Chua_Meng_Lee@moe.edu.sg</p>
 </td>
 </tr>
@@ -1583,10 +1709,16 @@ purposeful and enduring.</p>
 <p>P5 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Kevin_Mark_Seah_Hui@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1605,6 +1737,9 @@ purposeful and enduring.</p>
 <p>P5 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>chiang_yong_jian_elias@moe.edu.sg</p>
 </td>
 </tr>
@@ -1616,10 +1751,16 @@ purposeful and enduring.</p>
 <p>P5 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>pok_oi_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1638,6 +1779,9 @@ purposeful and enduring.</p>
 <p>P5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Abdul_Rauf_A_A@moe.edu.sg</p>
 </td>
 </tr>
@@ -1647,6 +1791,9 @@ purposeful and enduring.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wu_puwen@moe.edu.sg</p>
