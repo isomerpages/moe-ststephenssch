@@ -119,7 +119,6 @@ variant: tiptap
 <p>royston_low@moe.edu.sg</p>
 </td>
 </tr>
-
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Physical Education and CCA</strong>
