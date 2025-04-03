@@ -547,6 +547,20 @@ learn.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Audrey Yap (Supporting Co-Form)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P2 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Every child can learn.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>audrey_yap_b@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1541,7 +1555,11 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 <p>P5 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Every child has unique talents, interests, and challenges that should
+be recognized and nurtured.
+<br>A child with positive attitude will never stop learning.
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yasotha_loganadan@moe.edu.sg</p>
@@ -1569,7 +1587,9 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 <p>P5 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>I believe in a holistic approach to education, where learning extends
+beyond the classroom through real-world experiences, social interactions,
+and personal exploration.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Brandon_Yip@moe.edu.sg</p>
@@ -1583,7 +1603,8 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 <p>P5 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>I believe in the transformative power of learning and in guiding pupils
+toward their fullest potential.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lang_jia_jing@moe.edu.sg</p>
@@ -1611,7 +1632,7 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 <p>P5 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Learning goes beyond the classroom.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ho_lui_soon@moe.edu.sg</p>
@@ -1625,7 +1646,7 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 <p>P5 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teaching students in accordance with their aptitude.（因材施教）</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yang_yiqun@moe.edu.sg</p>
@@ -1653,7 +1674,10 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 <p>P5 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>As a teacher, I believe that children should be empowered to be explorers
+and take charge of their own journey of learning and discovery. Teachers
+should facilitate their students' learning to help them fulfil their potential
+and interest.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>irene_ng_sze_kiat@moe.edu.sg</p>
@@ -1667,7 +1691,8 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 <p>P5 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Growing together to be well-rounded individuals who face life’s challenges
+with wisdom and compassion, all for the glory of God.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>hon_wymun_danielle@moe.edu.sg</p>
@@ -1695,7 +1720,9 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 <p>P5 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>以学生为中心，对学生有信心。Always put the students at the centre in teaching, having
+confidence and faith in them, believing that every students wants to learn
+and can learn.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chua_Meng_Lee@moe.edu.sg</p>
@@ -1709,7 +1736,16 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 <p>P5 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Presently, its the "Five Key Beliefs" - Belonging, Effort, Efficacy, Value,
+Credibility.
+<br>Belonging - We are community, we work and collaborate together for the
+better for all.
+<br>Effort - Through smart effort, teachers and students can learn and grow
+together.
+<br>Efficacy - With a growth mindset and effort, we can succeed.
+<br>Value - The work we do must matter, otherwise it is a waste of time.
+<br>Credibility - I need to be good at my job, and my students need to give
+their best at learning. This needs trust to be earned, not blindly given.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kevin_Mark_Seah_Hui@moe.edu.sg</p>
@@ -1737,7 +1773,8 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 <p>P5 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>It’s not only about what is being done/taught, it’s about how it’s being
+done/taught.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chiang_yong_jian_elias@moe.edu.sg</p>
@@ -1779,7 +1816,8 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 <p>P5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Every child carries infinite potential; as teachers, our role is to nurture
+their well-being so they can uncover it in their own time.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Abdul_Rauf_A_A@moe.edu.sg</p>
@@ -1793,7 +1831,10 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 <p>P5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teaching inspires and guides students to explore, learn, and grow. In
+primary science, it nurtures curiosity through experimentation, encouraging
+students to engage with the world and develop lifelong learning skills
+through scientific practices.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wu_puwen@moe.edu.sg</p>
@@ -1802,8 +1843,9 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 </tbody>
 </table>
 <h4>Primary 6</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -1817,6 +1859,10 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 <p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
+<p><strong>My Beliefs About Teaching</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
 </tr>
@@ -1826,6 +1872,9 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 </td>
 <td rowspan="1" colspan="1">
 <p>P6 Courage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teaching involves values inculcation as well as imparting knowledge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_nicole_anne@moe.edu.sg</p>
@@ -1839,10 +1888,16 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 <p>P6 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>charles_timothy_d_cruz@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1861,6 +1916,9 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 <p>P6 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Every child can learn. Each at his own pace.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>sandosham_darren_micheal@moe.edu.sg</p>
 </td>
 </tr>
@@ -1872,10 +1930,16 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 <p>P6 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Be kind and be teachable.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>lee_elizabeth_norlawati@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1894,6 +1958,11 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 <p>P6 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>As I teach, I also learn. Subject content and information is readily available
+on internet so in teaching, I should be intentional about making it easier
+for the target audience to understand the subject matter.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>sew_pui_huang@moe.edu.sg</p>
 </td>
 </tr>
@@ -1905,10 +1974,20 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 <p>P6 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>A good education empowers individuals and transforms lives positively.
+It also gives individuals the confidence to question &amp; walk away from
+situations they may be trapped in.&nbsp; As teachers, we should encourage
+and inspire our students to be lifelong learners &amp; critical thinkers
+so that they can be change agents in the future!</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>teo_april@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1927,6 +2006,10 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 <p>P6 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Love is at the root of everything. All learning. All parenting. All relationships.
+Love, or the lack of it. ~ Fred Rogers</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>jeffrey_stephen_espehana@moe.edu.sg</p>
 </td>
 </tr>
@@ -1938,10 +2021,17 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 <p>P6 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>An effective and reflective educator is someone who is firm and yet approachable.
+I believe that every pupil can learn, but in their own unique way.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>thia_lee_lian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1960,6 +2050,9 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 <p>P6 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>herdawati_suleiman@moe.edu.sg</p>
 </td>
 </tr>
@@ -1971,10 +2064,16 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 <p>P6 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Every Child Matters. Every Potential, Extraordinary.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>pee_may_may@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1993,6 +2092,11 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 <p>P6 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>"Every student has the potential to succeed—learning is a journey we take
+together."
+<br>– Mrs Christine Nyoman</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>tan_lay_koon_christine@moe.edu.sg</p>
 </td>
 </tr>
@@ -2002,6 +2106,9 @@ them, learning cannot flourish. Knowledge isn't free. One has to pay attention.<
 </td>
 <td rowspan="1" colspan="1">
 <p>P6 Humility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teaching Beyond The Curriculum</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>azizah_abdul_razak@moe.edu.sg</p>
