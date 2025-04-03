@@ -7,9 +7,8 @@ variant: tiptap
 ---
 <h3>Form Teachers</h3>
 <h4>Primary 1</h4>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -22,9 +21,6 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>My Beliefs About Teaching</p>
@@ -43,9 +39,6 @@ variant: tiptap
 <p>P1 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hafiza_sapiee@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><em>Learning is best when it's enjoyable.</em>
 </p>
 <p></p>
@@ -61,9 +54,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Courage</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>agnes_pang_yu_han@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>I believe that true happiness comes from learning and discovering new things. Thus, I am committed to guiding and supporting my students onto that wonderful and glorious path.</em>
@@ -87,9 +77,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -97,9 +84,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Diligence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wong_zien@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Teaching problem-solving equips students with critical thinking skills, enabling them to navigate challenges and make informed decisions.</em>
@@ -118,9 +102,6 @@ variant: tiptap
 <p>P1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shi_kaili_fiona@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><em>A hallmark of a great teacher is where the children work and learn as if the teacher did not exist. Children today will make the discoveries of tomorrow... without us. They must be able to go that extra step beyond what we teach them.</em>
 </p>
 <p></p>
@@ -135,9 +116,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Diligence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>norshahidah_aziz@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Each student can work hard and achieve big goals.</em>
@@ -158,9 +136,6 @@ variant: tiptap
 <p>P1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>koo_hue_ling@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -173,9 +148,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Diligence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>luo_xinyi_teresa@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>To mould characters, form minds, teach virtue and raise saints.</em>
@@ -199,9 +171,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -209,9 +178,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Empathy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>cheong_lee_ling@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Teaching for me, is about inspiring curiosity, fostering critical thinking, and creating a supportive environment where students feel empowered to explore and grow. I believe in the transformative power of education and strive to make learning engaging, inclusive, and meaningful for every student.</em>
@@ -229,9 +195,6 @@ variant: tiptap
 <p>P1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohamad_zakie_mohd_aiksan@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -239,9 +202,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -263,9 +223,6 @@ variant: tiptap
 <p>P1 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_nurhidayah_abdul_aziz@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><em>To nurture the future generation with an open heart and mind.</em>
 </p>
 <p></p>
@@ -281,9 +238,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Fortitude</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>foo_mei_yih@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>To motivate each &amp; every child to be proactive</em>
@@ -306,9 +260,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -316,9 +267,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Gratitude</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>loh_hui_yan_charmaine@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>A teachable student is one who is motivated to learn on his/her own. The not-so-teachable ones are the ones who need to be taught more.</em>
@@ -335,9 +283,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Gratitude</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Zhang_Yi_B@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Educating the mind without educating the heart is no education at all.</em>
@@ -360,9 +305,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -370,9 +312,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Humility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chong_chia_fong@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Consistency is key! Developing a love for reading and being a life-long learner aids in success!</em>
@@ -390,9 +329,6 @@ variant: tiptap
 <p>P1 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_ee_chen@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><em>Effective teaching involves consistent reflection on your strategies and conduct.</em>
 </p>
 </td>
@@ -406,9 +342,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Humility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_jiak_lan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>To pass on the knowledge, values n to inculcate lifelong learning to the younger generation.</em>
@@ -431,9 +364,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -441,9 +371,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>leong_ee_lin_eileen@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>In my class, I would like to see my pupils embrace teamwork and empathy as much as good test results.</em>
@@ -459,9 +386,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>amrita_sawlani@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>A journey of a thousand miles begins with a single step.</em>
@@ -484,9 +408,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -494,9 +415,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Joy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>safarina_satar@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>All students can learn and want to learn.</em>
@@ -514,9 +432,6 @@ variant: tiptap
 <p>P1 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jayapal_hema@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><em>Every child is unique and with proper guidance and support everyone can learn.</em>
 </p>
 </td>
@@ -530,9 +445,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Joy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ramasamy_mareeswari_sivaranjana_a@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
