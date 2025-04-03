@@ -44,9 +44,8 @@ variant: tiptap
 <br>Mr Heng Tow Yang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To teach is a privilege to make that difference to lives and futures.&nbsp;
-"One child, one teacher, one book, one pen can change the world." ~ Malala
-Yousafzai</p>
+<p><em>To teach is a privilege to make that difference to lives and futures.&nbsp; "One child, one teacher, one book, one pen can change the world." ~ Malala Yousafzai</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -59,7 +58,8 @@ Yousafzai</p>
 <br>Mr James Chew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A great teacher shows genuine care and teaches from the heart.</p>
+<p><em>A great teacher shows genuine care and teaches from the heart.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -93,8 +93,8 @@ Yousafzai</p>
 <br>Mrs Charlene Siew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>One child, one teacher, one book, and one pen can change the world. -
-Malala Yousafzai</p>
+<p><em>One child, one teacher, one book, and one pen can change the world. - Malala Yousafzai</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -107,7 +107,8 @@ Malala Yousafzai</p>
 <br>Mr Brandon Tay Lian Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every child can learn.</p>
+<p><em>Every child can learn.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -120,8 +121,8 @@ Malala Yousafzai</p>
 <br>Ms Teo Lian Peng, Evelyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every child is a curious learner at heart, and it is my privilege to nurture
-that curiosity with patience, creativity, and unwavering encouragement.</p>
+<p><em>Every child is a curious learner at heart, and it is my privilege to nurture that curiosity with patience, creativity, and unwavering encouragement.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -134,8 +135,8 @@ that curiosity with patience, creativity, and unwavering encouragement.</p>
 <br>Mdm Ouw Li Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Do my best, and God will do the rest.
-<br>Every child can learn and will learn when he wants to.</p>
+<p><em>Do my best, and God will do the rest. <br>Every child can learn and will learn when he wants to.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -148,29 +149,7 @@ that curiosity with patience, creativity, and unwavering encouragement.</p>
 <br>Mr Royston Low Kai Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>I believe that education serves to make a better person, equipping students
-with the tools to reason, counter reason, and apply what they learn in
-meaningful ways. In English, this means enabling students to internalize
-and use language structures, rules, and applications to express themselves
-effectively. A teacher's role is both developmental and life-giving, requiring
-commitment to nurture not just academic outcomes but the whole child.
-<br>Role modeling and scaffolding are critical strategies in the primary classroom,
-offering students a framework for success while encouraging independence.
-Effective teaching provides opportunities for stretch assignments that
-challenge students, alongside tasks that give a sense of achievement and
-confidence at their level. By adopting a mixed-media approach, we can ensure
-all learners are engaged and supported.
-<br>Assessment should serve as a tool for reflection and growth, focusing
-on feedback over marks to guide improvement. Genuine investment in each
-child, seeing them as individuals beyond their results, is fundamental.
-Alongside this, we must inspire curiosity and creativity, fostering responsible
-and responsive expression while ensuring discipline, for knowledge without
-discipline remains incomplete. Discipline is important for child to have
-a safe environment and operate with knowledge that they are always supported.
-<br>Ultimately, teaching is about instilling values and skills that allow
-students to navigate the world with reason, creativity, and responsibility.
-<br>
-<br>
+<p><em>I believe that education serves to make a better person, equipping students with the tools to reason, counter reason, and apply what they learn in meaningful ways. In English, this means enabling students to internalize and use language structures, rules, and applications to express themselves effectively. A teacher's role is both developmental and life-giving, requiring commitment to nurture not just academic outcomes but the whole child. <br>Role modeling and scaffolding are critical strategies in the primary classroom, offering students a framework for success while encouraging independence. Effective teaching provides opportunities for stretch assignments that challenge students, alongside tasks that give a sense of achievement and confidence at their level. By adopting a mixed-media approach, we can ensure all learners are engaged and supported. <br>Assessment should serve as a tool for reflection and growth, focusing on feedback over marks to guide improvement. Genuine investment in each child, seeing them as individuals beyond their results, is fundamental. Alongside this, we must inspire curiosity and creativity, fostering responsible and responsive expression while ensuring discipline, for knowledge without discipline remains incomplete. Discipline is important for child to have a safe environment and operate with knowledge that they are always supported. <br>Ultimately, teaching is about instilling values and skills that allow students to navigate the world with reason, creativity, and responsibility. <br><br></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -186,8 +165,8 @@ students to navigate the world with reason, creativity, and responsibility.
 <br>Mr Jansher Khan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Knowledge does not come, but you have to go for it.
-<br>Indeed the cure for ignorance, is good education.</p>
+<p><em>Knowledge does not come, but you have to go for it. <br>Indeed the cure for ignorance, is good education.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -200,11 +179,8 @@ students to navigate the world with reason, creativity, and responsibility.
 <br>Mr Sheikh Alauddin Abdul Aleem</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every child is unique, can and wants to learn. Take the time to understand
-the child's needs and help him. It is important to build the child's confidence
-and enhance his self-esteem.Positive relationship&nbsp; is the fundamental
-block in the Core Theory of Success. Celebrate all types of successes no
-matter how small. (FSC)</p>
+<p><em>Every child is unique, can and wants to learn. Take the time to understand the child's needs and help him. It is important to build the child's confidence and enhance his self-esteem.Positive relationship&nbsp; is the fundamental block in the Core Theory of Success. Celebrate all types of successes no matter how small. (FSC)</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -217,7 +193,8 @@ matter how small. (FSC)</p>
 <br>Mrs Tan Chor Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Best is Yet to be</p>
+<p><em>The Best is Yet to be</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -230,27 +207,7 @@ matter how small. (FSC)</p>
 <br>Ms Deepa Nanwani Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aligns closely with MOE's Curriculum Philosophy, which prioritises students
-in all educational decisions. I aim to prepare students for the future,
-instil a strong national identity, and develop their global competencies.
-My goal is to empower students to lead fulfilling lives and contribute
-positively to their community and nation, while helping them pursue their
-passions and aspirations.
-<br>
-<br>I advocate for holistic education that emphasises values, social-emotional
-well-being, and character development. I'm honoured to lead the school's
-character development initiatives.
-<br>
-<br>I firmly believe in every child's capacity and desire to learn. Consequently,
-I design learning experiences, both within and outside the classroom, that
-focus on meeting children's learning needs.
-<br>
-<br>To achieve these objectives, I consider the following elements crucial:
-<br>1. nurturing, safe and secure learning environments
-<br>2. encouraging students to actively construct knowledge
-<br>3. fostering thinking skills and dispositions
-<br>4. utilising assessment effectively to address learning gaps
-<br>
+<p><em>Aligns closely with MOE's Curriculum Philosophy, which prioritises students in all educational decisions. I aim to prepare students for the future, instil a strong national identity, and develop their global competencies. My goal is to empower students to lead fulfilling lives and contribute positively to their community and nation, while helping them pursue their passions and aspirations. <br><br>I advocate for holistic education that emphasises values, social-emotional well-being, and character development. I'm honoured to lead the school's character development initiatives. <br><br>I firmly believe in every child's capacity and desire to learn. Consequently, I design learning experiences, both within and outside the classroom, that focus on meeting children's learning needs. <br><br>To achieve these objectives, I consider the following elements crucial: <br>1. nurturing, safe and secure learning environments <br>2. encouraging students to actively construct knowledge <br>3. fostering thinking skills and dispositions <br>4. utilising assessment effectively to address learning gaps <br></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -285,7 +242,8 @@ focus on meeting children's learning needs.
 <br>Mdm Nicole Anne Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teaching involves values inculcation as well as imparting knowledge</p>
+<p><em>Teaching involves values inculcation as well as imparting knowledge</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -311,7 +269,8 @@ focus on meeting children's learning needs.
 <br>Mdm Yang Yiqun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teaching students in accordance with their aptitude.（因材施教）</p>
+<p><em>Teaching students in accordance with their aptitude.（因材施教）</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -324,8 +283,8 @@ focus on meeting children's learning needs.
 <br>Mdm Murni Masuath</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nurture every student to learn effectively and develop their potential
-to be happy and successful individuals.</p>
+<p><em>Nurture every student to learn effectively and develop their potential to be happy and successful individuals.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -338,8 +297,8 @@ to be happy and successful individuals.</p>
 <br>Mdm Thia Lee Lian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>An effective and reflective educator is someone who is firm and yet approachable.
-I believe that every pupil can learn, but in their own unique way.</p>
+<p><em>An effective and reflective educator is someone who is firm and yet approachable. I believe that every pupil can learn, but in their own unique way.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -352,7 +311,8 @@ I believe that every pupil can learn, but in their own unique way.</p>
 <br>Mdm Pee May May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every Child Matters. Every Potential, Extraordinary.</p>
+<p><em>Every Child Matters. Every Potential, Extraordinary.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -365,8 +325,8 @@ I believe that every pupil can learn, but in their own unique way.</p>
 <br>Mr Elias Chiang Yong Jian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>It’s not only about what is being done/taught, it’s about how it’s being
-done/taught.</p>
+<p><em>It’s not only about what is being done/taught, it’s about how it’s being done/taught.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -379,8 +339,8 @@ done/taught.</p>
 <br>Mrs Danielle Hon-Selvanathen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Growing together to be well-rounded individuals who face life’s challenges
-with wisdom and compassion, all for the glory of God.</p>
+<p><em>Growing together to be well-rounded individuals who face life’s challenges with wisdom and compassion, all for the glory of God.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -394,7 +354,8 @@ with wisdom and compassion, all for the glory of God.</p>
 <br>Mr Stephen Tan Aik Kao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Inspire and grow the potential of every child</p>
+<p><em>Inspire and grow the potential of every child</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -435,8 +396,8 @@ with wisdom and compassion, all for the glory of God.</p>
 <p>Ms Norshahidah Bte Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Each student can work hard and achieve big goals.
-<br>It’s OK to make mistakes. Let’s learn from them!</p>
+<p><em>Each student can work hard and achieve big goals. <br>It’s OK to make mistakes. Let’s learn from them!</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>norshahidah_aziz@moe.edu.sg</p>
@@ -451,8 +412,8 @@ with wisdom and compassion, all for the glory of God.</p>
 <p>Ms Nurul Amelia Bte Akhtiar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every student has the ability to learn despite his background. Believe
-in every child.</p>
+<p><em>Every student has the ability to learn despite his background. Believe in every child.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nurul_amelia_akhtiar@moe.edu.sg</p>
@@ -467,7 +428,8 @@ in every child.</p>
 <p>Ms Nuraini Abdul Samat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teaching is heartwork. It should not only be seen, but deeply felt.</p>
+<p><em>Teaching is heartwork. It should not only be seen, but deeply felt.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nuraini_abdul_samat@moe.edu.sg</p>
@@ -482,7 +444,8 @@ in every child.</p>
 <p>Mdm Belle Taw Ai Hiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every child can learn.</p>
+<p><em>Every child can learn.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>taw_ai_hiang@moe.edu.sg</p>
@@ -497,10 +460,7 @@ in every child.</p>
 <p>Mdm Yasotha D/O Loganadan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every child has unique talents, interests, and challenges that should
-be recognized and nurtured.
-<br>A child with positive attitude will never stop learning.
-<br>
+<p><em>Every child has unique talents, interests, and challenges that should be recognized and nurtured. <br>A child with positive attitude will never stop learning. <br></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -516,7 +476,8 @@ be recognized and nurtured.
 <p>Ms Elizabeth Lee Norlawati</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Be kind and be teachable.</p>
+<p><em>Be kind and be teachable.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_elizabeth_norlawati@moe.edu.sg</p>
@@ -549,9 +510,8 @@ be recognized and nurtured.
 <br>Ms Shakila Vasu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>My belief about teaching is that it is not just about imparting knowledge
-but about inspiring curiosity, fostering a love for learning, and empowering
-students to reach their full potential.</p>
+<p><em>My belief about teaching is that it is not just about imparting knowledge but about inspiring curiosity, fostering a love for learning, and empowering students to reach their full potential.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -564,18 +524,8 @@ students to reach their full potential.</p>
 <br>Mr Charles Timothy D'Cruz (PE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our Lasallian way is to Teach~Touch~Transform
-<br>Learning goes Beyond the Classroom…
-<br>Many of the most Memorable Lessons happen beyond the Academic Realm.
-<br>Teach them to Fish not Give them Fish.
-<br>Lived Learning Experiences that are Reflected upon are invaluable moments
-that shape and grow us.
-<br>As LKY said in 1965 “I am extremely anxious about the generation that
-is growing up literate but uneducated. They can read; they can write; they
-can pass examinations. But they are not really educated; they have not
-formed; they have not developed. They are not effective digits for the
-community.”
-<br>UBUNTU</p>
+<p><em>Our Lasallian way is to Teach~Touch~Transform <br>Learning goes Beyond the Classroom… <br>Many of the most Memorable Lessons happen beyond the Academic Realm. <br>Teach them to Fish not Give them Fish. <br>Lived Learning Experiences that are Reflected upon are invaluable moments that shape and grow us. <br>As LKY said in 1965 “I am extremely anxious about the generation that is growing up literate but uneducated. They can read; they can write; they can pass examinations. But they are not really educated; they have not formed; they have not developed. They are not effective digits for the community.” <br>UBUNTU</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -591,7 +541,8 @@ community.”
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Teaching Beyond The Curriculum</p>
+<p><em>Teaching Beyond The Curriculum</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -605,10 +556,8 @@ community.”
 <p>Mr Wu Puwen (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teaching inspires and guides students to explore, learn, and grow. In
-primary science, it nurtures curiosity through experimentation, encouraging
-students to engage with the world and develop lifelong learning skills
-through scientific practices.</p>
+<p><em>Teaching inspires and guides students to explore, learn, and grow. In primary science, it nurtures curiosity through experimentation, encouraging students to engage with the world and develop lifelong learning skills through scientific practices.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wu_puwen@moe.edu.sg</p>
