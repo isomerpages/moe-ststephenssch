@@ -1724,42 +1724,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Ms Candy Teo Siok Hoon</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P3 Humility</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p><em>Motivation ignites passion for learning.</em>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>teo_siok_hoon_candy@moe.edu.sg</p>
@@ -1767,41 +1740,55 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Ms Yusyinda Mohammed Yusof</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P3 Humility</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p><em>I believed that learner-oriented teaching promotes learning that is both purposeful and enduring.</em>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Yusyinda_Mohammed_Yusof_A@moe.edu.sg</p>
@@ -1810,8 +1797,17 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Primary 4</h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 325px">
 <colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -1819,13 +1815,13 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Name</p>
 </th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Class</p>
 </th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="8">
 <p><strong>My Beliefs About Teaching</strong>
 </p>
 </th>
@@ -1834,13 +1830,13 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mrs Melissa Lee</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P4 Courage</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p><em>Teaching is about inspiring students, unlocking their potential and nurturing them with care and love to help them grow.</em>
 </p>
 </td>
@@ -1849,13 +1845,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mdm Hanifa Masdawood</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P4 Courage</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1875,15 +1871,45 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mr Taufiq Izzudin Bin Jamaludin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P4 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="8">
 <p><em>I believe in nurturing students to become well-rounded individuals by instilling strong values, fostering resilience, and encouraging a love for learning. Teaching is about shaping character and building a supportive community where every student thrives.</em>
 </p>
 </td>
@@ -1892,13 +1918,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mrs Marion Santa Maria&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P4 Diligence</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p><em>Pupils learn best in a conducive environment, for example when everyone is quiet and ready.</em>
 </p>
 </td>
@@ -1919,15 +1945,42 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mrs Jaysree Ravindaran</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P4 Empathy</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p><em>I firmly believe that every child possesses unique talents and abilities waiting to be nurtured. With patient guidance, supportive encouragement, and a nurturing environment, I am convinced every child can unlock their full potential and achieve greatness.</em>
 </p>
 </td>
@@ -1936,13 +1989,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mdm Zhang Li</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P4 Empathy</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p><em>Every student is a good student.</em>
 </p>
 </td>
@@ -1963,15 +2016,42 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mr Yeo Quan Kai</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P4 Fortitude</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p><em>Equipping them the skills to learn. Showing them the joy of learning. Guiding them to use what they have learnt.</em>
 </p>
 </td>
@@ -1980,13 +2060,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mr Tan Yi Ru</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P4 Fortitude</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p><em>Everyone can learn.</em>
 </p>
 </td>
@@ -2007,15 +2087,42 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mr Wong Siew Kheong&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P4 Gratitude</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p><em>Discipline and character is the foundation of effective learning.</em>
 </p>
 </td>
@@ -2024,13 +2131,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mdm Huang Jie</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P4 Gratitude</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2038,13 +2145,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Ms Wu Antai</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P4 Gratitude</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2064,15 +2171,42 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mr Chrispian Tirtamaya</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P4 Humility</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p><em>Teaching should first touch the heart, shape the character, and educate the mind.</em>
 </p>
 </td>
@@ -2081,13 +2215,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mr Abdul Khairi Bin Abdul Kadir</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P4 Humility</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p><em>I believe that learning is a lifelong process and that it plays a significant role in building character. However, this also depends on receiving proper guidance from the right person, as the quality of teaching influences what a child learns about life.</em>
 </p>
 </td>
@@ -2108,15 +2242,42 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mdm Rozita Bte M Said&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P4 Integrity</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p><em>To teach is to uplift.</em>
 </p>
 </td>
@@ -2125,13 +2286,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mr Geoffrey Kua Kia Pang</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P4 Integrity</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
