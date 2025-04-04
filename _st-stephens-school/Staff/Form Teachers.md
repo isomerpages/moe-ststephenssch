@@ -2792,8 +2792,17 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Primary 6</h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 325px">
 <colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -2801,13 +2810,13 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Name</p>
 </th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Class</p>
 </th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="8">
 <p><strong>My Beliefs About Teaching</strong>
 </p>
 </th>
@@ -2816,13 +2825,13 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mdm Nicole Anne Tan</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P6 Courage</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p><em>Teaching involves values inculcation as well as imparting knowledge</em>
 </p>
 </td>
@@ -2831,13 +2840,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mr Charles Timothy D'Cruz</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P6 Courage</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p><em>Our Lasallian way is to Teach~Touch~Transform<br>Learning goes Beyond the Classroom…<br>Many of the most Memorable Lessons happen beyond the Academic Realm.<br>Teach them to Fish not Give them Fish.<br>Lived Learning Experiences that are Reflected upon are invaluable moments that shape and grow us.<br>As LKY said in 1965 “I am extremely anxious about the generation that is growing up literate but uneducated. They can read; they can write; they can pass examinations. But they are not really educated; they have not formed; they have not developed. They are not effective digits for the community.”<br>UBUNTU</em>
 </p>
 </td>
@@ -2858,15 +2867,42 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mr Darren Micheal Sandosham</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P6 Diligence</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p><em>Every child can learn. Each at his own pace.</em>
 </p>
 </td>
@@ -2875,13 +2911,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Ms Elizabeth Lee Norlawati</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P6 Diligence</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p><em>Be kind and be teachable.</em>
 </p>
 </td>
@@ -2902,15 +2938,42 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Ms Sew Pui Huang</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P6 Empathy</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p><em>As I teach, I also learn. Subject content and information is readily available on internet so in teaching, I should be intentional about making it easier for the target audience to understand the subject matter.</em>
 </p>
 </td>
@@ -2919,13 +2982,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mrs April Sachi</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P6 Empathy</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p><em>A good education empowers individuals and transforms lives positively. It also gives individuals the confidence to question &amp; walk away from situations they may be trapped in.&nbsp; As teachers, we should encourage and inspire our students to be lifelong learners &amp; critical thinkers so that they can be change agents in the future!</em>
 </p>
 </td>
@@ -2946,15 +3009,42 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mr Jeffrey Stephen Espehana&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P6 Fortitude</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p><em>Love is at the root of everything. All learning. All parenting. All relationships. Love, or the lack of it. ~ Fred Rogers</em>
 </p>
 </td>
@@ -2963,13 +3053,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mdm Thia Lee Lian</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P6 Fortitude</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p><em>An effective and reflective educator is someone who is firm and yet approachable. I believe that every pupil can learn, but in their own unique way.</em>
 </p>
 </td>
@@ -2990,15 +3080,42 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mdm Herdawati Suleiman</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P6 Gratitude</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -3007,12 +3124,53 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Mdm Pee May May</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P6 Gratitude</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p><em>Every Child Matters. Every Potential, Extraordinary.</em>
 </p>
 </td>
@@ -3033,15 +3191,42 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mrs Christine Nyoman</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P6 Humility</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p><em>"Every student has the potential to succeed—learning is a journey we take together." <br>– Mrs Christine Nyoman</em>
 </p>
 </td>
@@ -3050,13 +3235,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mdm Azizah Abdul Razak</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>P6 Humility</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p><em>Teaching Beyond The Curriculum</em>
 </p>
 </td>
