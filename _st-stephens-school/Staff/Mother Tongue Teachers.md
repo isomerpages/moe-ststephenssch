@@ -55,6 +55,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Choo Watt Kian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>choo_watt_kian_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Ho Lui Soon</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,6 +87,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Koo Hue Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>koo_hue_ling@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Lang Jia Jing</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,14 +115,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>pee_may_may@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Por Soon Lan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>por_soon_lan_1@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -261,14 +269,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>rajeswari_mogan@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Shankar s/o Selvam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>shankar_selvam@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
