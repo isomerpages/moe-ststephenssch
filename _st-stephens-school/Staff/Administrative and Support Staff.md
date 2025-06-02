@@ -55,9 +55,9 @@ variant: tiptap
 <p>Mr Addrick Sim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>nicholli_ee@schools.gov.sg
-<br>sim_choon_huat_addrick@schools.gov.sg</p>
+<p></p>
+<p>nicholli_ee@schools.gov.sg</p>
+<p>sim_choon_huat_addrick@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
