@@ -52,12 +52,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Operations Manager</strong>
 <br>Mr Nicholli Ee</p>
+<p>Mr Addrick Sim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
 <br>nicholli_ee@schools.gov.sg
-<br>
-</p>
+<br>sim_choon_huat_addrick@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -80,7 +80,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Admin Staff</strong>
 <br>Ms Elizabeth Abraham
-<br>Ms Chong Kai Lin (Christina)
 <br>Ms Nurul Hidayah Bte Mohamed Yatım
 <br>Ms Nirosshini D/O Tamothiran
 <br>Mdm Juminah Binte Bakri</p>
@@ -92,7 +91,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>
 <br>elizabeth_abraham@schools.gov.sg
-<br>chong_kai_lin@schools.gov.sg
 <br>nurul_hidayah_mohd_yatim@schools.gov.sg
 <br>nirosshini_tamothiran@schools.gov.sg
 <br>juminah_bakri@schools.gov.sg
