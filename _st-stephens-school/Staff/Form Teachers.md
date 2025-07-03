@@ -1662,8 +1662,10 @@ variant: tiptap
 <p>P3 Gratitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>One of my strongest believe is that teaching is never a one way process but rather a two way process. This is because as I teach students, not only are they learning something, but I'm also learning at the same time. Furthermore, I also believe that learning should he engaging and joyful but I strongly believe that education can shape lives, hence my goal as a teacher is to make students grow not only academically but as a person as well.</em>
-</p>
+<p>I believe teaching is a two-way process where both students and teachers
+learn from each other. Learning should be engaging and joyful, and I see
+education as a powerful tool to shape lives. My goal as a teacher is to
+help students grow both academically and personally.</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>nagalingam _selvanayagam_b@moe.edu.sg</p>
