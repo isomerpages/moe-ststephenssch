@@ -17,9 +17,10 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>My Beliefs About Teaching</strong>
+</p>
+</td>
 <th rowspan="1" colspan="1">
 <p></p>
 <p></p>
@@ -149,7 +150,7 @@ variant: tiptap
 <br>Mr Royston Low Kai Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>I believe that education serves to make a better person, equipping students with the tools to reason, counter reason, and apply what they learn in meaningful ways. In English, this means enabling students to internalize and use language structures, rules, and applications to express themselves effectively. A teacher's role is both developmental and life-giving, requiring commitment to nurture not just academic outcomes but the whole child. <br>Role modeling and scaffolding are critical strategies in the primary classroom, offering students a framework for success while encouraging independence. Effective teaching provides opportunities for stretch assignments that challenge students, alongside tasks that give a sense of achievement and confidence at their level. By adopting a mixed-media approach, we can ensure all learners are engaged and supported. <br>Assessment should serve as a tool for reflection and growth, focusing on feedback over marks to guide improvement. Genuine investment in each child, seeing them as individuals beyond their results, is fundamental. Alongside this, we must inspire curiosity and creativity, fostering responsible and responsive expression while ensuring discipline, for knowledge without discipline remains incomplete. Discipline is important for child to have a safe environment and operate with knowledge that they are always supported. <br>Ultimately, teaching is about instilling values and skills that allow students to navigate the world with reason, creativity, and responsibility. <br><br></em>
+<p><em>Teaching is about instilling values and skills that allow students to navigate the world with reason, creativity, and responsibility; to be the change agent for a better Age.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -207,7 +208,7 @@ variant: tiptap
 <br>Ms Deepa Nanwani Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Aligns closely with MOE's Curriculum Philosophy, which prioritises students in all educational decisions. I aim to prepare students for the future, instil a strong national identity, and develop their global competencies. My goal is to empower students to lead fulfilling lives and contribute positively to their community and nation, while helping them pursue their passions and aspirations. <br><br>I advocate for holistic education that emphasises values, social-emotional well-being, and character development. I'm honoured to lead the school's character development initiatives. <br><br>I firmly believe in every child's capacity and desire to learn. Consequently, I design learning experiences, both within and outside the classroom, that focus on meeting children's learning needs. <br><br>To achieve these objectives, I consider the following elements crucial: <br>1. nurturing, safe and secure learning environments <br>2. encouraging students to actively construct knowledge <br>3. fostering thinking skills and dispositions <br>4. utilising assessment effectively to address learning gaps <br></em>
+<p><em>Intelligence plus character, that is the goal of true education. - Martin Luther King Jr</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -524,8 +525,12 @@ variant: tiptap
 <br>Mr Charles Timothy D'Cruz (PE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Our Lasallian way is to Teach~Touch~Transform <br>Learning goes Beyond the Classroom… <br>Many of the most Memorable Lessons happen beyond the Academic Realm. <br>Teach them to Fish not Give them Fish. <br>Lived Learning Experiences that are Reflected upon are invaluable moments that shape and grow us. <br>As LKY said in 1965 “I am extremely anxious about the generation that is growing up literate but uneducated. They can read; they can write; they can pass examinations. But they are not really educated; they have not formed; they have not developed. They are not effective digits for the community.” <br>UBUNTU</em>
-</p>
+<p>Our Lasallian way is to Teach~Touch~Transform</p>
+<p>Learning goes Beyond the Classroom.</p>
+<p>Many of the most Memorable Lessons happen beyond the Academic Realm.</p>
+<p>Teach them to Fish not Give them Fish.</p>
+<p>Lived Learning Experiences that are Reflected upon are invaluable moments
+that shape and grow us.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
