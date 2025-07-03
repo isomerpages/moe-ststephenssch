@@ -2619,7 +2619,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Chua_Meng_Lee@moe.edu.sg</p>
+<p>chua_meng_lee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -2634,7 +2634,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Kevin_Mark_Seah_Hui@moe.edu.sg</p>
+<p>kevin_mark_seah_hui@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -2766,7 +2766,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Abdul_Rauf_A_A@moe.edu.sg</p>
+<p>abdul_rauf_a_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
