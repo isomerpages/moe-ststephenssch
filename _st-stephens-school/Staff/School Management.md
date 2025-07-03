@@ -208,7 +208,7 @@ variant: tiptap
 <br>Ms Deepa Nanwani Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Aligns closely with MOE's Curriculum Philosophy, which prioritises students in all educational decisions. I aim to prepare students for the future, instil a strong national identity, and develop their global competencies. My goal is to empower students to lead fulfilling lives and contribute positively to their community and nation, while helping them pursue their passions and aspirations. <br><br>I advocate for holistic education that emphasises values, social-emotional well-being, and character development. I'm honoured to lead the school's character development initiatives. <br><br>I firmly believe in every child's capacity and desire to learn. Consequently, I design learning experiences, both within and outside the classroom, that focus on meeting children's learning needs. <br><br>To achieve these objectives, I consider the following elements crucial: <br>1. nurturing, safe and secure learning environments <br>2. encouraging students to actively construct knowledge <br>3. fostering thinking skills and dispositions <br>4. utilising assessment effectively to address learning gaps <br></em>
+<p><em>Intelligence plus character, that is the goal of true education. - Martin Luther King Jr</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
