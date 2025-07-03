@@ -31,7 +31,8 @@ variant: tiptap
 <br>Mr Timothy Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>My Beliefs About Teaching</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
