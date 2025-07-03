@@ -17,9 +17,10 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>My Beliefs About Teaching</strong>
+</p>
+</td>
 <th rowspan="1" colspan="1">
 <p></p>
 <p></p>
@@ -31,8 +32,7 @@ variant: tiptap
 <br>Mr Timothy Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>My Beliefs About Teaching</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
