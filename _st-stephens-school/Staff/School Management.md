@@ -525,8 +525,12 @@ variant: tiptap
 <br>Mr Charles Timothy D'Cruz (PE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Our Lasallian way is to Teach~Touch~Transform <br>Learning goes Beyond the Classroom… <br>Many of the most Memorable Lessons happen beyond the Academic Realm. <br>Teach them to Fish not Give them Fish. <br>Lived Learning Experiences that are Reflected upon are invaluable moments that shape and grow us. <br>As LKY said in 1965 “I am extremely anxious about the generation that is growing up literate but uneducated. They can read; they can write; they can pass examinations. But they are not really educated; they have not formed; they have not developed. They are not effective digits for the community.” <br>UBUNTU</em>
-</p>
+<p>Our Lasallian way is to Teach~Touch~Transform</p>
+<p>Learning goes Beyond the Classroom.</p>
+<p>Many of the most Memorable Lessons happen beyond the Academic Realm.</p>
+<p>Teach them to Fish not Give them Fish.</p>
+<p>Lived Learning Experiences that are Reflected upon are invaluable moments
+that shape and grow us.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
