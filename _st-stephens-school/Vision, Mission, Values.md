@@ -32,7 +32,7 @@ empowering them to become&nbsp;<br>
 **Community, Our Support**
 
 
-### Desried Stephenian Outcomes
+### Desired Stephenian Outcomes
 
 Here are our Stephenian Outcomes, the manifestation of our Lasallian School Vision &amp; Values:
 
@@ -55,4 +55,3 @@ An inquirer - a curious, critical and creative thinker.&nbsp;<br>
 A motivated learner with a growth mindset.&nbsp;<br>
 Self-directed and collaborative in learning.&nbsp;<br>
 Passionate about subjects and attains mastery of skills and knowledge.&nbsp;<br>
-
