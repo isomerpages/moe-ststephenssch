@@ -160,6 +160,8 @@ variant: tiptap
 <p>P1 Diligence</p>
 </td>
 <td rowspan="1" colspan="8">
+<p><em>I believe teaching is a mission to nurture each child's potential by creating an inclusive, supportive environment that inspires learning, builds character, and shapes lives.</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
@@ -249,6 +251,8 @@ variant: tiptap
 <p>P1 Empathy</p>
 </td>
 <td rowspan="1" colspan="8">
+<p><em>As teachers, we need to recognise the importance of establishing and maintaining a structured and orderly learning environment. Discipline, when implemented effectively, contributes to a positive and productive learning environment.</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
@@ -715,6 +719,8 @@ variant: tiptap
 <p>P2 Courage</p>
 </td>
 <td rowspan="1" colspan="8">
+<p><em>Every student has the ability to learn and teachers serve as mentors who can guide them so that they can contribute to society in their own unique ways in the future.</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
@@ -788,6 +794,8 @@ variant: tiptap
 <p>P2 Diligence</p>
 </td>
 <td rowspan="1" colspan="8">
+<p><em>To believe that every child will grow and thrive at their own pace.</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
@@ -1024,6 +1032,8 @@ variant: tiptap
 <p>P2 Gratitude</p>
 </td>
 <td rowspan="1" colspan="8">
+<p><em>Teaching is a sacred calling to me to nurture minds, hearts and souls of my students. Not only do I believe we impart knowledge , but we also impart values, empathy and a love for lifelong learning. May my teaching be a blessing to my students, helping them to grow into the best versions of themselves, and I be a worthy instrument of God's wisdom and love in their lives.</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
@@ -1112,6 +1122,8 @@ variant: tiptap
 <p>P2 Humility</p>
 </td>
 <td rowspan="1" colspan="8">
+<p><em>Every child can learn. It is our role as educators to provide the support and motivation for every student to discover his strength and to reach his full potential.</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
@@ -1340,6 +1352,8 @@ variant: tiptap
 <p>P3 Courage</p>
 </td>
 <td rowspan="1" colspan="8">
+<p><em>Whatever subjects we teach are just vessels to delivering the true purpose of instilling values that serve humanity.</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
@@ -1428,6 +1442,8 @@ variant: tiptap
 <p>P3 Diligence</p>
 </td>
 <td rowspan="1" colspan="8">
+<p><em>The essence of education, is to awaken the diversity of life.</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
@@ -1575,6 +1591,8 @@ variant: tiptap
 <p>P3 Fortitude</p>
 </td>
 <td rowspan="1" colspan="8">
+<p><em>Create many little successes to enable students to become lifelong learners</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
@@ -1804,6 +1822,8 @@ help students grow both academically and personally.</p>
 <p>P4 Courage</p>
 </td>
 <td rowspan="1" colspan="8">
+<p><em>Teaching will be more effective when students are attentive and more focused during lesson.</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
@@ -1818,6 +1838,8 @@ help students grow both academically and personally.</p>
 <p>P4 Courage</p>
 </td>
 <td rowspan="1" colspan="8">
+<p><em>Every child is unique. They each have their own strengths and talents. I aim to provide a safe and conducive environment that will allow them to thrive and achieve their fullest potential. </em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
@@ -1965,6 +1987,8 @@ help students grow both academically and personally.</p>
 <p>P4 Empathy</p>
 </td>
 <td rowspan="1" colspan="8">
+<p><em>Students should be respected and they should have their voices heard. I believe that all students are able to and will learn when sufficiently engaged in a positive classroom environment.</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
@@ -2126,6 +2150,8 @@ help students grow both academically and personally.</p>
 <p>P4 Gratitude</p>
 </td>
 <td rowspan="1" colspan="8">
+<p><em>Every student can learn, I will try my best to support them to achieve their fullest potential. </em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
@@ -2199,6 +2225,8 @@ help students grow both academically and personally.</p>
 <p>P4 Humility</p>
 </td>
 <td rowspan="1" colspan="8">
+<p><em>Education is the best investment that pays eternal dividends.</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
@@ -2272,6 +2300,8 @@ help students grow both academically and personally.</p>
 <p>P4 Integrity</p>
 </td>
 <td rowspan="1" colspan="8">
+<p><em>Every child has the ability to learn. However, every child has their own pace and also style of learning and I do acknowledge that. My desire is to help understand the children better to deliver my lessons more effectively. I would also work towards building trust and respect in classrooms to work more cohesively with the children.</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
@@ -2411,6 +2441,8 @@ help students grow both academically and personally.</p>
 <p>P5 Diligence</p>
 </td>
 <td rowspan="1" colspan="8">
+<p><em>I believe in empowering every child through accessible education to pave the way for a brighter future.</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
@@ -2706,6 +2738,8 @@ help students grow both academically and personally.</p>
 <p>P5 Humility</p>
 </td>
 <td rowspan="1" colspan="8">
+<p><em>Teaching is doing the hard and heart work of nurturing curious minds with genuine intentions.</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
@@ -3123,6 +3157,8 @@ help students grow both academically and personally.</p>
 <p>P6 Gratitude</p>
 </td>
 <td rowspan="1" colspan="8">
+<p><em>Teaching extends beyond the classroom- it is ongoing, shared journey shaped by experience and collaboration. </em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
