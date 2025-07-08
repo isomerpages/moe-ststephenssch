@@ -1838,7 +1838,7 @@ help students grow both academically and personally.</p>
 <p>P4 Courage</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>Every child is unique. They each have their own strengths and talents. I aim to provide a safe and conducive environment that will allow them to thrive and achieve their fullest potential. </em>
+<p><em>Every child is unique. They each have their own strengths and talents. I aim to provide a safe and conducive environment that will allow them to thrive and achieve their fullest potential.</em>
 </p>
 <p></p>
 </td>
@@ -2150,7 +2150,7 @@ help students grow both academically and personally.</p>
 <p>P4 Gratitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>Every student can learn, I will try my best to support them to achieve their fullest potential. </em>
+<p><em>Every student can learn, I will try my best to support them to achieve their fullest potential.</em>
 </p>
 <p></p>
 </td>
@@ -3157,7 +3157,7 @@ help students grow both academically and personally.</p>
 <p>P6 Gratitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>Teaching extends beyond the classroom- it is ongoing, shared journey shaped by experience and collaboration. </em>
+<p><em>Teaching extends beyond the classroom- it is ongoing, shared journey shaped by experience and collaboration.</em>
 </p>
 <p></p>
 </td>
