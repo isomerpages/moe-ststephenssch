@@ -403,7 +403,8 @@ variant: tiptap
 <p>P1 Gratitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p><em>It takes ten years to grow a tree; it takes a hundred years to educate and nurture a child.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>kiang_yeow_yong@moe.edu.sg</p>
