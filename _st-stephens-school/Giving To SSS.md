@@ -20,5 +20,5 @@ and development of future Stephenians!</p>
 Himself totally to you may receive you totally.”</p>
 <p>- Francis of Assisi</p>
 <p></p>
-<p><a href="/files/SSS_Donation_Form__25092024_.pdf" rel="noopener nofollow" target="_blank">SSS Donation Form</a>
+<p><strong><em><a href="https://go.gov.sg/givingtosss" rel="noopener nofollow" target="_blank">Giving to SSS</a></em></strong>
 </p>
