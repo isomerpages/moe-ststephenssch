@@ -20,5 +20,5 @@ and development of future Stephenians!</p>
 Himself totally to you may receive you totally.”</p>
 <p>- Francis of Assisi</p>
 <p></p>
-<h2><strong><a href="https://go.gov.sg/givingtosss" rel="noopener nofollow" target="_blank">Contribute To St Stephen's School</a></strong></h2>
+<h3><strong><a href="https://go.gov.sg/givingtosss" rel="noopener nofollow" target="_blank">I like to donate to St Stephen's School</a></strong></h3>
 <p></p>
