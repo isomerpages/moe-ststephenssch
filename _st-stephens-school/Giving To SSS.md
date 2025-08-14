@@ -21,6 +21,6 @@ Himself totally to you may receive you totally.”</p>
 <p>- Francis of Assisi</p>
 <h4><strong><em><a href="https://go.gov.sg/sssair-conhall" rel="noopener nofollow" target="_blank">Contribution for air-conditioning of school hall &amp; installation of HVLS fans in ISH</a></em></strong></h4>
 <p></p>
-<p><strong><a href="https://go.gov.sg/givingtosss" rel="noopener nofollow" target="_blank">I like to donate to St Stephen's School - Unsolicited donations.</a></strong>
+<p><strong><a href="https://go.gov.sg/givingtosss" rel="noopener nofollow" target="_blank">I want to donate to St Stephen's School - Unsolicited donations.</a></strong>
 </p>
 <p></p>
