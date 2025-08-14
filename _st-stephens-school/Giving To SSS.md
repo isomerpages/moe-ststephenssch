@@ -20,9 +20,9 @@ and development of future Stephenians!</p>
 Himself totally to you may receive you totally.”</p>
 <p>- St Francis of Assisi</p>
 <p></p>
-<p><strong>Thank for your generous pledges. As of 14 Aug,12 noon, we have already reached our target of $ 16,000 for the air-conditioning of the school hall &amp; installation of HVLS fans in the ISH. We will be following up with those that have made the pledges.</strong>
+<p><strong>Thank for your generous pledges!! As of 14 Aug, 3 p.m., we have reached our target of $ 16,000 for the air-conditioning of the school hall &amp; installation of HVLS fans in the ISH. We will be following up with those that have made the pledges. </strong>
 </p>
-<p><strong>We will close the pledge form but we welcome you to make contributions to our school to support other programmes via the link below :</strong>
+<p><strong>We will close the pledge form but we welcome you to make contributions to our school which will also go a long way to make a difference and  support our other programmes:</strong>
 </p>
 <h3><strong><a href="https://go.gov.sg/givingtosss" rel="noopener nofollow" target="_blank">I want to donate to St Stephen's School - Unsolicited donations.</a></strong></h3>
 <p></p>
