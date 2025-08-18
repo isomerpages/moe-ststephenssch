@@ -647,20 +647,6 @@ variant: tiptap
 <p>jayapal_hema@moe.edu.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Ms Ramasamy Mareeswari Sivaranjana</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P1 Joy</p>
-</td>
-<td rowspan="1" colspan="8">
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p>ramasamy_mareeswari_sivaranjana_a@moe.edu.sg</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Primary 2</h4>
@@ -1113,22 +1099,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Nancy_Leppard@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Ms Julia Loke Meu Yoke</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P2 Humility</p>
-</td>
-<td rowspan="1" colspan="8">
-<p><em>Every child can learn. It is our role as educators to provide the support and motivation for every student to discover his strength and to reach his full potential.</em>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p>loke_meu_yoke_julia_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1601,20 +1571,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Ms Yang Jieyu</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P3 Fortitude</p>
-</td>
-<td rowspan="1" colspan="8">
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p>yang_jieyu_b@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1907,21 +1863,6 @@ help students grow both academically and personally.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Mrs Marion Santa Maria&nbsp;</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P4 Diligence</p>
-</td>
-<td rowspan="1" colspan="8">
-<p><em>Pupils learn best in a conducive environment, for example when everyone is quiet and ready.</em>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Marion_Santa_Maria@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1994,20 +1935,6 @@ help students grow both academically and personally.</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>chua_li_qi_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Ms Sam Liting</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P4 Empathy</p>
-</td>
-<td rowspan="1" colspan="8">
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p>sam_liting@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
