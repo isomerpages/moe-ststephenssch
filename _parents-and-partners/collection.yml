@@ -2,6 +2,7 @@ collections:
   parents-and-partners:
     output: true
     order:
+      - Booklist 2026.md
       - School Services.md
       - SSOBA.md
       - SPARK.md
