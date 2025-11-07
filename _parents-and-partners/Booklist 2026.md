@@ -78,7 +78,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/P6__FDN__2026_new.pdf" rel="noopener nofollow" target="_blank">Primary 6 (Foundation)</a>
+</p>
 </td>
 </tr>
 </tbody>
