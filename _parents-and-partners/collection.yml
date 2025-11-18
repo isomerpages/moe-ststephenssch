@@ -2,8 +2,8 @@ collections:
   parents-and-partners:
     output: true
     order:
-      - Booklist 2026.md
       - School Services.md
+      - Booklist 2026.md
       - SSOBA.md
       - SPARK.md
       - HBL Technical Support.md
