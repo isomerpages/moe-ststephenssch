@@ -2,6 +2,7 @@
 title: Quick Links
 permalink: /quick-links/
 description: ""
+variant: markdown
 ---
 ### Quick Links
 
