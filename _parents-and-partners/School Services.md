@@ -1,6 +1,6 @@
 ---
 title: School Services
-permalink: /school-services/
+permalink: /parents-and-partners/school-services/
 variant: tiptap
 description: ""
 ---
