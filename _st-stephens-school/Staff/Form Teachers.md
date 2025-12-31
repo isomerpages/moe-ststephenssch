@@ -41,37 +41,33 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mdm Hafiza Sapiee</p>
-<p></p>
-<p></p>
+<p>Ms Wu Antai</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P1 Courage</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>Learning is best when it's enjoyable.</em>
+<p><em>Every student can learn, I will try my best to support them to achieve their fullest potential.</em>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>hafiza_sapiee@moe.edu.sg</p>
+<p>we_antai@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Agnes Pang Yu Han</p>
+<p>Miss Salma Binte Taib Ali</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P1 Courage</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>I believe that true happiness comes from learning and discovering new things. Thus, I am committed to guiding and supporting my students onto that wonderful and glorious path.</em>
-</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>agnes_pang_yu_han@moe.edu.sg</p>
+<p>salma_taib_ali@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -115,6 +111,102 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mr Jeffrey Stephen Espehana</p>
+<p></p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P1 Diligence</p>
+</td>
+<td rowspan="1" colspan="8">
+<p><em>Love is at the root of everything. All learning. All parenting. All relationships. Love, or the lack of it. ~ Fred Rogers</em>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p>jeffrey_stephen_espehana@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Ms Norzahidah</p>
+<p></p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P1 Diligence</p>
+</td>
+<td rowspan="1" colspan="8">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mrs Agatha Dyason&nbsp;</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P1 Empathy</p>
+</td>
+<td rowspan="1" colspan="8">
+<p>Every child is good and can learn. To educate with faith and integrity.</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p>agatha_dyason@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>
@@ -123,140 +215,16 @@ variant: tiptap
 <p>Mrs Fiona Wong</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>P1 Diligence</p>
-</td>
-<td rowspan="1" colspan="8">
-<p><em>A hallmark of a great teacher is where the children work and learn as if the teacher did not exist. Children today will make the discoveries of tomorrow... without us. They must be able to go that extra step beyond what we teach them.</em>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p>shi_kaili_fiona@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Ms Norshahidah Bte Aziz</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P1 Diligence</p>
-</td>
-<td rowspan="1" colspan="8">
-<p><em>Each student can work hard and achieve big goals.</em>
-</p>
-<p><em>It’s OK to make mistakes. Let’s learn from them!</em>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p>norshahidah_aziz@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Ms Koo Hue Ling</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P1 Diligence</p>
-</td>
-<td rowspan="1" colspan="8">
-<p><em>I believe teaching is a mission to nurture each child's potential by creating an inclusive, supportive environment that inspires learning, builds character, and shapes lives.</em>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p>koo_hue_ling@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Ms Teresa Luo Xinyi</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P1 Diligence</p>
-</td>
-<td rowspan="1" colspan="8">
-<p><em>To mould characters, form minds, teach virtue and raise saints.</em>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p>luo_xinyi_teresa@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Mrs Veronica Goh</p>
-</td>
-<td rowspan="1" colspan="2">
 <p>P1 Empathy</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>Teaching for me, is about inspiring curiosity, fostering critical thinking, and creating a supportive environment where students feel empowered to explore and grow. I believe in the transformative power of education and strive to make learning engaging, inclusive, and meaningful for every student.</em>
-</p>
+<p>A hallmark of a great teacher is where the children work and learn as
+if the teacher did not exist. Children today will make the discoveries
+of tomorrow... without us. They must be able to go that extra step beyond
+what we teach them.</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>cheong_lee_ling@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Mr Mohamad Zakie Bin Mohd Aiksan</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P1 Empathy</p>
-</td>
-<td rowspan="1" colspan="8">
-<p><em>As teachers, we need to recognise the importance of establishing and maintaining a structured and orderly learning environment. Discipline, when implemented effectively, contributes to a positive and productive learning environment.</em>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p>mohamad_zakie_mohd_aiksan@moe.edu.sg</p>
+<p>Shi_Kaili_Fiona@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -305,34 +273,33 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Siti Nurhidayah Binte Abdul Aziz</p>
+<p>Mdm Kareena Mohd Ally</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P1 Fortitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>To nurture the future generation with an open heart and mind.</em>
-</p>
-<p></p>
-<p></p>
+<p>I aim to instill a passion for learning in every student, encouraging
+active participation and responsibility while nurturing character and a
+growth mindset to help them thrive academically and grow into compassionate,
+resilient individuals.</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>siti_nurhidayah_abdul_aziz@moe.edu.sg</p>
+<p>kareena_mohamed_ally@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mrs Juslyn Lim</p>
+<p>Mdm Chan Joo Eng</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P1 Fortitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>To motivate each &amp; every child to be proactive</em>
-</p>
+<p>I believe a teacher is the most powerful of role models.</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>foo_mei_yih@moe.edu.sg</p>
+<p>chan_joo_eng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -381,33 +348,37 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mrs Charmaine Yoo</p>
+<p>Mdm Yuan Yingna</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P1 Gratitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>A teachable student is one who is motivated to learn on his/her own. The not-so-teachable ones are the ones who need to be taught more.</em>
-</p>
+<p>Every child has an innate desire and potential to learn. As teachers,
+it is our privilege and responsibility to recognize their unique strengths
+and challenges, nurture their curiosity, and meet their diverse learning
+needs with compassion. By fostering a safe and caring environment, where
+every child feels valued and supported, we can inspire confidence, ignite
+a love for learning, and empower each student to realize their fullest
+potential.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>loh_hui_yan_charmaine@moe.edu.sg</p>
+<p>yuan_yingna@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mr Kiang Yeow Yong</p>
+<p>Mrs Victhorria Paul Vincent</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P1 Gratitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>It takes ten years to grow a tree; it takes a hundred years to educate and nurture a child.</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>kiang_yeow_yong@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -456,47 +427,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms June Chong Chia Fong</p>
+<p>Mr Stephen Tan Aik Kao</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P1 Humility</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>Consistency is key! Developing a love for reading and being a life-long learner aids in success!</em>
-</p>
+<p>Inspire and grow the potential of every child.</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>chong_chia_fong@moe.edu.sg</p>
+<p>tan_aik_kao_stephen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mdm Lim Ee Chen</p>
+<p>Ms Lee Loo Yen</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P1 Humility</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>Effective teaching involves consistent reflection on your strategies and conduct.</em>
-</p>
+<p>Passing the baton to the next generation.</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>lim_ee_chen@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Mdm Tan Jiak Lan (Mrs Heng)</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P1 Humility</p>
-</td>
-<td rowspan="1" colspan="8">
-<p><em>To pass on the knowledge, values n to inculcate lifelong learning to the younger generation.</em>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>tan_jiak_lan@moe.edu.sg</p>
+<p>Lee_Loo_Yen_A@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -545,32 +500,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Eileen Leong&nbsp;</p>
+<p>Ms Rynda Tay Lei Yi</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P1 Integrity</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>In my class, I would like to see my pupils embrace teamwork and empathy as much as good test results.</em>
-</p>
+<p>To inculcate good values and instill a love for learning.</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>leong_ee_lin_eileen@moe.edu.sg</p>
+<p>tay_lei_yi@moe.edu.sg</p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Amrita Sawlani</p>
+<p>Mdm Honey Hui&nbsp;</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P1 Integrity</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>A journey of a thousand miles begins with a single step.</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>amrita_sawlani@moe.edu.sg</p>
+<p>hui_honey_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -619,32 +574,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mdm Safarina Bte Satar</p>
+<p>Mr Tan Yi Ru</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P1 Joy</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>All students can learn and want to learn.</em>
-</p>
+<p>Everyone can learn.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>safarina_satar@moe.edu.sg</p>
+<p>tan_yi_ru@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mdm Jayapal Hema&nbsp;</p>
+<p>Ms Siti Nureisyah Binte Noor Azman</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P1 Joy</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>Every child is unique and with proper guidance and support everyone can learn.</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>jayapal_hema@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -685,33 +639,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Haslindah Binte Ab Rahman</p>
+<p>Ms Agnes Pang Yu Han</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P2 Courage</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>A good teacher imparts knowledge, while a great teacher ignites inspiration.</em>
-</p>
+<p>I believe that true happiness comes from learning and discovering new
+things. Thus, I am committed to guiding and supporting my students onto
+that wonderful and glorious path.</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>haslindah_ab_rahman@moe.edu.sg</p>
+<p>Agnes_Pang_Yu_Han@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Gladys Ang Jiayi</p>
+<p>Miss Treasa Walter</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P2 Courage</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>Every student has the ability to learn and teachers serve as mentors who can guide them so that they can contribute to society in their own unique ways in the future.</em>
-</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>ang_ jiayi_gladys@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -850,32 +805,33 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mdm Kareena Mohd Ally</p>
+<p>Mrs Veronica Goh</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P2 Empathy</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>I aim to instill a passion for learning in every student, encouraging active participation and responsibility while nurturing character and a growth mindset to help them thrive academically and grow into compassionate, resilient individuals.</em>
+<p><em>Teaching for me, is about inspiring curiosity, fostering critical thinking, and creating a supportive environment where students feel empowered to explore and grow. I believe in the transformative power of education and strive to make learning engaging, inclusive, and meaningful for every student.</em>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>kareena_mohamed_ally@moe.edu.sg</p>
+<p>cheong_lee_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mdm Mavis Goh Hui Ling</p>
+<p>Mr Mohamad Zakie Bin Mohd Aiksan</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P2 Empathy</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>Every child can learn and help him find success in learning.</em>
+<p><em>As teachers, we need to recognise the importance of establishing and maintaining a structured and orderly learning environment. Discipline, when implemented effectively, contributes to a positive and productive learning environment.</em>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>goh_hui_ling_mavis@moe.edu.sg</p>
+<p>mohamad_zakie_mohd_aiksan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
