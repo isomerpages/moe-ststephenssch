@@ -219,14 +219,18 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Subject Head/ Level Head</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
@@ -250,6 +254,9 @@ variant: tiptap
 <p>
 <br>tan_nicole_anne@moe.edu.sg</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -262,6 +269,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>
 <br>herdawati_suleiman@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -277,6 +287,9 @@ variant: tiptap
 <p>
 <br>yang_yiqun@moe.edu.sg</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -290,6 +303,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>
 <br>murni_masuath@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -305,6 +321,9 @@ variant: tiptap
 <p></p>
 <p>thia_lee_lian@moe.edu.sg</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -319,19 +338,24 @@ variant: tiptap
 <p></p>
 <p>pee_may_may@moe.edu.sg</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head / Student Leadership</strong>
-<br>Mr Elias Chiang Yong Jian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>It’s not only about what is being done/taught, it’s about how it’s being done/taught.</em>
+<p><strong>P4</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p>chiang_yong_jian_elias@moe.edu.sg</p>
+<p>Mdm Belle Taw Ai Hiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Every child can learn.</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>taw_ai_hiang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -348,6 +372,9 @@ variant: tiptap
 <p></p>
 <p>hon_wymun_danielle@moe.edu.sg</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -361,6 +388,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <p>tan_aik_kao_stephen@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -394,6 +424,22 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Belle Taw Ai Hiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Every child can learn.</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>taw_ai_hiang@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Norshahidah Bte Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -406,7 +452,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P2</strong>
+<p><strong>P3</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -422,7 +468,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P3</strong>
+<p><strong>P4</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -438,39 +484,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Belle Taw Ai Hiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Every child can learn.</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>taw_ai_hiang@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>P5</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Yasotha D/O Loganadan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Every child has unique talents, interests, and challenges that should be recognized and nurtured. <br>A child with positive attitude will never stop learning. <br></em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yasotha_loganadan@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>P6</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -482,6 +496,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_elizabeth_norlawati@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yasotha D/O Loganadan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Every child has unique talents, interests, and challenges that should be recognized and nurtured. <br>A child with positive attitude will never stop learning. <br></em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yasotha_loganadan@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
