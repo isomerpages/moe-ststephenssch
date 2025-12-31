@@ -202,7 +202,8 @@ variant: tiptap
 <p>P1 Empathy</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Every child is good and can learn. To educate with faith and integrity.</p>
+<p><em>Every child is good and can learn. To educate with faith and integrity.</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
@@ -218,10 +219,8 @@ variant: tiptap
 <p>P1 Empathy</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>A hallmark of a great teacher is where the children work and learn as
-if the teacher did not exist. Children today will make the discoveries
-of tomorrow... without us. They must be able to go that extra step beyond
-what we teach them.</p>
+<p><em>A hallmark of a great teacher is where the children work and learn as if the teacher did not exist. Children today will make the discoveries of tomorrow... without us. They must be able to go that extra step beyond what we teach them.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Shi_Kaili_Fiona@moe.edu.sg</p>
@@ -279,10 +278,8 @@ what we teach them.</p>
 <p>P1 Fortitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>I aim to instill a passion for learning in every student, encouraging
-active participation and responsibility while nurturing character and a
-growth mindset to help them thrive academically and grow into compassionate,
-resilient individuals.</p>
+<p><em>I aim to instill a passion for learning in every student, encouraging active participation and responsibility while nurturing character and a growth mindset to help them thrive academically and grow into compassionate, resilient individuals.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>kareena_mohamed_ally@moe.edu.sg</p>
@@ -296,7 +293,8 @@ resilient individuals.</p>
 <p>P1 Fortitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>I believe a teacher is the most powerful of role models.</p>
+<p><em>I believe a teacher is the most powerful of role models.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>chan_joo_eng@moe.edu.sg</p>
@@ -354,13 +352,8 @@ resilient individuals.</p>
 <p>P1 Gratitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Every child has an innate desire and potential to learn. As teachers,
-it is our privilege and responsibility to recognize their unique strengths
-and challenges, nurture their curiosity, and meet their diverse learning
-needs with compassion. By fostering a safe and caring environment, where
-every child feels valued and supported, we can inspire confidence, ignite
-a love for learning, and empower each student to realize their fullest
-potential.</p>
+<p><em>Every child has an innate desire and potential to learn. As teachers, it is our privilege and responsibility to recognize their unique strengths and challenges, nurture their curiosity, and meet their diverse learning needs with compassion. By fostering a safe and caring environment, where every child feels valued and supported, we can inspire confidence, ignite a love for learning, and empower each student to realize their fullest potential.</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
@@ -433,7 +426,8 @@ potential.</p>
 <p>P1 Humility</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Inspire and grow the potential of every child.</p>
+<p><em>Inspire and grow the potential of every child.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>tan_aik_kao_stephen@moe.edu.sg</p>
@@ -448,7 +442,8 @@ potential.</p>
 <p>P1 Humility</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Passing the baton to the next generation.</p>
+<p><em>Passing the baton to the next generation.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Lee_Loo_Yen_A@moe.edu.sg</p>
@@ -506,7 +501,8 @@ potential.</p>
 <p>P1 Integrity</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>To inculcate good values and instill a love for learning.</p>
+<p><em>To inculcate good values and instill a love for learning.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>tay_lei_yi@moe.edu.sg</p>
@@ -580,7 +576,8 @@ potential.</p>
 <p>P1 Joy</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Everyone can learn.</p>
+<p><em>Everyone can learn.</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
@@ -647,9 +644,8 @@ potential.</p>
 <p>P2 Courage</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>I believe that true happiness comes from learning and discovering new
-things. Thus, I am committed to guiding and supporting my students onto
-that wonderful and glorious path.</p>
+<p><em>I believe that true happiness comes from learning and discovering new things. Thus, I am committed to guiding and supporting my students onto that wonderful and glorious path.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Agnes_Pang_Yu_Han@moe.edu.sg</p>
@@ -721,7 +717,8 @@ that wonderful and glorious path.</p>
 <p>P2 Diligence</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Every Child Matters. Every Potential, Extraordinary.</p>
+<p><em>Every Child Matters. Every Potential, Extraordinary.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>pee_may_may@moe.edu.sg</p>
@@ -735,7 +732,8 @@ that wonderful and glorious path.</p>
 <p>P2 Diligence</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Each student can work hard and achieve big goals.</p>
+<p><em>Each student can work hard and achieve big goals.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>norshahidah_aziz@moe.edu.sg</p>
@@ -942,8 +940,8 @@ that wonderful and glorious path.</p>
 <p>P2 Gratitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>A teachable student is one who is motivated to learn on his/her own. The
-not-so-teachable ones are the ones who need to be taught more.</p>
+<p><em>A teachable student is one who is motivated to learn on his/her own. The not-so-teachable ones are the ones who need to be taught more.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>loh_hui_yan_charmaine@moe.edu.sg</p>
@@ -957,8 +955,8 @@ not-so-teachable ones are the ones who need to be taught more.</p>
 <p>P2 Gratitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>I believed that learner-oriented teaching promotes learning that is both
-purposeful and enduring.</p>
+<p><em>I believed that learner-oriented teaching promotes learning that is both purposeful and enduring.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Yusyinda_Mohammed_Yusof_A@moe.edu.sg</p>
@@ -1016,8 +1014,8 @@ purposeful and enduring.</p>
 <p>P2 Humility</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Consistency is key! Developing a love for reading and being a life-long
-learner aids in success!</p>
+<p><em>Consistency is key! Developing a love for reading and being a life-long learner aids in success!</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>chong_chia_fong@moe.edu.sg</p>
@@ -1031,8 +1029,8 @@ learner aids in success!</p>
 <p>P2 Humility</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Effective teaching involves consistent reflection on your strategies and
-conduct.</p>
+<p><em>Effective teaching involves consistent reflection on your strategies and conduct.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>lim_ee_chen@moe.edu.sg</p>
@@ -1104,8 +1102,8 @@ conduct.</p>
 <p>P2 Integrity</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>In my class, I would like to see my pupils embrace teamwork and empathy
-as much as good test results.</p>
+<p><em>In my class, I would like to see my pupils embrace teamwork and empathy as much as good test results.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>leong_ee_lin_eileen@moe.edu.sg</p>
@@ -1119,7 +1117,8 @@ as much as good test results.</p>
 <p>P2 Integrity</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>A journey of a thousand miles begins with a single step.</p>
+<p><em>A journey of a thousand miles begins with a single step.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Amrita_Sawlani@moe.edu.sg</p>
@@ -1179,7 +1178,8 @@ as much as good test results.</p>
 <p>P2 Joy</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>All students can learn and want to learn.</p>
+<p><em>All students can learn and want to learn.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>safarina_satar@moe.edu.sg</p>
@@ -1193,8 +1193,8 @@ as much as good test results.</p>
 <p>P2 Joy</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Every child is unique and with proper guidance and support everyone can
-learn.</p>
+<p><em>Every child is unique and with proper guidance and support everyone can learn.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>jayapal_hema@moe.edu.sg</p>
@@ -1246,7 +1246,8 @@ learn.</p>
 <p>P3 Courage</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Believing in the best in everyone and helping them achieve their potential.</p>
+<p><em>Believing in the best in everyone and helping them achieve their potential.</em>
+</p>
 <p></p>
 <p></p>
 </td>
@@ -1263,8 +1264,8 @@ learn.</p>
 </td>
 <td rowspan="1" colspan="8">
 <p></p>
-<p>I believe in empowering every child through accessible education to pave
-the way for a brighter future.</p>
+<p><em>I believe in empowering every child through accessible education to pave the way for a brighter future.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Boss_Rejini@moe.edu.sg</p>
@@ -1323,9 +1324,8 @@ the way for a brighter future.</p>
 <p>P3 Diligence</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Students should be respected and they should have their voices heard.
-I believe that all students are able to and will learn when sufficiently
-engaged in a positive classroom environment.</p>
+<p><em>Students should be respected and they should have their voices heard. I believe that all students are able to and will learn when sufficiently engaged in a positive classroom environment.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Chua_Li_Qi_A@moe.edu.sg</p>
@@ -1340,7 +1340,8 @@ engaged in a positive classroom environment.</p>
 </td>
 <td rowspan="1" colspan="8">
 <p></p>
-<p>I am teaching the whole child.</p>
+<p><em>I am teaching the whole child.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Nancy_Leppard_A@moe.edu.sg</p>
@@ -1354,8 +1355,8 @@ engaged in a positive classroom environment.</p>
 <p>P3 Diligence</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Every student has the ability to learn despite his background. Believe
-in every child.</p>
+<p><em>Every student has the ability to learn despite his background. Believe in every child.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>nurul_amelia_akhtiar@moe.edu.sg</p>
@@ -1486,10 +1487,8 @@ in every child.</p>
 <p>P3 Fortitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>I firmly believe that every child possesses unique talents and abilities
-waiting to be nurtured. With patient guidance, supportive encouragement,
-and a nurturing environment, I am convinced every child can unlock their
-full potential and achieve greatness.</p>
+<p><em>I firmly believe that every child possesses unique talents and abilities waiting to be nurtured. With patient guidance, supportive encouragement, and a nurturing environment, I am convinced every child can unlock their full potential and achieve greatness.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>jaysree_krishnasamy@moe.edu.sg</p>
@@ -1503,8 +1502,8 @@ full potential and achieve greatness.</p>
 <p>P3 Fortitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Teaching will be more effective when students are attentive and more focused
-during lesson.</p>
+<p><em>Teaching will be more effective when students are attentive and more focused during lesson.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>hanifa_a@moe.edu.sg</p>
@@ -1564,7 +1563,8 @@ during lesson.</p>
 <p>P3 Gratitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Every child can learn.</p>
+<p><em>Every child can learn.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>audrey_yap_b@moe.edu.sg</p>
@@ -1639,8 +1639,8 @@ during lesson.</p>
 <p>P3 Humility</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Teaching should first touch the heart, shape the character, and educate
-the mind.</p>
+<p><em>Teaching should first touch the heart, shape the character, and educate the mind.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>chrispian_tirtamaya@moe.edu.sg</p>
@@ -2171,8 +2171,8 @@ with peers.</p>
 <p>P5 Courage</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Equipping them the skills to learn. Showing them the joy of learning.
-Guiding them to use what they have learnt.</p>
+<p><em>Equipping them the skills to learn. Showing them the joy of learning. Guiding them to use what they have learnt.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>yeo_quan_kai@moe.edu.sg</p>
@@ -2187,7 +2187,8 @@ Guiding them to use what they have learnt.</p>
 <p>P5 Courage</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Teaching Beyond The Curriculum</p>
+<p><em>Teaching Beyond The Curriculum</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>azizah_abdul_razak@moe.edu.sg</p>
@@ -2246,10 +2247,8 @@ Guiding them to use what they have learnt.</p>
 <p>P5 Diligence</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>I believe in nurturing students to become well-rounded individuals by
-instilling strong values, fostering resilience, and encouraging a love
-for learning. Teaching is about shaping character and building a supportive
-community where every student thrives.</p>
+<p><em>I believe in nurturing students to become well-rounded individuals by instilling strong values, fostering resilience, and encouraging a love for learning. Teaching is about shaping character and building a supportive community where every student thrives.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Taufiq_Izzudin_Jamaludin@moe.edu.sg</p>
@@ -2265,7 +2264,8 @@ community where every student thrives.</p>
 <p>P5 Diligence</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Be kind and be teachable.</p>
+<p><em>Be kind and be teachable.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>lee_elizabeth_norlawati@moe.edu.sg</p>
@@ -2323,11 +2323,8 @@ community where every student thrives.</p>
 <p>P5 Empathy</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>A good education empowers individuals and transforms lives positively.
-It also gives individuals the confidence to question &amp; walk away from
-situations they may be trapped in.&nbsp; As teachers, we should encourage
-and inspire our students to be lifelong learners &amp; critical thinkers
-so that they can be change agents in the future!</p>
+<p><em>A good education empowers individuals and transforms lives positively. It also gives individuals the confidence to question &amp; walk away from situations they may be trapped in.&nbsp; As teachers, we should encourage and inspire our students to be lifelong learners &amp; critical thinkers so that they can be change agents in the future!</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>teo_april@moe.edu.sg</p>
@@ -2341,7 +2338,8 @@ so that they can be change agents in the future!</p>
 <p>P5 Empathy</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Our Lasallian way is to Teach~Touch~Transform</p>
+<p><em>Our Lasallian way is to Teach~Touch~Transform</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>charles_timothy_d_cruz@moe.edu.sg</p>
@@ -2399,12 +2397,10 @@ so that they can be change agents in the future!</p>
 <p>P5 Fortitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Every child can learn and help him find success in learning.</p>
+<p><em>Every child can learn and help him find success in learning.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
-<p><a href="mailto:goh_hui_ling_mavis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_hui_ling_mavis@moe.edu.sg</a>
-</p>
 <p>goh_hui_ling_mavis@moe.edu.sg</p>
 <p></p>
 </td>
@@ -2417,12 +2413,8 @@ so that they can be change agents in the future!</p>
 <p>P5 Fortitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Teaching is a sacred calling to me to nurture minds, hearts and souls
-of my students. Not only do I believe we impart knowledge , but we also
-impart values, empathy and a love for lifelong learning. May my teaching
-be a blessing to my students, helping them to grow into the best versions
-of themselves, and I be a worthy instrument of God's wisdom and love in
-their lives.</p>
+<p><em>Teaching is a sacred calling to me to nurture minds, hearts and souls of my students. Not only do I believe we impart knowledge , but we also impart values, empathy and a love for lifelong learning. May my teaching be a blessing to my students, helping them to grow into the best versions of themselves, and I be a worthy instrument of God's wisdom and love in their lives.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p></p>
@@ -2484,7 +2476,8 @@ their lives.</p>
 <p>P5 Gratitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Discipline and character is the foundation of effective learning.</p>
+<p><em>Discipline and character is the foundation of effective learning.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>wong_siew_kheong@moe.edu.sg</p>
@@ -2558,8 +2551,8 @@ their lives.</p>
 <p>P5 Humility</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Every student has the potential to succeed—learning is a journey we take
-together.</p>
+<p><em>Every student has the potential to succeed—learning is a journey we take together.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>tan_lay_koon_christine@moe.edu.sg</p>
@@ -2633,7 +2626,8 @@ together.</p>
 <p>P5 Integrity</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>To teach is to uplift.</p>
+<p><em>To teach is to uplift.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>rozita_mohamad_said@moe.edu.sg</p>
@@ -2648,11 +2642,8 @@ together.</p>
 <p>P5 Integrity</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Every child has the ability to learn. However, every child has their own
-pace and also style of learning and I do acknowledge that. My desire is
-to help understand the children better to deliver my lessons more effectively.
-I would also work towards building trust and respect in classrooms to work
-more cohesively with the children.</p>
+<p><em>Every child has the ability to learn. However, every child has their own pace and also style of learning and I do acknowledge that. My desire is to help understand the children better to deliver my lessons more effectively. I would also work towards building trust and respect in classrooms to work more cohesively with the children.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>lai_ching_hui_valerie@moe.edu.sg</p>
@@ -2710,7 +2701,8 @@ more cohesively with the children.</p>
 <p>P5 Joy</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Teaching involves values inculcation as well as imparting knowledge</p>
+<p><em>Teaching involves values inculcation as well as imparting knowledge</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>tan_nicole_anne@moe.edu.sg</p>
@@ -2774,8 +2766,8 @@ more cohesively with the children.</p>
 <p>P6 Courage</p>
 </td>
 <td rowspan="1" colspan="8">
-<p>Teaching extends beyond the classroom- it is ongoing, shared journey shaped
-by experience and collaboration.</p>
+<p><em>Teaching extends beyond the classroom- it is ongoing, shared journey shaped by experience and collaboration.</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
@@ -3138,6 +3130,36 @@ by experience and collaboration.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p>Mr Darren Micheal Sandosham</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P6 Humility</p>
+</td>
+<td rowspan="1" colspan="8">
+<p><em>Every child can learn. Each at his own pace.</em>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>sandosham_darren_michael@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mr Jude Yam Choon Hian</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P6 Humility</p>
+</td>
+<td rowspan="1" colspan="8">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Mr Elias Chiang Yong Jian</p>
 </td>
 <td rowspan="1" colspan="2">
@@ -3149,22 +3171,6 @@ by experience and collaboration.</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>chiang_yong_jian_elias@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Ms Sharifah Nur Raudah Binte Mohamad Yusoff</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P6 Humility</p>
-</td>
-<td rowspan="1" colspan="8">
-<p><em>Teaching is doing the hard and heart work of nurturing curious minds with genuine intentions.</em>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p>sharifah_nur_raudah_mohamad@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
