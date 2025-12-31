@@ -30,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Muniandy Gowrie juliana</p>
+<p>Ms M. Gowrie Juliana</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>muniandy_gowrie_juliana@moe.edu.sg</p>
@@ -75,14 +75,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>nurzafirah_mohamad_zainal@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Faiqah Binte Irwan Shah Abdullah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>faiqah_irwan_shah_abdullah@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
