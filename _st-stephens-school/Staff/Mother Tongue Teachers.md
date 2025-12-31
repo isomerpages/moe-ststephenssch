@@ -47,26 +47,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms He Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>he_wei_b@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ho Lui Soon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ho_lui_soon@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Koo Hue Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>koo_hue_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -107,14 +91,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>teo_siok_hoon_candy@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Thia Lee Lian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>thia_lee_lian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -182,14 +158,6 @@ variant: tiptap
 <p>hanifa_a@moe.edu.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Nurhidayah Abdul Aziz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siti_nurhidayah_abdul_aziz@moe.edu.sg</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Tamil Language</h4>
@@ -205,22 +173,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>jayapal_hema@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Rajeswari Mogan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>rajeswari_mogan@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Nagalingam Selvanayagam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nagalingam_selvanayagam_b@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
