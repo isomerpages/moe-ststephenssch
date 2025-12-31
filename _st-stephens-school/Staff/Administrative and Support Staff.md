@@ -94,8 +94,7 @@ variant: tiptap
 <br>nirosshini_tamothiran@schools.gov.sg
 <br>nurul_hidayah_mohd_yatim@schools.gov.sg
 <br>lau_swee_kiet@schools.gov.sg
-<br>
-</p>
+<br>elizabeth_abraham@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
