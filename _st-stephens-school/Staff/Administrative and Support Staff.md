@@ -79,10 +79,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Admin Staff</strong>
-<br>Ms Elizabeth Abraham
-<br>Ms Nurul Hidayah Bte Mohamed Yatım
-<br>Ms Nirosshini D/O Tamothiran
-<br>Mdm Juminah Binte Bakri</p>
+<br>Ms Nirosshini D/O Tamothiran</p>
+<p>Ms Nurul Hidayah Bte Mohamed Yatım</p>
+<p>Mdm Joanne Lau</p>
+<p>Ms Elizabeth Abraham</p>
+<p></p>
 <p>
 <br>
 <br>
@@ -90,12 +91,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>elizabeth_abraham@schools.gov.sg
-<br>nurul_hidayah_mohd_yatim@schools.gov.sg
 <br>nirosshini_tamothiran@schools.gov.sg
-<br>juminah_bakri@schools.gov.sg
-<br>
-</p>
+<br>nurul_hidayah_mohd_yatim@schools.gov.sg
+<br>lau_swee_kiet@schools.gov.sg
+<br>elizabeth_abraham@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
