@@ -2,6 +2,7 @@
 title: English
 permalink: /academic-programmes/english/
 description: ""
+variant: markdown
 ---
 ### English
 
@@ -43,11 +44,9 @@ STELLAR also complements the school-based curriculum to provide drilling and rig
 *   Choral Speaking
 *   Reader’s Theatre
 *   Storytelling
-*   E-book writing enrichment
-*   myON reading platform
 *   Literacy support programmes (LSP, SDR, RRP)
 *   Learning Journeys
 *   Reading Rewards Programme
 *   English Literary Week
-*   Book Buffet
-*   Reading Carnival
+*   Book Swap
+*   Writer's Fest
