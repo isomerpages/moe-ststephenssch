@@ -92,7 +92,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="2">
 <p>Ms Norzahidah</p>
-<p></p>
+<p>Juhari</p>
 <p></p>
 <p></p>
 </td>
@@ -195,7 +195,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>victhorria_paul_vincent@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -287,7 +287,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>siti_nureisyah_noor_azman@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -519,7 +519,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>sim_wei_harn_jasmin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -727,7 +727,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>moorthy_vembarasi_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -779,7 +779,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mrs Santa Maria Marion</p>
+<p>Mdm Siti Sarah Binte Supri&nbsp;</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P3 Gratitude</p>
@@ -788,7 +788,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>santa_maria_marion@moe.edu.sg</p>
+<p>siti_sarah_supri@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -825,250 +825,6 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Primary 4</h4>
-<table style="minWidth: 350px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="2">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="8">
-<p><strong>My Beliefs About Teaching</strong>
-</p>
-</th>
-<th rowspan="1" colspan="2">
-<p>Email</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Mrs Nicole Venturi</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P4 Courage</p>
-</td>
-<td rowspan="1" colspan="8">
-<p><em>To teach is to guide, not just to explain, <br>But to show how learning can never be plain. <br>Each lesson a step, a chance to ignite, <br>A spark of responsibility, steady and bright. <br><br>I believe in their voices, their choices, their drive, <br>In a classroom where wonder keeps dreams alive. <br>Where they don’t just listen, but step up to lead, <br>Taking charge of their world, fulfilling its need. <br><br>Through reSSSycle’s bins and plant towers of green, <br>They learn that the smallest act can be seen. <br>From clothes they recycle to dengue they fight, <br>Their hands shape a future, their hearts hold the light. <br><br>It’s not about facts but the life that they weave, <br>In a community bound by what we believe. <br>To serve, to reflect, to give and to grow, <br>This is the lesson I want them to know. <br><br>For teaching is purpose, not just a plan, <br>But building a world through each child’s hand. <br>Their courage, their care, their endless pursuit, <br>Are the roots of the values I hope to impute.</em>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>nicole_tham@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Mdm Norhazli Bte Ramli</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P4 Courage</p>
-</td>
-<td rowspan="1" colspan="8">
-<p><em>Teaching the young, we as teachers we nuture the young just like taking care of a plant, we need to water them everyday, give the plants enough water, sunlight and nutrients so that they can grow well, healthy and strong. Equip them with the necessary skills for survival.</em>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>norhazli_ramli@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Ms Nuraini Abdul Samat</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P4 Courage</p>
-</td>
-<td rowspan="1" colspan="8">
-<p><em>Teaching is heartwork. It should not only be seen, but deeply felt.</em>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>nuraini_abdul_samat@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Ms Shanelle Raveena Ramiah</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P4 Diligence</p>
-</td>
-<td rowspan="1" colspan="8">
-<p><em>Teaching is like gardening—each student is beautiful and unique, with their own backgrounds and needs. They require personalised care and support to help them grow, flourish, and reach their full potential.</em>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Shanelle_Raveena_Ramiah@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Mr Jovin Lim Wei Hung</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P4 Diligence</p>
-</td>
-<td rowspan="1" colspan="8">
-<p><em>The essence of education, is to awaken the diversity of life.</em>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p>lim_wei_hung@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Ms Wong See Ting</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P4 Empathy</p>
-</td>
-<td rowspan="1" colspan="8">
-<p>Every child wants to learn and is able to learn. I want to motivate and
-empower students do their best in their endeavours. I work towards helping
-students develop skills to learn independently and to work collaboratively
-with peers.</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Wong_SEE_TING@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Ms Elaine Khoo May Ying&nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P4 Empathy</p>
-</td>
-<td rowspan="1" colspan="8">
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Mdm Siti Sarah Binte Supri&nbsp;</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P4 Empathy</p>
-</td>
-<td rowspan="1" colspan="8">
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Mrs Geraldine Pereira</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P4 Fortitude</p>
-</td>
-<td rowspan="1" colspan="8">
-<p><em>Teachers have a moral responsibility to ensure equity, inclusivity, and access to quality education, the greatest enabler in a child’s life. Education empowers holistic growth—academic, social, and emotional—shaping resilient, thoughtful, and contributing citizens.</em>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>geraldine_rita_pereira@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Miss Yeo Shu Wen</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P4 Fortitude</p>
-</td>
-<td rowspan="1" colspan="8">
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Yeo_Shu_Wen@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Ms Leraine Leow</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P4 Gratitude</p>
-</td>
-<td rowspan="1" colspan="8">
-<p><em>It takes a village to bring up a child.</em>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>leraine_leow@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Mdm Cheng Yu</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P4 Gratitude</p>
-</td>
-<td rowspan="1" colspan="8">
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Cheng_Yu_A@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Ms Candy Teo Siok Hoon</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P4 Humility</p>
-</td>
-<td rowspan="1" colspan="8">
-<p><em>Motivation ignites passion for learning.</em>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>teo_siok_hoon_candy@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Mr Ismail Bin Hashim</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>P4 Humility</p>
-</td>
-<td rowspan="1" colspan="8">
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p>ismail_hashim@moe.edu.sg</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>Primary 5</h4>
 <table style="minWidth: 350px">
 <colgroup>
@@ -1258,7 +1014,7 @@ with peers.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>bai_yang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1566,7 +1322,7 @@ with peers.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>yam_choon_hian_b@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
