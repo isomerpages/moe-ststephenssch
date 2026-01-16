@@ -288,7 +288,7 @@ variant: tiptap
 <p>P1 Joy</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>Every child matters, and every child can learn. I strive to create a safe, inclusive environment where students grow in confidence, character, and capability. </em>
+<p><em>Every child matters, and every child can learn. I strive to create a safe, inclusive environment where students grow in confidence, character, and capability.</em>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -523,7 +523,7 @@ variant: tiptap
 <p>P2 Humility</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>Teaching is... my pursuit of that sense of achievement when I see my students' eyes finally light up in understanding of the lesson taught. </em>
+<p><em>Teaching is... my pursuit of that sense of achievement when I see my students' eyes finally light up in understanding of the lesson taught.</em>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -827,7 +827,7 @@ variant: tiptap
 <p>P3 Humility</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>Every child has a unique spark and the potential to succeed. I believe in empowering our students to become the architects of a better world.</em> 
+<p><em>Every child has a unique spark and the potential to succeed. I believe in empowering our students to become the architects of a better world.</em>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -837,6 +837,219 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Primary 4</h4>
+<table style="minWidth: 350px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="2">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="8">
+<p><strong>My Beliefs About Teaching</strong>
+</p>
+</th>
+<th rowspan="1" colspan="2">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mrs Nicole Venturi</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P4 Courage</p>
+</td>
+<td rowspan="1" colspan="8">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mdm Norhazli Bte Ramli</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P4 Courage</p>
+</td>
+<td rowspan="1" colspan="8">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Ms Nuraini Abdul Samat</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P4 Diligence</p>
+</td>
+<td rowspan="1" colspan="8">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Ms Shanelle Raveena Ramiah</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P4</p>
+<p>Diligence</p>
+</td>
+<td rowspan="1" colspan="8">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mr Jovin Lim Wei Hung</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P4 Empathy</p>
+</td>
+<td rowspan="1" colspan="8">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wong See Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P4 Empathy</p>
+</td>
+<td rowspan="1" colspan="8">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Ms Elaine Khoo May Ying</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P4 Fortitude</p>
+</td>
+<td rowspan="1" colspan="8">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mdm Siti Sarah Binte Supri</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P4 Fortitude</p>
+</td>
+<td rowspan="1" colspan="8">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Ms Leraine Leow</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P4 Gratitude</p>
+</td>
+<td rowspan="1" colspan="8">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mdm Cheng Yu</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P4 Gratitude</p>
+</td>
+<td rowspan="1" colspan="8">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Candy Teo Siok Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P4 Humility</p>
+</td>
+<td rowspan="1" colspan="8">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ismail Bin Hashim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P4 Humility</p>
+</td>
+<td rowspan="1" colspan="8">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Primary 5</h4>
 <table style="minWidth: 350px">
 <colgroup>
@@ -1338,7 +1551,7 @@ variant: tiptap
 <p>P6 Humility</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>I'm teaching students about life. My subject is merely a vessel for accomplishing this mission. </em>
+<p><em>I'm teaching students about life. My subject is merely a vessel for accomplishing this mission.</em>
 </p>
 </td>
 <td rowspan="1" colspan="2">
