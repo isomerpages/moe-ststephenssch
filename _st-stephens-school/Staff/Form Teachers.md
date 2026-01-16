@@ -64,7 +64,8 @@ variant: tiptap
 <p>P1 Courage</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p><em>Teaching nutures students' capacity to seek knowledge, think critically, and act purposefully, preparing them for lifelong learning and meaningful contribution to society.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>salma_taib_ali@moe.edu.sg</p>
@@ -100,7 +101,8 @@ variant: tiptap
 <p>P1 Diligence</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p><em>My classroom is a garden where I also grow alongside the students.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>norzahidah_juhari@moe.edu.sg</p>
@@ -192,7 +194,8 @@ variant: tiptap
 <p>P1 Gratitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p><em>I believe learning happens best when students feel safe, challenged and valued. As a teacher, I aim to make that a reality.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>victhorria_paul_vincent@moe.edu.sg</p>
@@ -254,7 +257,8 @@ variant: tiptap
 <p>P1 Integrity</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p><em>Every student is special, they learn at their own pace. I strongly support the power of "yet"</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>hui_honey_a@moe.edu.sg</p>
@@ -284,7 +288,8 @@ variant: tiptap
 <p>P1 Joy</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p><em>Every child matters, and every child can learn. I strive to create a safe, inclusive environment where students grow in confidence, character, and capability. </em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>siti_nureisyah_noor_azman@moe.edu.sg</p>
@@ -351,7 +356,8 @@ variant: tiptap
 <p>P2 Courage</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p><em>My philosophy about teaching is to facilitate lessons which discover God in his gifts of creation and in his masterstroke of creation so as to become life-long learners and good stewards of His creation.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>treasa_walter@moe.edu.sg</p>
@@ -442,7 +448,8 @@ variant: tiptap
 <p>P2 Fortitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p><em>I believe teaching is about nurturing children to be kind, respectful, and compassionate individuals who also have the confidence and initiative to take ownership of their learning and actions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Sujatha_Letchumy_Sundram_A@moe.edu.sg</p>
@@ -516,7 +523,8 @@ variant: tiptap
 <p>P2 Humility</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p><em>Teaching is... my pursuit of that sense of achievement when I see my students' eyes finally light up in understanding of the lesson taught. </em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>sim_wei_harn_jasmin@moe.edu.sg</p>
@@ -710,7 +718,8 @@ variant: tiptap
 <p>P3 Empathy</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p><em>I strive to create a calm, focused space where every child’s ideas are valued and we grow together. I am committed to delivering impactful lessons that bridge the classroom to the real world.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>farzanah_abdul_samad@moe.edu.sg</p>
@@ -724,7 +733,8 @@ variant: tiptap
 <p>P3 Empathy</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p><em>I believe in building strong teacher–student relationships with care, and supporting students’ growth with patience through consistent and purposeful daily practices.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>moorthy_vembarasi_a@moe.edu.sg</p>
@@ -785,7 +795,8 @@ variant: tiptap
 <p>P3 Gratitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p><em>No student should be left behind. With patience and reflection, every child blooms in their own time.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>siti_sarah_supri@moe.edu.sg</p>
@@ -816,7 +827,8 @@ variant: tiptap
 <p>P3 Humility</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p><em>Every child has a unique spark and the potential to succeed. I believe in empowering our students to become the architects of a better world.</em> 
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>jacinta_mary_de_almeida@moe.edu.sg</p>
@@ -1011,6 +1023,10 @@ variant: tiptap
 <p>P5 Gratitude</p>
 </td>
 <td rowspan="1" colspan="8">
+<p><em>I believe in building relationships with care and accompanying growth with patience,through simple daily actions that ensure every child is seen,respected,and supported.</em>
+</p>
+<p><em>我相信用关爱建立关系，用耐心陪伴成长，通过日常而简单的行动，让每个孩子被看见、被尊重，并获得支持。</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
@@ -1042,7 +1058,8 @@ variant: tiptap
 <p>P5 Humility</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p><em>My philosophy about teaching is to Instill values, respecting one another and nurturing the children in a positive learning environment.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>ong_siew_hoon@moe.edu.sg</p>
@@ -1103,7 +1120,8 @@ variant: tiptap
 <p>P5 Joy</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p><em>Helping students develop their language skills, self-confidence, and cultural identity in an enjoyable environment.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>liu_lian_yin_b@moe.edu.sg</p>
@@ -1199,7 +1217,8 @@ variant: tiptap
 <p>P6 Diligence</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p><em>I teach with the belief that knowledge carries responsibility and growth begins with character.</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>asmadi_mohamad@moe.edu.sg</p>
@@ -1319,7 +1338,8 @@ variant: tiptap
 <p>P6 Humility</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p><em>I'm teaching students about life. My subject is merely a vessel for accomplishing this mission. </em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>yam_choon_hian_b@moe.edu.sg</p>
