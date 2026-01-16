@@ -180,8 +180,9 @@ variant: tiptap
 <br>Mr Sheikh Alauddin Abdul Aleem</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Every child is unique, can and wants to learn. Take the time to understand the child's needs and help him. It is important to build the child's confidence and enhance his self-esteem.Positive relationship&nbsp; is the fundamental block in the Core Theory of Success. Celebrate all types of successes no matter how small. (FSC)</em>
+<p><em>A child’s education is shaped not only by what we teach, but by the values, care, and example through which we touch hearts every day</em>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
