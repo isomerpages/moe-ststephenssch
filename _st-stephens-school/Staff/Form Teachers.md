@@ -877,10 +877,17 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p>P4 Courage</p>
 </td>
-<td rowspan="1" colspan="8">
+<td rowspan="1" colspan="1">
+<p>To teach is to guide, not just to explain,</p>
+</td>
+<td rowspan="1" colspan="7">
 <p></p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nicole_tham@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_tham@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -891,10 +898,20 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p>P4 Courage</p>
 </td>
-<td rowspan="1" colspan="8">
+<td rowspan="1" colspan="1">
+<p>Teaching the young, we as teachers we nuture the young just like taking
+care of a plant, we need to water them everyday, give the plants enough
+water, sunlight and nutrients so that they can grow well, healthy and strong.
+Equip them with the necessary skills for survival.</p>
+</td>
+<td rowspan="1" colspan="7">
 <p></p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p><a href="mailto:norhazli_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norhazli_ramli@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -903,12 +920,19 @@ variant: tiptap
 <p>Ms Nuraini Abdul Samat</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>P4 Diligence</p>
+<p>P4 Courage</p>
 </td>
-<td rowspan="1" colspan="8">
+<td rowspan="1" colspan="1">
+<p>Teaching is heartwork. It should not only be seen, but deeply felt.</p>
+</td>
+<td rowspan="1" colspan="7">
 <p></p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nuraini_abdul_samat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuraini_abdul_samat@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -920,10 +944,19 @@ variant: tiptap
 <p>P4</p>
 <p>Diligence</p>
 </td>
-<td rowspan="1" colspan="8">
+<td rowspan="1" colspan="1">
+<p>Teaching is like gardening—each student is beautiful and unique, with
+their own backgrounds and needs. They require personalised care and support
+to help them grow, flourish, and reach their full potential.</p>
+</td>
+<td rowspan="1" colspan="7">
 <p></p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Shanelle_Raveena_Ramiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Shanelle_Raveena_Ramiah@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -932,12 +965,20 @@ variant: tiptap
 <p>Mr Jovin Lim Wei Hung</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>P4 Empathy</p>
+<p>P4</p>
+<p>Diligence</p>
 </td>
-<td rowspan="1" colspan="8">
+<td rowspan="1" colspan="1">
+<p>The essence of education, is to awaken the diversity of life.</p>
+</td>
+<td rowspan="1" colspan="7">
 <p></p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_wei_hung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wei_hung@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -952,9 +993,17 @@ variant: tiptap
 <p>P4 Empathy</p>
 </td>
 <td rowspan="1" colspan="8">
+<p>Every child wants to learn and is able to learn. I want to motivate and
+empower students do their best in their endeavours. I work towards helping
+students develop skills to learn independently and to work collaboratively
+with peers.</p>
 <p></p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_see_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_see_ting@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -963,26 +1012,88 @@ variant: tiptap
 <p>Ms Elaine Khoo May Ying</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>P4 Fortitude</p>
+<p>P4 Empathy</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p>Be ready to own your learning. Be consistent and persistent to fight through
+challenges. They will bring you joy, progress and success in due time.</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Khoo_may_ying_elaine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Khoo_may_ying_elaine@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Mdm Siti Sarah Binte Supri</p>
+<td rowspan="1" colspan="1">
+<p>Mrs Geraldine Pereira</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P4 Fortitude</p>
 </td>
-<td rowspan="1" colspan="8">
+<td rowspan="1" colspan="1">
+<p>Teachers have a moral responsibility to ensure equity, inclusivity, and
+access to quality education, the greatest enabler in a child’s life. Education
+empowers holistic growth—academic, social, and emotional—shaping resilient,
+thoughtful, and contributing citizens.</p>
+</td>
+<td rowspan="1" colspan="7">
 <p></p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p><a href="mailto:geraldine_rita_pereira@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine_rita_pereira@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Yeo Shu Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 Fortitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yeo_Shu_Wen@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -993,10 +1104,17 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p>P4 Gratitude</p>
 </td>
-<td rowspan="1" colspan="8">
+<td rowspan="1" colspan="1">
+<p>It takes a village to bring up a child.</p>
+</td>
+<td rowspan="1" colspan="7">
 <p></p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leraine_leow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leraine_leow@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -1008,9 +1126,13 @@ variant: tiptap
 <p>P4 Gratitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p>Planting the seeds of curiosity, harvesting the self-driven learners.</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Cheng_Yu_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Cheng_Yu_A@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -1024,10 +1146,17 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p>P4 Humility</p>
 </td>
-<td rowspan="1" colspan="8">
+<td rowspan="1" colspan="1">
+<p>Motivation ignites passion for learning.</p>
+</td>
+<td rowspan="1" colspan="7">
 <p></p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_siok_hoon_candy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_siok_hoon_candy@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -1042,9 +1171,14 @@ variant: tiptap
 <p>P4 Humility</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p>I believe every child can learn when teaching is engaging, nurturing curiosity,
+confidence, and strong values.</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ismail_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ismail_hashim@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
