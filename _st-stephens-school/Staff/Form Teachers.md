@@ -434,7 +434,8 @@ variant: tiptap
 <p>P2 Fortitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p>I believe teaching is about nurturing students academically, morally,
+emotionally. I believe every child can learn with proper guidance and encouragement.</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Ranjini_Sinivassan@moe.edu.sg</p>
@@ -1001,7 +1002,8 @@ variant: tiptap
 <p>P4 Fortitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p><em>To teach is to learn twice over. — Joseph Joubert</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Yeo_Shu_Wen@moe.edu.sg</p>
