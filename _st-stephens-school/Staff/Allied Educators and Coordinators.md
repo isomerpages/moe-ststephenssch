@@ -22,18 +22,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Ann Tan Chee Kiang (FTSC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sim_chee_kiang_ann@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms M. Gowrie Juliana</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>muniandy_gowrie_juliana@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Ann Tan Chee Kiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sim_chee_kiang_ann@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
