@@ -34,11 +34,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Operations Manager</strong>
 <br>Mr Nicholli Ee</p>
-<p>Mr Addrick Sim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <p>nicholli_ee@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Addrick Sim</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>sim_choon_huat_addrick@schools.gov.sg</p>
 </td>
 </tr>
@@ -46,13 +52,25 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Admin Staff</strong>
 <br>Ms Nirosshini D/O Tamothiran</p>
-<p>Ms Nurul Hidayah Bte Mohamed Yatım</p>
-<p>Mdm Joanne Lau</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <p>nirosshini_tamothiran@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nurul Hidayah Bte Mohamed Yatım</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>nurul_hidayah_mohd_yatim@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Joanne Lau</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>lau_swee_kiet@schools.gov.sg</p>
 </td>
 </tr>
