@@ -30,22 +30,6 @@ variant: tiptap
 <br>tan_yong_seng@schools.gov.sg</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Operations Manager</strong>
@@ -58,22 +42,6 @@ variant: tiptap
 <p>sim_choon_huat_addrick@schools.gov.sg</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Admin Staff</strong>
@@ -82,10 +50,10 @@ variant: tiptap
 <p>Mdm Joanne Lau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>nirosshini_tamothiran@schools.gov.sg
-<br>nurul_hidayah_mohd_yatim@schools.gov.sg
-<br>lau_swee_kiet@schools.gov.sg</p>
+<p></p>
+<p>nirosshini_tamothiran@schools.gov.sg</p>
+<p>nurul_hidayah_mohd_yatim@schools.gov.sg</p>
+<p>lau_swee_kiet@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -107,8 +75,7 @@ variant: tiptap
 <br>Ms Letchumi Kalanidi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p>letchumi_kalanidi_a@schools.gov.sg</p>
+<p>Letchumi_Kalanidi_A@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
