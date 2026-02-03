@@ -105,7 +105,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>norzahidah_juhari@moe.edu.sg</p>
+<p>norzahidah_juhari_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -453,7 +453,7 @@ emotionally. I believe every child can learn with proper guidance and encouragem
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Sujatha_Letchumy_Sundram_A@moe.edu.sg</p>
+<p>Sujatha_Letchumy_Sundram_B@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -528,7 +528,7 @@ emotionally. I believe every child can learn with proper guidance and encouragem
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>sim_wei_harn_jasmin@moe.edu.sg</p>
+<p>sim_wei_harn_jasmine@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1560,7 +1560,7 @@ emotionally. I believe every child can learn with proper guidance and encouragem
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>sandosham_darren_michael@moe.edu.sg</p>
+<p>sandosham_darren_micheal@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
