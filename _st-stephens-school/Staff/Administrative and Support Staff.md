@@ -27,9 +27,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>tan_yong_seng@schools.gov.sg
-<br>
-</p>
+<br>tan_yong_seng@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -82,20 +80,12 @@ variant: tiptap
 <br>Ms Nirosshini D/O Tamothiran</p>
 <p>Ms Nurul Hidayah Bte Mohamed Yatım</p>
 <p>Mdm Joanne Lau</p>
-<p></p>
-<p></p>
-<p>
-<br>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
 <br>nirosshini_tamothiran@schools.gov.sg
 <br>nurul_hidayah_mohd_yatim@schools.gov.sg
-<br>lau_swee_kiet@schools.gov.sg
-<br>
-</p>
+<br>lau_swee_kiet@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -105,10 +95,7 @@ variant: tiptap
 <br>Mr Yusoff
 <br>Mdm Sukesi
 <br>Mdm Revathi
-<br>Ms Anne Phua
-<br>
-<br>
-</p>
+<br>Ms Anne Phua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -118,10 +105,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>ICT Manager</strong>
 <br>Ms Letchumi Kalanidi</p>
-<p>
-<br>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -132,10 +115,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Desktop Engineers (DE)</strong>
 <br>Mr Mohd Riduan Bin Ismail
-<br>Mr Muhammad Farhan Bin Md Nor
-<br>
-<br>
-</p>
+<br>Mr Muhammad Farhan Bin Md Nor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
