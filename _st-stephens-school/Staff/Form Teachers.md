@@ -52,7 +52,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>we_antai@moe.edu.sg</p>
+<p>wu_antai@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
