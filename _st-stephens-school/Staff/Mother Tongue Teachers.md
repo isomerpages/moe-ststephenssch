@@ -158,6 +158,14 @@ variant: tiptap
 <p>hanifa_a@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Victhorria Paul Vincent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>victhorria_paul_vincent@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Tamil Language</h4>
@@ -173,6 +181,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>jayapal_hema@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ranjini Sinivassan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ranjini_sinivassan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Moorthy Vembarasi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>moorthy_vembarasi_a@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
