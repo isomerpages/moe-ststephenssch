@@ -82,7 +82,7 @@ variant: tiptap
 <br>Ms Nirosshini D/O Tamothiran</p>
 <p>Ms Nurul Hidayah Bte Mohamed Yatım</p>
 <p>Mdm Joanne Lau</p>
-<p>Ms Elizabeth Abraham</p>
+<p></p>
 <p></p>
 <p>
 <br>
@@ -94,7 +94,8 @@ variant: tiptap
 <br>nirosshini_tamothiran@schools.gov.sg
 <br>nurul_hidayah_mohd_yatim@schools.gov.sg
 <br>lau_swee_kiet@schools.gov.sg
-<br>elizabeth_abraham@schools.gov.sg</p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
