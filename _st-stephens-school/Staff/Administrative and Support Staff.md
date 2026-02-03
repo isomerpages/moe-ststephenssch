@@ -75,6 +75,7 @@ variant: tiptap
 <br>Ms Letchumi Kalanidi</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>Letchumi_Kalanidi_A@schools.gov.sg</p>
 </td>
 </tr>
