@@ -52,7 +52,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>we_antai@moe.edu.sg</p>
+<p>wu_antai@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>norzahidah_juhari@moe.edu.sg</p>
+<p>norzahidah_juhari_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -434,7 +434,8 @@ variant: tiptap
 <p>P2 Fortitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p>I believe teaching is about nurturing students academically, morally,
+emotionally. I believe every child can learn with proper guidance and encouragement.</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Ranjini_Sinivassan@moe.edu.sg</p>
@@ -452,7 +453,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Sujatha_Letchumy_Sundram_A@moe.edu.sg</p>
+<p>Sujatha_Letchumy_Sundram_B@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -527,7 +528,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>sim_wei_harn_jasmin@moe.edu.sg</p>
+<p>sim_wei_harn_jasmine@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1001,7 +1002,8 @@ variant: tiptap
 <p>P4 Fortitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p></p>
+<p><em>To teach is to learn twice over. — Joseph Joubert</em>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Yeo_Shu_Wen@moe.edu.sg</p>
@@ -1558,7 +1560,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>sandosham_darren_michael@moe.edu.sg</p>
+<p>sandosham_darren_micheal@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

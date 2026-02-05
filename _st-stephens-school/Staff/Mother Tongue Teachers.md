@@ -23,6 +23,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Bai Yang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>bai_yang@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Brandon Yip</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,6 +47,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Cheng Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheng_Yu_A@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Chew Meng Lee Christin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -47,10 +63,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Chua Li Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua_Li_Qi_A@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Ho Lui Soon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ho_lui_soon@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Liu Lian Yin&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>liu_lian_yin_b@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -136,6 +168,14 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Asmadi Bin Mohamad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>asmadi_mohamad@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Norhazli Bte Ramli</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -158,6 +198,22 @@ variant: tiptap
 <p>hanifa_a@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Victhorria Paul Vincent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>victhorria_paul_vincent@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yusyinda Mohammed Yusof</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yusyinda_Mohammed_Yusof_A@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Tamil Language</h4>
@@ -173,6 +229,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>jayapal_hema@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ranjini Sinivassan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ranjini_sinivassan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Moorthy Vembarasi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>moorthy_vembarasi_a@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
