@@ -81,20 +81,18 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 <p><strong>At St. Stephen’s School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2026 Sexuality Education heading with MOE logo" src="/images/2026_Sexuality_Edun_Lessons_in_CCE.gif">
+</div>
+<h4><strong>Primary 5</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_18_151344.png">
 </div>
 <p></p>
-<p></p>
-<p><strong>2026 Sexuality Education Lessons in CCE</strong>
-</p>
-<p><strong>Primary 6</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2026 Sexuality Education heading with MOE logo" src="/images/2026_Sexuality_Edun_Lessons_in_CCE.gif">
+</div>
+<h4><strong>Primary 6</strong></h4>
 <p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 100px">
@@ -149,6 +147,9 @@ healthy friendships with their circles of friends.</p>
 <td rowspan="1" colspan="1">
 <p>Are We More than Friends?</p>
 <p>Lesson 2</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_18_151612.png">
+</div>
 <p>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -165,9 +166,7 @@ and learn to behave maturely towards each other.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_18_151612.png">
-</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
