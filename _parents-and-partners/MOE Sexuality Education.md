@@ -85,10 +85,93 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 <img style="width: 100%" height="auto" width="100%" alt="2026 Sexuality Education heading with MOE logo" src="/images/2026_Sexuality_Edun_Lessons_in_CCE.gif">
 </div>
 <h4><strong>Primary 5</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_18_151344.png">
-</div>
-<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCE(FTGP) THEME</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>LESSON TITLE / DURATION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson OVERVIEW</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>TIME PERIOD</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Growing Years</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Changes in Me</p>
+<p>(60 min)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson focuses on helping students identify the emotions and stress
+caused by physical changes during puberty. Students will learn to describe
+the healthy ways to manage their negative feelings during this time. They
+will also learn to recognise that one’s identity need not be negatively
+affected, even when one’s body is experiencing changes due to puberty.</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3/4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Did You Know?</p>
+<p>(60 min)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson focuses on helping students know what pornography is and how
+it can affect themselves and others. Students will learn about the dangers
+of being exposed to sexually explicit materials and reject the viewing
+and/or reading of pornographic materials. They will learn to evaluate their
+own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
+</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3/4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Keeping Myself Safe</p>
+<p>(60 min)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In this lesson, students will learn about sexual abuse, how it can happen
+during online and offline interactions and the impact of such abuse on
+victims. They also learn how to take precautionary measures to be safe
+and how to seek help for themselves and their friends.</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3/4</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2026 Sexuality Education heading with MOE logo" src="/images/2026_Sexuality_Edun_Lessons_in_CCE.gif">
 </div>
@@ -147,9 +230,6 @@ healthy friendships with their circles of friends.</p>
 <td rowspan="1" colspan="1">
 <p>Are We More than Friends?</p>
 <p>Lesson 2</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_18_151612.png">
-</div>
 <p>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
