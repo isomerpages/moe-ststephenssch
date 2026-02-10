@@ -89,16 +89,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ICT Manager</strong>
-<br>Ms Letchumi Kalanidi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p>Letchumi_Kalanidi_A@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Desktop Engineers (DE)</strong>
 <br>Mr Mohd Riduan Bin Ismail
 <br>Mr Muhammad Farhan Bin Md Nor</p>
