@@ -91,9 +91,9 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 </div>
 <p></p>
 <p></p>
-<p><strong>                                                         2026 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
-<p><strong>                                                                                          Primary 6</strong>
+<p><strong>Primary 6</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
