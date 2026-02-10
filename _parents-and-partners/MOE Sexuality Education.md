@@ -246,7 +246,8 @@ and learn to behave maturely towards each other.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
+<p><strong>Updated: November 2025</strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
