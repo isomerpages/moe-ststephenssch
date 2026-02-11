@@ -45,6 +45,7 @@ variant: tiptap
 <br>Mr Heng Tow Yang</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><em>To teach is a privilege to make that difference to lives and futures.&nbsp; "One child, one teacher, one book, one pen can change the world." ~ Malala Yousafzai</em>
 </p>
 </td>
@@ -59,6 +60,7 @@ variant: tiptap
 <br>Mr James Chew</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><em>A great teacher shows genuine care and teaches from the heart.</em>
 </p>
 </td>
@@ -94,6 +96,7 @@ variant: tiptap
 <br>Mrs Charlene Siew</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><em>One child, one teacher, one book, and one pen can change the world. - Malala Yousafzai</em>
 </p>
 </td>
@@ -108,6 +111,7 @@ variant: tiptap
 <br>Mr Brandon Tay Lian Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><em>Every child can learn.</em>
 </p>
 </td>
@@ -122,6 +126,7 @@ variant: tiptap
 <br>Ms Teo Lian Peng, Evelyn</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><em>Every child is a curious learner at heart, and it is my privilege to nurture that curiosity with patience, creativity, and unwavering encouragement.</em>
 </p>
 </td>
@@ -136,6 +141,7 @@ variant: tiptap
 <br>Mdm Ouw Li Shan</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><em>Do my best, and God will do the rest. <br>Every child can learn and will learn when he wants to.</em>
 </p>
 </td>
@@ -150,6 +156,8 @@ variant: tiptap
 <br>Mr Royston Low Kai Ming</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <p><em>Teaching is about instilling values and skills that allow students to navigate the world with reason, creativity, and responsibility; to be the change agent for a better Age.</em>
 </p>
 </td>
@@ -166,6 +174,7 @@ variant: tiptap
 <br>Mr Jansher Khan</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><em>Knowledge does not come, but you have to go for it. <br>Indeed the cure for ignorance, is good education.</em>
 </p>
 </td>
@@ -180,6 +189,7 @@ variant: tiptap
 <br>Mr Sheikh Alauddin Abdul Aleem</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><em>A child’s education is shaped not only by what we teach, but by the values, care, and example through which we touch hearts every day</em>
 </p>
 <p></p>
@@ -195,6 +205,7 @@ variant: tiptap
 <br>Mrs Tan Chor Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><em>The Best is Yet to be</em>
 </p>
 </td>
@@ -209,54 +220,44 @@ variant: tiptap
 <br>Ms Deepa Nanwani Singh</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <p><em>Intelligence plus character, that is the goal of true education. - Martin Luther King Jr</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>deepa_parkash_nanwani@moe.edu.sg</p>
+<br>
+</p>
+<p>deepa_parkash_nanwani@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4>Subject Head/ Level Head</h4>
-<table style="minWidth: 100px">
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Level Head / English Language</strong> 
 <br>Mdm Nicole Anne Tan</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <p><em>Teaching involves values inculcation as well as imparting knowledge</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>tan_nicole_anne@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
+<p></p>
+<p>tan_nicole_anne@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -266,13 +267,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>herdawati_suleiman@moe.edu.sg</p>
+<p><em>Teaching extends beyond the classroom- it is ongoing, shared journey shaped by experience and collaboration.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p>herdawati_suleiman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -281,15 +281,15 @@ variant: tiptap
 <br>Mdm Yang Yiqun</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <p><em>Teaching students in accordance with their aptitude.（因材施教）</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>yang_yiqun@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
+<p></p>
+<p>yang_yiqun@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -298,32 +298,15 @@ variant: tiptap
 <br>Mdm Murni Masuath</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <p><em>Nurture every student to learn effectively and develop their potential to be happy and successful individuals.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>murni_masuath@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Subject Head / Values In Action (VIA)</strong>
-<br>Mdm Thia Lee Lian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>An effective and reflective educator is someone who is firm and yet approachable. I believe that every pupil can learn, but in their own unique way.</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-<p>thia_lee_lian@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>murni_masuath@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -332,31 +315,15 @@ variant: tiptap
 <br>Mdm Pee May May</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <p><em>Every Child Matters. Every Potential, Extraordinary.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>pee_may_may@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>P4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Belle Taw Ai Hiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Every child can learn.</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>taw_ai_hiang@moe.edu.sg</p>
+<p>pee_may_may@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -365,16 +332,13 @@ variant: tiptap
 <br>Mrs Danielle Hon-Selvanathen</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><em>Growing together to be well-rounded individuals who face life’s challenges with wisdom and compassion, all for the glory of God.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
 <p>hon_wymun_danielle@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -383,15 +347,13 @@ variant: tiptap
 <br>Mr Stephen Tan Aik Kao</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><em>Inspire and grow the potential of every child</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <p>tan_aik_kao_stephen@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -542,6 +504,7 @@ variant: tiptap
 <br>Ms Shakila Vasu</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><em>My belief about teaching is that it is not just about imparting knowledge but about inspiring curiosity, fostering a love for learning, and empowering students to reach their full potential.</em>
 </p>
 </td>
@@ -556,6 +519,7 @@ variant: tiptap
 <br>Mr Charles Timothy D'Cruz (PE)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>Our Lasallian way is to Teach~Touch~Transform</p>
 <p>Learning goes Beyond the Classroom.</p>
 <p>Many of the most Memorable Lessons happen beyond the Academic Realm.</p>
