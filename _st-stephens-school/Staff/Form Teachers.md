@@ -879,7 +879,7 @@ emotionally. I believe every child can learn with proper guidance and encouragem
 <p>P4 Courage</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>To teach is to guide, not just to explain,</em>
+<p><em>I strive to see the face of God in every child, especially in the difficult and ordinary moments. My role is to guide them towards truth, responsibility and integrity, forming not only their minds but their conscience, so they learn to use their gifts in service of others.</em>
 </p>
 </td>
 <td rowspan="1" colspan="2">
