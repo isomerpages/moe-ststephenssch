@@ -12,7 +12,7 @@ variant: markdown
   
 
 #### Media Productions
-[Art, Media &amp; Productions CCA Video](https://youtu.be/Z9IwdFCmHlY)
+[Art &amp; Media Productions CCA Video](https://youtu.be/Z9IwdFCmHlY)
 
 ##### VISION
 
@@ -42,4 +42,4 @@ To develop pupils to be inquisitive, creative and collaborative while developing
 
 | CCA 	| Tr-in-charge 	| Email address of main i/c 	| Day 	| Time 	| Venue 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Robotics, Science &amp; Green Tech | Mr Yeo Quan Kai 	| yeo_quan_kai@moe.edu.sg 	| Tuesday (All members) <br> Friday (Competition Team only)<br><br> 	| 2:15 pm to<br>4.15 pm<br> 	| Computer lab 1 (L2-14)<br>(competition)<br><br>Computer lab 2 (L3-16)<br>(advanced)<br><br>Computer lab 3 (L4-11)<br>(Intermediate)<br><br>Library Resource (L3-13)<br>(Basic) 	| 
+| Robotics, Science &amp; Green Tech | Mr Yeo Quan Kai 	| yeo_quan_kai@moe.edu.sg 	| Tuesday (All members) <br> Friday (Competition Team only)<br><br> 	| 2:15 pm to<br>4.15 pm<br> 	| Computer lab 1 (L2-14)<br>(competition)<br><br>Computer lab 2 (L3-16)<br>(advanced)<br><br>Computer lab 3 (L4-11)<br>(Intermediate)<br><br>Library Resource (L3-13)<br>(Basic) 	|
