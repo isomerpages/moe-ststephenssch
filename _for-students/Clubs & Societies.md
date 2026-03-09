@@ -25,7 +25,7 @@ Enabling all Stephenians to learn creative and digital art, empowering them to b
 
 | CCA 	| Tr-in-charge 	| Email address of main i/c 	| Day 	| Time 	| Venue 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Media Productions 	| Ms June Chong Chia Fong 	|  chong_chia_fong@moe.edu.sg	| Friday 	| 2:15 pm to<br>4.15 pm 	| Learning Hub<br>Level 3 	|
+| Art &amp; Media Productions 	| Ms June Chong Chia Fong 	|  chong_chia_fong@moe.edu.sg	| Friday 	| 2:15 pm to<br>4.15 pm 	| Learning Hub<br>Level 3 	|
 
 #### Robotics, Science &amp; Green Technology (merged CCA)
 [Science &amp; Green Technology CCA Video](https://youtu.be/m9-qTIT0uqA)
@@ -40,4 +40,6 @@ To build a community of inquiring and responsible Robotics, Science &amp; Green 
 
 To develop pupils to be inquisitive, creative and collaborative while developing themselves for mastery in the area of Robotics, Science &amp; Green, equipped with knowledge, skills and attitude to develop the world around them
 
+| CCA 	| Tr-in-charge 	| Email address of main i/c 	| Day 	| Time 	| Venue 	|
+|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
 | Robotics, Science &amp; Green Tech | Mr Yeo Quan Kai 	| yeo_quan_kai@moe.edu.sg 	| Tuesday (All members) <br> Friday (Competition Team only)<br><br> 	| 2:15 pm to<br>4.15 pm<br> 	| Computer lab 1 (L2-14)<br>(competition)<br><br>Computer lab 2 (L3-16)<br>(advanced)<br><br>Computer lab 3 (L4-11)<br>(Intermediate)<br><br>Library Resource (L3-13)<br>(Basic) 	|
