@@ -11,7 +11,7 @@ variant: markdown
   
   
 
-#### Media Productions
+#### Art &amp; Media Productions
 [Art &amp; Media Productions CCA Video](https://youtu.be/Z9IwdFCmHlY)
 
 ##### VISION
