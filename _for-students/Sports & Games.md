@@ -384,48 +384,7 @@ men for others.</p>
 </table>
 <ul>
 <li>
-<p><a href="https://staging.d2cjzrom1e1f8a.amplifyapp.com/sports-and-games/Badminton/overview/" rel="noopener noreferrer nofollow" target="_blank">Badminton</a>
-</p>
-<ul>
-<li>
-<p><a href="https://staging.d2cjzrom1e1f8a.amplifyapp.com/sports-and-games/Badminton/key-activities/" rel="noopener noreferrer nofollow" target="_blank">Key Activities</a>
-</p>
-</li>
-<li>
-<p><a href="https://staging.d2cjzrom1e1f8a.amplifyapp.com/sports-and-games/Cricket/key-activities/" rel="noopener noreferrer nofollow" target="_blank">Key Activities</a>
-</p>
-</li>
-</ul>
-</li>
-<li>
-<p><a href="https://staging.d2cjzrom1e1f8a.amplifyapp.com/sports-and-games/Floorball/overview/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://staging.d2cjzrom1e1f8a.amplifyapp.com/sports-and-games/Floorball/key-activities/" rel="noopener noreferrer nofollow" target="_blank">Key Activities</a>
-</p>
-</li>
-</ul>
-</li>
-<li>
-<p><a href="https://staging.d2cjzrom1e1f8a.amplifyapp.com/sports-and-games/Football/overview/" rel="noopener noreferrer nofollow" target="_blank">Football</a>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://staging.d2cjzrom1e1f8a.amplifyapp.com/sports-and-games/Football/frequency-of-training/" rel="noopener noreferrer nofollow" target="_blank">Frequency of Training</a>
-</p>
-</li>
-</ul>
-</li>
-<li>
-<p><a href="https://staging.d2cjzrom1e1f8a.amplifyapp.com/sports-and-games/Track-and-Field/overview/" rel="noopener noreferrer nofollow" target="_blank">Track and Field</a>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://staging.d2cjzrom1e1f8a.amplifyapp.com/sports-and-games/Track-and-Field/key-activities/" rel="noopener noreferrer nofollow" target="_blank">Key Activities</a>
-</p>
-</li>
-</ul>
+<p></p>
 </li>
 </ul>
 <p></p>
