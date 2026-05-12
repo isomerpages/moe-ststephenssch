@@ -2,6 +2,7 @@ collections:
   lasallian-culture:
     output: true
     order:
+      - De La Salle Award Winners.md
       - Our Lasallian Heritage.md
       - Catholic Programmes.md
       - Lasallian Network.md
