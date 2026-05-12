@@ -1,8 +1,9 @@
 ---
-title: De La Salle Award Winners
+title: De Lasalle Award Winners
 permalink: /de-la-salle-award-winners/
 variant: tiptap
 description: ""
+third_nav_title: Staff
 ---
 <table style="minWidth: 50px">
 <colgroup>
