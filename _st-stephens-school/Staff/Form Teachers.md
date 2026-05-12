@@ -157,17 +157,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mdm Chan Joo Eng</p>
+<p>Mdm Lai Shanni</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P1 Fortitude</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>I believe a teacher is the most powerful of role models.</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>chan_joo_eng@moe.edu.sg</p>
+<p>lai_shanni@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -251,17 +250,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mdm Honey Hui&nbsp;</p>
+<p>Ms Clover Xu Chunxue</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P1 Integrity</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>Every student is special, they learn at their own pace. I strongly support the power of "yet"</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>hui_honey_a@moe.edu.sg</p>
+<p>clover_xu_chunxue@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -712,6 +710,20 @@ emotionally. I believe every child can learn with proper guidance and encouragem
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p>Ms Fifi Ong</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P3 Diligence</p>
+</td>
+<td rowspan="1" colspan="8">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p>ong_fifi@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Ms Farzanah D/O Abdul Samad</p>
 <p></p>
 </td>
@@ -728,17 +740,16 @@ emotionally. I believe every child can learn with proper guidance and encouragem
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Moorthy Vembarasi</p>
+<p>Ms Noor Faizana Binte Sulthanul Ariff</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P3 Empathy</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>I believe in building strong teacher–student relationships with care, and supporting students’ growth with patience through consistent and purposeful daily practices.</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>moorthy_vembarasi_a@moe.edu.sg</p>
+<p>noor_faizana_sulthanul_ariff@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1348,17 +1359,16 @@ emotionally. I believe every child can learn with proper guidance and encouragem
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mdm Liu Lian Yin&nbsp;</p>
+<p>Mdm Sui Yang&nbsp;</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P5 Joy</p>
 </td>
 <td rowspan="1" colspan="8">
-<p><em>Helping students develop their language skills, self-confidence, and cultural identity in an enjoyable environment.</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>liu_lian_yin_b@moe.edu.sg</p>
+<p>siu_yang@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
