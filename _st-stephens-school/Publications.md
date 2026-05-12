@@ -35,9 +35,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/file/d/1jw9gNz8wRpAj70Kmtid0sZPZgdrQTSYP/view?usp=drive_link" rel="noopener nofollow" target="_blank">The Stephenian Annual 2024</a>
 </p>
-<p></p>
-<p>You will require the password sent via PG to view the Stephenian Annual
-2024</p>
 </td>
 </tr>
 </tbody>
