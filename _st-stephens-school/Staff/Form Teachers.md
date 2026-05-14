@@ -1368,7 +1368,7 @@ emotionally. I believe every child can learn with proper guidance and encouragem
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>siu_yang@moe.edu.sg</p>
+<p>sui_yang@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
